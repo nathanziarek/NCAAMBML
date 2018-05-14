@@ -1,0 +1,12 @@
+{
+  "name": "NCAAML",
+  "version": "1.0.0",
+  "description": "Machine learning tool for predicting NCAA College Basketball games.",
+  "main": "index.js",
+  "author": "Nathan Ziarek",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0"
+  }
+}
