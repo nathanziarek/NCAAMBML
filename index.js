@@ -1,10 +1,16 @@
 var request = require('request');
+var Datastore = require('nedb'),
+    db = new Datastore({
+        filename: 'data-games',
+        autoload: true
+    });
+
+
 var startDate = new Date('November 10, 2017');
 var endDate = new Date('November 15, 2017');
 
-getGamesBetweenDates(startDate, endDate, function () {
-    console.log('DONE')
-})
+//getGamesForDate(startDate);
+getGamesBetweenDates(startDate, endDate);
 
 function URLFormatter(date) {
     return 'https://www.si.com/college-basketball/schedule?date=' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate()
@@ -19,19 +25,26 @@ function getGamesForDate(date, cb) {
             return d.replace('college-basketball/game/', '');
         });
         games = Array.from(new Set(games));
-        console.log('...' + games.length + ' games on ' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate())
+        console.log('...' + games.length + ' games on ' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate());
+        saveGames(games, date);
         cb && cb();
-        return games;
     });
 }
 
-function getGamesBetweenDates(start, end, cb) {
+function saveGames(games, date, cb) {
+    games.map((id) => {
+        db.insert({
+            gameId: id,
+            date: date
+        });
+    })
+}
+
+function getGamesBetweenDates(start, end) {
     if (start <= end) {
         getGamesForDate(start, () => {
             start.setDate(start.getDate() + 1)
-            getGamesBetweenDates(start, end, cb);
+            var games = getGamesBetweenDates(start, end);
         });
-    } else {
-        cb && cb();
     }
 }
