@@ -24,7 +24,6 @@ function getGamesForDate(date, cb) {
         var games = gamesRE.map(function (d, i) {
             return d.replace('college-basketball/game/', '');
         });
-        games = Array.from(new Set(games));
         console.log('...' + games.length + ' games on ' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate());
         saveGames(games, date);
         cb && cb();
@@ -33,10 +32,13 @@ function getGamesForDate(date, cb) {
 
 function saveGames(games, date, cb) {
     games.map((id) => {
-        db.insert({
-            gameId: id,
-            date: date
-        });
+        db.find({ gameId: id }, function (err, docs) {
+            if(docs.length == 0) {  db.insert({
+                gameId: id,
+                date: date
+            });}
+          });
+      
     })
 }
 
