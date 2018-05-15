@@ -7,7 +7,7 @@ var Datastore = require('nedb'),
 
 
 var startDate = new Date('November 10, 2017');
-var endDate = new Date('November 10, 2017');
+var endDate = new Date('November 25, 2017');
 
 getGamesBetweenDates(startDate, endDate);
 

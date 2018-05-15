@@ -5,16 +5,17 @@ var Datastore = require('nedb'),
         autoload: true
     });
 
-db.find({
-    $not: {
-        "date": /./
+    function getMissingGameData(){
+        db.find({
+            $not: {
+                "game.city": /.+?/
+            }
+        }).limit(1).exec(function (err, docs) {
+if(docs.length ==1){
+    getGameData(docs.gameId);
+}
+          });
     }
-}, function (err, docs) {
-    console.log(docs);
-    docs.map(function (d) {
-        getGameData(d.gameId)
-    })
-});
 
 function getGameData(id) {
     request('https://stats.api.si.com/v1/ncaab/game_detail?id=' + id + '&league=ncaab&box_score=true', (error, response, body) => {
