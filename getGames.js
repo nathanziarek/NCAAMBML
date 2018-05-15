@@ -3,91 +3,95 @@ var Datastore = require('nedb'),
     db = new Datastore({
         filename: 'data-games',
         autoload: true
+    }),
+    teams = new Datastore({
+        filename: 'data-teams',
+        autoload: true
     });
 
-    function getMissingGameData(){
-        db.find({
-            $not: {
-                "game.city": /.+?/
-            }
-        }).limit(1).exec(function (err, docs) {
-if(docs.length ==1){
-    getGameData(docs.gameId);
+getMissingGameData();
+
+function getMissingGameData() {
+    db.find({
+        $not: {
+            "city": /.+?/
+        }
+    }).limit(1).exec(function (err, docs) {
+        if (docs.length == 1) {
+            getGameData(docs[0].gameId);
+        } else {
+            db.persistence.compactDatafile();
+            teams.persistence.compactDatafile();
+        }
+    });
 }
-          });
+
+function validateJSON(d) {
+    if (d.box_scores.length == 0) {
+        return false
     }
+    if (d.box_scores[0].team_stats.field_goals == null) {
+        return false
+    }
+    return true;
+}
 
 function getGameData(id) {
+    console.log("Getting game data for " + id)
     request('https://stats.api.si.com/v1/ncaab/game_detail?id=' + id + '&league=ncaab&box_score=true', (error, response, body) => {
         var data = JSON.parse(body).data;
-        if (data.teams[0].location.type == 'home') {
-            var home = JSON.parse(body).data.box_scores[0].team_stats;
-            var homeD = data.teams[0];
-            var visitor = JSON.parse(body).data.box_scores[1].team_stats;
-            var visitorD = data.teams[1];
-        } else {
-            var home = JSON.parse(body).data.box_scores[1].team_stats;
-            var homeD = data.teams[1];
-            var visitor = JSON.parse(body).data.box_scores[0].team_stats;
-            var visitorD = data.teams[0];
-        }
-        if (home.field_goals) {
+        if (validateJSON(data)) {
+            for (i = 0; i <= 1; i++) {
+                teamData = data.teams[i];
+                gameData = data.box_scores[i].team_stats
+                teams.insert({
+                    gameId: id,
+                    'date': new Date(data.start.local),
+                    'location-type': teamData.location.type,
+                    'name': teamData.title,
+                    'score': teamData.score,
+                    'conference': teamData.conference && teamData.conference.name || '',
+                    'wins': teamData.record.wins,
+                    'losses': teamData.record.losses,
+                    'fgm': gameData.field_goals.made,
+                    'fga': gameData.field_goals.attempted,
+                    '3pm': gameData.three_point_field_goals.made,
+                    '3pa': gameData.three_point_field_goals.attempted,
+                    'ftm': gameData.free_throws.made,
+                    'fta': gameData.free_throws.attempted,
+                    'oreb': gameData.rebounds.offensive,
+                    'dreb': gameData.rebounds.defensive,
+                    'treb': gameData.rebounds.team,
+                    'ast': gameData.assists,
+                    'blk': gameData.blocked_shots,
+                    'to': gameData.turnovers.total,
+                    'pf': gameData.personal_fouls,
+                    'poss': gameData.field_goals.made + .475 * gameData.field_goals.attempted - gameData.rebounds.offensive + gameData.turnovers.total,
+                });
+            }
+
             db.update({
                 gameId: id
             }, {
                 $set: {
                     'date': new Date(data.start.local),
-                    'game.city': data.venue && data.venue.city || '',
-                    'game.state': data.venue && (data.venue.state && data.venue.state.abbreviation || ''),
-                    'home.name': homeD.title,
-                    'home.score': homeD.score,
-                    'home.conference': homeD.conference && homeD.conference.name || '',
-                    'home.wins': homeD.record.wins,
-                    'home.losses': homeD.record.losses,
-                    'home.fgm': home.field_goals && home.field_goals.made || 0,
-                    'home.fga': home.field_goals && home.field_goals.attempted || 0,
-                    'home.3pm': home.three_point_field_goals && home.three_point_field_goals.made || 0,
-                    'home.3pa': home.three_point_field_goals && home.three_point_field_goals.attempted || 0,
-                    'home.ftm': home.free_throws.made,
-                    'home.fta': home.free_throws.attempted,
-                    'home.oreb': home.rebounds.offensive,
-                    'home.dreb': home.rebounds.defensive,
-                    'home.treb': home.rebounds.team,
-                    'home.ast': home.assists,
-                    'home.blk': home.blocked_shots,
-                    'home.to': home.turnovers.total,
-                    'home.pf': home.personal_fouls,
-                    'home.poss': home.field_goals.made + .475 * home.field_goals.attempted - home.rebounds.offensive + home.turnovers.total,
-                    'visitor.name': visitorD.title,
-                    'visitor.conference': visitorD.conference && visitorD.conference.name || '',
-                    'visitor.wins': visitorD.record.wins,
-                    'visitor.losses': visitorD.record.losses,
-                    'visitor.score': visitorD.score,
-                    'visitor.fgm': visitor.field_goals.made,
-                    'visitor.fga': visitor.field_goals.attempted,
-                    'visitor.3pm': visitor.three_point_field_goals.made,
-                    'visitor.3pa': visitor.three_point_field_goals.attempted,
-                    'visitor.ftm': visitor.free_throws.made,
-                    'visitor.fta': visitor.free_throws.attempted,
-                    'visitor.oreb': visitor.rebounds.offensive,
-                    'visitor.dreb': visitor.rebounds.defensive,
-                    'visitor.treb': visitor.rebounds.team,
-                    'visitor.ast': visitor.assists,
-                    'visitor.blk': visitor.blocked_shots,
-                    'visitor.to': visitor.turnovers.total,
-                    'visitor.pf': visitor.personal_fouls,
-                    'visitor.poss': visitor.field_goals.made + .475 * visitor.field_goals.attempted - visitor.rebounds.offensive + visitor.turnovers.total
-
+                    'city': data.venue && data.venue.city || '',
+                    'state': data.venue && (data.venue.state && data.venue.state.abbreviation || ''),
+                    'teams': [data.teams[0].title, data.teams[1].title]
                 }
             }, {}, function (err, numReplaced) {
-                console.log(numReplaced)
+                getMissingGameData();
             });
-            db.persistence.compactDatafile()
+        } else {
+            db.remove({
+                gameId: id
+            }, {
+                multi: true
+            }, function (err, numRemoved) {
+                getMissingGameData();
+            });
+
         }
     });
-    /*https://stats.api.si.com/v1/ncaab/game_detail?id=1961094&league=ncaab&box_score=true
-data.start.utc,epoch,local
-data.venue/city,state.abbreviation,state.name
-data.box_scores[0,1].timeouts_remaining,minutes,field_goals,free_throws,ejections,three_point_field_goals,points,rebounds,assists,steals,blocked_shots,turnovers,personal_fouls,disqualifications,technical_fouls
-*/
+
 }
