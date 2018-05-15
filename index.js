@@ -1,55 +1,61 @@
-var request = require('request');
 var Datastore = require('nedb'),
-    db = new Datastore({
-        filename: 'data-games',
+    gamesDs = new Datastore({
+        filename: 'db-games',
+        autoload: true
+    }),
+    statsDs = new Datastore({
+        filename: 'db-stats',
         autoload: true
     });
 
+var getGamesPlayed = require('./fn-getGamesPlayed');
+var getGameStats = require('./fn-getGameStats');
+var saveGamesPlayed = require('./fn-saveGamesPlayed');
+var saveGameStats = require('./fn-saveGameStats');
 
-var startDate = new Date('November 10, 2017');
-var endDate = new Date('November 25, 2017');
+/* Settings */
+var startDate = new Date('November 20, 2017');
+var endDate = new Date('December 31, 2017');
+/* ******** */
 
-getGamesBetweenDates(startDate, endDate);
+/* Kick Off the Scraping */
+getGamesPlayedBetween(startDate, endDate, gatherGameStats);
 
-function URLFormatter(date) {
-    return 'https://www.si.com/college-basketball/schedule?date=' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate()
-}
-
-function getGamesForDate(date, cb) {
-    console.log('Getting games for ' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate() + '...')
-    var requestUrl = URLFormatter(startDate);
-    request(requestUrl, function (error, response, body) {
-        var gamesRE = body.match(/college\-basketball\/game\/\d+/gi);
-        var games = gamesRE.map(function (d, i) {
-            return d.replace('college-basketball/game/', '');
-        });
-        console.log('...' + games.length + ' games on ' + date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate());
-        games = Array.from(new Set(games))
-        saveGames(games, date);
-        cb && cb();
-    });
-}
-
-function saveGames(games, date, cb) {
-    games.map((id) => {
-        db.find({
-            gameId: id
-        }, function (err, docs) {
-            if (docs.length == 0) {
-                db.insert({
-                    gameId: id
-                });
+/* Standalone Functions */
+function getGamesPlayedBetween(startDate, endDate, cb) {
+    getGamesPlayed(startDate, (array) => {
+        saveGamesPlayed(array, gamesDs, () => {
+            startDate.setDate(startDate.getDate() + 1);
+            if (startDate <= endDate) {
+                getGamesPlayedBetween(startDate, endDate, cb);
+            } else {
+                cb && cb();
             }
         });
-
     })
 }
 
-function getGamesBetweenDates(start, end) {
-    if (start <= end) {
-        getGamesForDate(start, () => {
-            start.setDate(start.getDate() + 1);
-            var games = getGamesBetweenDates(start, end);
-        });
+function gatherGameStats() {
+    gamesDs.find({
+        $not: {
+            "city": /.+?/
+        }
+    }).limit(1).exec(function (err, docs) {
+        if (docs.length == 1) {
+            getGameStats(docs[0].gameId, transformAndSaveGameStats);
+        } else {
+            gamesDs.persistence.compactDatafile();
+            statsDs.persistence.compactDatafile();
+        }
+    });
+}
+
+function transformAndSaveGameStats(data) {
+    if (data.league) {
+        saveGameStats(data, gamesDs, statsDs, gatherGameStats);
+    } else {
+        gamesDs.remove({
+            gameId: data.id
+        }, {}, gatherGameStats);
     }
 }
