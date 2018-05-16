@@ -2,7 +2,7 @@ var request = require('request');
 var fs = require('fs-extra');
 var md5 = require('md5');
 
-module.exports = function requestAndCache(url, cb) {
+module.exports = function requestAndCache(url, cb, skipOnCache = true) {
     var file = './cache/' + md5(url) + '.json';
 
     fs.pathExists(file, (err, exists) => {
@@ -24,9 +24,13 @@ module.exports = function requestAndCache(url, cb) {
             })
         } else {
             console.log('   ...using cache')
-            fs.readJson(file, (err, obj) => {
-                cb && cb(obj.error, obj.response, obj.body);
-            })
+            if (skipOnCache) {
+                cb && cb(null, null, '');
+            } else {
+                fs.readJson(file, (err, obj) => {
+                    cb && cb(obj.error, obj.response, obj.body);
+                })
+            }
         }
     })
 }
