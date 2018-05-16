@@ -2433,7 +2433,6 @@
 {"gameId":"1683432","_id":"CfazoN1fJ9E1B3Cg","date":{"$$date":1479749400000},"city":"Lahaina","state":"HI","teams":["Oregon Ducks","Georgetown Hoyas"]}
 {"gameId":"1968206","_id":"CflCSqAavhqbnmX5","date":{"$$date":1512262800000},"city":"Macomb","state":"IL","teams":["Western Illinois Leathernecks","Miami (OH) RedHawks"]}
 {"gameId":"1682153","_id":"CgBdo9ISyrU2wfbi","date":{"$$date":1486864800000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","East Carolina Pirates"]}
-{"gameId":"1694428","_id":"CgrxVJ76EaW9AgCO"}
 {"gameId":"1692854","_id":"Ch1gtrHe3BJkTrmp","date":{"$$date":1480797000000},"city":"Fort Wayne","state":"IN","teams":["Fort Wayne Mastodons","Miami (OH) RedHawks"]}
 {"gameId":"1968096","_id":"ChwuTjGN3iS6gPbU","date":{"$$date":1520038800000},"city":"DeKalb","state":"IL","teams":["Northern Illinois Huskies","Ball State Cardinals"]}
 {"gameId":"1692163","_id":"ChzM6URkEtTq61jz","date":{"$$date":1480557600000},"city":"Terre Haute","state":"IN","teams":["Indiana State Sycamores","Northern Illinois Huskies"]}
@@ -2498,7 +2497,6 @@
 {"gameId":"1965169","_id":"D0WPhUToYajFBIMD","date":{"$$date":1516489200000},"city":"Albuquerque","state":"NM","teams":["New Mexico Lobos","San Diego State Aztecs"]}
 {"gameId":"1694159","_id":"D0jb2VtTIUuBeB19","date":{"$$date":1481418000000},"city":"Bakersfield","state":"CA","teams":["Bakersfield Roadrunners","Portland State Vikings"]}
 {"gameId":"1968143","_id":"D1FN9gjsJb7aATf6","date":{"$$date":1510351200000},"city":"Mt. Pleasant","state":"MI","teams":["Central Michigan Chippewas","Siena Heights Saints"]}
-{"gameId":"1690530","_id":"D1JXFIjzRz72jGTs"}
 {"gameId":"1682104","_id":"D1ZkapiS94pTrf1c","date":{"$$date":1484179200000},"city":"Greenville","state":"NC","teams":["East Carolina Pirates","Houston Cougars"]}
 {"gameId":"1972247","_id":"D246k5snI0Elvlxg","date":{"$$date":1515891600000},"city":"Riverdale","state":"NY","teams":["Manhattan Jaspers","Siena Saints"]}
 {"gameId":"1964014","_id":"D2qIP0z97oOcOLLf","date":{"$$date":1519866000000},"city":"Washington","state":"DC","teams":["George Washington Colonials","Fordham Rams"]}
@@ -3350,7 +3348,6 @@
 {"gameId":"1964136","_id":"HaQT4qcUmz630RlP","date":{"$$date":1513980000000},"city":"Amherst","state":"MA","teams":["Massachusetts Minutemen","Maine Black Bears"]}
 {"gameId":"1692070","_id":"HaTnjndCqHfAlcS0","date":{"$$date":1484355600000},"city":"Oakland","state":"MI","teams":["Oakland Golden Grizzlies","Detroit Titans"]}
 {"gameId":"1691946","_id":"HbBiDZLLrv5wucb2","date":{"$$date":1479862800000},"city":"Bakersfield","state":"CA","teams":["Bakersfield Roadrunners","Fresno State Bulldogs"]}
-{"gameId":"1691325","_id":"HbSvHvTuIakp6dgv"}
 {"gameId":"1694263","_id":"HbW1gvMUqlWVXXh6","date":{"$$date":1481158800000},"city":"San Antonio","state":"TX","teams":["Incarnate Word Cardinals","Texas Lutheran Bulldogs"]}
 {"gameId":"1981463","_id":"Hc4wxzHnGfyqORRJ","date":{"$$date":1514050200000},"city":"Honolulu","state":"HI","teams":["USC Trojans","Middle Tennessee Blue Raiders"]}
 {"gameId":"1693562","_id":"HcFK3GYmfHOtVivD","date":{"$$date":1480795200000},"city":"Chattanooga","state":"TN","teams":["Chattanooga Mocs","Louisiana-Monroe Warhawks"]}
@@ -3978,7 +3975,6 @@
 {"gameId":"1972497","_id":"KooKCivjR0Xju0XR","date":{"$$date":1519588800000},"city":"Jersey City","state":"NJ","teams":["Saint Peter's Peacocks","Siena Saints"]}
 {"gameId":"1691632","_id":"KpLJmqDAsG9bYNKp","date":{"$$date":1485478800000},"city":"Jacksonville","state":"AL","teams":["Jacksonville State Gamecocks","Eastern Kentucky Colonels"]}
 {"gameId":"1963986","_id":"KpsVJgRNLwA2Pxw1","date":{"$$date":1519261200000},"city":"St. Bonaventure","state":"NY","teams":["St. Bonaventure Bonnies","Duquesne Dukes"]}
-{"gameId":"1694375","_id":"KqidS2JRoeHMb0TM"}
 {"gameId":"1981455","_id":"KrAzNCpGOCIVkQX2","date":{"$$date":1514071800000},"city":"Las Vegas","state":"NV","teams":["Duquesne Dukes","Southern Illinois Salukis"]}
 {"gameId":"1972238","_id":"KrZO64IiY3UoWMw4","date":{"$$date":1512867600000},"city":"Riverdale","state":"NY","teams":["Manhattan Jaspers","Morgan State Bears"]}
 {"gameId":"1968234","_id":"KriBeEiR9w9VXREZ","date":{"$$date":1516150800000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Toledo Rockets"]}
@@ -5292,7 +5288,6 @@
 {"gameId":"1689453","_id":"RcheqKCCIB3HlRi1","date":{"$$date":1480123800000},"city":"Nashville","state":"TN","teams":["Middle Tennessee Blue Raiders","UNCW Seahawks"]}
 {"gameId":"1967188","_id":"Rcl7oxNXdahrZBA2","date":{"$$date":1519956000000},"city":"Tucson","state":"AZ","teams":["Arizona Wildcats","Stanford Cardinal"]}
 {"gameId":"1962244","_id":"Rcum9x35dQlz41od","date":{"$$date":1515891600000},"city":"Norfolk","state":"VA","teams":["Old Dominion Monarchs","Marshall Thundering Herd"]}
-{"gameId":"1694446","_id":"Rd0wEz4haMj2aOuz"}
 {"gameId":"1983442","_id":"Rd3boatkPs1vJaiz","date":{"$$date":1511312400000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","Franciscan University Barons"]}
 {"gameId":"1692569","_id":"RdSJGM3Eu1UuycBP","date":{"$$date":1479344400000},"city":"Santa Barbara","state":"CA","teams":["UC Santa Barbara Gauchos","San Francisco Dons"]}
 {"gameId":"1693088","_id":"RdcNl3kU4Gsmrnz9","date":{"$$date":1484269200000},"city":"Towson","state":"MD","teams":["Towson Tigers","Delaware Fightin' Blue Hens"]}
@@ -8486,380 +8481,378 @@
 {"gameId":"1690043","_id":"iLSOCP6ATLjjYggn","date":{"$$date":1488070800000},"city":"Greeley","state":"CO","teams":["Northern Colorado Bears","North Dakota Fighting Hawks"]}
 {"gameId":"1693178","_id":"iLj6NLZPBBBOL98s","date":{"$$date":1488068100000},"city":"Huntsville","state":"TX","teams":["Sam Houston State Bearkats","Abilene Christian Wildcats"]}
 {"gameId":"1682091","_id":"iLwHZs45YyDgwk3x","date":{"$$date":1483207200000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Houston Cougars"]}
-{"gameId":"1970944","_id":"iN15ER2om53FeM1S"}
-{"gameId":"1973692","_id":"iN6xnhm57cMmBVUh"}
-{"gameId":"1686359","_id":"iNBJ18AGPACZ2JKU"}
-{"gameId":"1693153","_id":"iNICpJHarBn17rPr"}
-{"gameId":"1681786","_id":"iOTaF4WnQkIZ517u"}
-{"gameId":"1972560","_id":"iOjdWUuFVPOlqDJT"}
-{"gameId":"1960959","_id":"iOkMPHG2XFOeEdfV"}
-{"gameId":"1693174","_id":"iOseL08aIiB1O8RX"}
-{"gameId":"1694387","_id":"iPKwX6Lw18mapHsM"}
-{"gameId":"1691343","_id":"iPWnqDoUpLK1trQZ"}
-{"gameId":"1980778","_id":"iPai4JW5FVtTVFUq"}
-{"gameId":"1689396","_id":"iPlvFGPOUvK3L9L5"}
-{"gameId":"1972186","_id":"iPz0wnBJl6fUryfL"}
-{"gameId":"1971344","_id":"iQAb0JQBUqGjmr60"}
-{"gameId":"1687956","_id":"iQCUrGNSmSuXVZSn"}
-{"gameId":"1688615","_id":"iQDJ8yo13hGAni5k"}
-{"gameId":"1733257","_id":"iR3Ha51CHK5F4htc"}
-{"gameId":"1688041","_id":"iRsvQf6in8pP0cfJ"}
-{"gameId":"1687118","_id":"iS12HSkYXz2N16rB"}
-{"gameId":"1961239","_id":"iS6nYs0smAjWFbkK"}
-{"gameId":"1961233","_id":"iSnxiPmvirXmELt6"}
-{"gameId":"1966005","_id":"iTDEyj43GBhuSXSv"}
-{"gameId":"1693726","_id":"iTxhUsqr1yrt4Y4a"}
-{"gameId":"1693703","_id":"iU1n4y3JMWb6PYuQ"}
-{"gameId":"1963854","_id":"iU7dEcbjRNDFxmsL"}
-{"gameId":"1969655","_id":"iUiH5yKApQHgBoXG"}
-{"gameId":"1969890","_id":"iVKxhXBdiv5kEEyt"}
-{"gameId":"1694291","_id":"iWWNL4gK1oKTSs3X"}
-{"gameId":"1949526","_id":"iWjoNES7XoBJl1Zc"}
-{"gameId":"2028385","_id":"iXHZqLHBbOpkQwXn"}
-{"gameId":"1687880","_id":"iXWTxi1zu8lJWBLP"}
-{"gameId":"1944181","_id":"iXWUgAORZlRGUq14"}
-{"gameId":"1690917","_id":"iY9CLxhQczp63Fx9"}
-{"gameId":"1685915","_id":"iYeDhwtTKlFXGe07"}
-{"gameId":"1685218","_id":"iYfL0trwd05JMAsq"}
-{"gameId":"1692284","_id":"iZ8sctI7a7QdzPye"}
-{"gameId":"1961007","_id":"iZAx1g37VEaSAEyF"}
-{"gameId":"1688439","_id":"iZRwZfKLUo2FE0bs"}
-{"gameId":"1685917","_id":"iZTFsfXYbJaquSz0"}
-{"gameId":"1693055","_id":"iZWEKzvJPQl4fJpv"}
-{"gameId":"1968227","_id":"iZiJXE8wG3CbIjbE"}
-{"gameId":"2028434","_id":"iZnrV8o9mVSgxgiG"}
-{"gameId":"1682511","_id":"iajq0JEnNzrwqrRN"}
-{"gameId":"1692875","_id":"ibSuPB0KcaJMDPzs"}
-{"gameId":"1974219","_id":"iblDsamdk6N1d8QE"}
-{"gameId":"1972748","_id":"icp0wtT2G1BQnPXZ"}
-{"gameId":"1694110","_id":"id7q1WYrv5Kh0fmS"}
-{"gameId":"1969186","_id":"idGFtVb4QUGwmtCa"}
-{"gameId":"1688717","_id":"idkePaYWP7GuGlU2"}
-{"gameId":"1694300","_id":"idvPINZKh0NcVksE"}
-{"gameId":"1690533","_id":"ieDhtyLDyE2xteh3"}
-{"gameId":"1968163","_id":"ieWi0k5FhipFDZ1q"}
-{"gameId":"1971319","_id":"ifXdRzwWlsgORGu0"}
-{"gameId":"1691976","_id":"ifvF8O2jgcbgiNlr"}
-{"gameId":"1944144","_id":"igDMeDUPtoQbXsDR"}
-{"gameId":"1968009","_id":"igKdY4Zic1p9YxeQ"}
-{"gameId":"1966025","_id":"igOplfBm16T2fhm0"}
-{"gameId":"1681902","_id":"igthPvKlQZ5jxvKw"}
-{"gameId":"1693451","_id":"ih6O3DBI2y77BUlD"}
-{"gameId":"1692153","_id":"ih8AYojSS6LuAJcK"}
-{"gameId":"1733656","_id":"ihcyZKVA92lF44hk"}
-{"gameId":"1961317","_id":"ii5RyQCXU4oSIdQ6"}
-{"gameId":"1965310","_id":"ii7hFQHZtg0pR5QQ"}
-{"gameId":"1691793","_id":"iiLAaYQmOPwq7pUy"}
-{"gameId":"1682456","_id":"iiMDNuI8xxQHAxQ7"}
-{"gameId":"1944294","_id":"iiZwrhJjkzsQvCjE"}
-{"gameId":"1687837","_id":"iifk3J5DmqneWRHz"}
-{"gameId":"1691319","_id":"ijKebO2afzJ2zWD7"}
-{"gameId":"1969310","_id":"ijQjqMry25vaLVrr"}
-{"gameId":"1692600","_id":"ijfokcCjBdjw4sB9"}
-{"gameId":"1738927","_id":"ijjY8Z03z9Bmt9T4"}
-{"gameId":"1689511","_id":"ijmGh8rlvzcdMDnS"}
-{"gameId":"1688547","_id":"ijteSRzBGGyY6KDB"}
-{"gameId":"1693090","_id":"ik8SVY9I0ZsKj13m"}
-{"gameId":"1693180","_id":"ik9JhZPtTF4ozMik"}
-{"gameId":"1979327","_id":"ikGfGAZ5PgMbr7gy"}
-{"gameId":"1970832","_id":"ikSW41bwgyYnyHfs"}
-{"gameId":"1690580","_id":"ikThgmoOF4Skvwjs"}
-{"gameId":"1689098","_id":"ikgufSFtE95DKTdw"}
-{"gameId":"1971451","_id":"ilVYcAyOZRdJ9ErV"}
-{"gameId":"2028235","_id":"ilpxgXnsPwJr3niN"}
-{"gameId":"1981393","_id":"ilz2Jy9ii2YlSu4W"}
-{"gameId":"1962164","_id":"imitOsCy3gdeql6l"}
-{"gameId":"1681889","_id":"imkz80Ta7affvhqf"}
-{"gameId":"1693987","_id":"inRuKbFd4JvK5Wlm"}
-{"gameId":"1969422","_id":"inb3FuhPMPneYfPy"}
-{"gameId":"1690213","_id":"inhNO8ewEYnCnHKE"}
-{"gameId":"1693947","_id":"innwJH6yYpvKuBsr"}
-{"gameId":"1966805","_id":"io8TXz47elaLvUpw"}
-{"gameId":"1971431","_id":"ioBGVYEcz1wo1tLm"}
-{"gameId":"1973783","_id":"ioEfY0mFDskRC2GR"}
-{"gameId":"1733468","_id":"ioIzjeHQSvcpuqWF"}
-{"gameId":"1970099","_id":"iouYkkEJAk9pn6Yo"}
-{"gameId":"1682658","_id":"ip3QL6kPme1AOXIW"}
-{"gameId":"1965279","_id":"ipYWxOxcblYlI89X"}
-{"gameId":"1732532","_id":"ipeGigltZ90928pT"}
-{"gameId":"1973638","_id":"iqEo1W1jxaylOuO1"}
-{"gameId":"1969607","_id":"iqGSy3IiVOcS05nU"}
-{"gameId":"1689205","_id":"iqM8VfPX0TYNemja"}
-{"gameId":"1692056","_id":"ir7X77t5zFNGTOXw"}
-{"gameId":"1693693","_id":"irOBuj0mJqV2zQ0p"}
-{"gameId":"1689389","_id":"is1g8XP0yDDiWvhE"}
-{"gameId":"1687018","_id":"isUD5DECvaVEYkM9"}
-{"gameId":"1733575","_id":"itNZ6yzpQTjGv8nn"}
-{"gameId":"1690073","_id":"itPK9e3GnXHAvJqC"}
-{"gameId":"1682725","_id":"itXfUfxAtaurNEHe"}
-{"gameId":"1960923","_id":"itYxIdcG0etKxFTV"}
-{"gameId":"1689533","_id":"itrAq0ep43Jay0ea"}
-{"gameId":"1693571","_id":"iuVeINKV8n6mQMeD"}
-{"gameId":"1690836","_id":"iuX9lpoM166Bo27q"}
-{"gameId":"1972655","_id":"ivX0GordQXGSuU5t"}
-{"gameId":"1963594","_id":"ivr4O5lTKjfSYtFk"}
-{"gameId":"1694458","_id":"ivv0MFFoG6JSlCDD"}
-{"gameId":"1690508","_id":"iwLFCyKemnh6Rb8V"}
-{"gameId":"1961992","_id":"ix7j0hbQ2cDLjSXj"}
-{"gameId":"1690523","_id":"ixj3XK0G4aeif0Cp"}
-{"gameId":"1973758","_id":"iyMhZN6wpXaF3VGe"}
-{"gameId":"1690898","_id":"iyiEvfX5HqSJVsMU"}
-{"gameId":"1689982","_id":"iytbsiXBgoTDrLHt"}
-{"gameId":"1965220","_id":"iyut6cHu2zCe99PC"}
-{"gameId":"1733475","_id":"iyvjs4pFqLZioUXJ"}
-{"gameId":"1692018","_id":"izMUu72cFn2Gm0zs"}
-{"gameId":"1690253","_id":"izOWLfw2JwTYgY20"}
-{"gameId":"1967990","_id":"j05w5VxeX8TkhdqO"}
-{"gameId":"1733572","_id":"j0LMSPJ7iaWPLVz6"}
-{"gameId":"1690274","_id":"j1DPM6lLX4vJLsjy"}
-{"gameId":"1692517","_id":"j1IcIHIbPmX7OjRY"}
-{"gameId":"1682454","_id":"j1OqIRPgZ0LpRKCE"}
-{"gameId":"1964889","_id":"j1Zwx8pQM3YxyoSb"}
-{"gameId":"1687877","_id":"j1nWJIRbtADUkxWd"}
-{"gameId":"1689344","_id":"j29qxgMXmpzapzr2"}
-{"gameId":"1686005","_id":"j2MeqgvJBVRg4Wwd"}
-{"gameId":"1970924","_id":"j2N3KPO5V7w7ahOk"}
-{"gameId":"1963687","_id":"j2cPj72hwu8hnbAB"}
-{"gameId":"1974467","_id":"j2lMXPNa8gTd2dn1"}
-{"gameId":"1694325","_id":"j2ug5IHvdROpmStd"}
-{"gameId":"1691394","_id":"j3OjG8m72i06uygn"}
-{"gameId":"1732484","_id":"j3i4D2F8hB5WEUgr"}
-{"gameId":"1971099","_id":"j4Bwac5bPv7soMrd"}
-{"gameId":"1690658","_id":"j4IOdSSizSHFOAhI"}
-{"gameId":"1961235","_id":"j4i5zhQEC2NUlXDK"}
-{"gameId":"1690613","_id":"j4oYKiOW1DWsBU9E"}
-{"gameId":"1972779","_id":"j5KCeYZHmh9vXIW6"}
-{"gameId":"2025446","_id":"j5SWB3SyVQNrR6er"}
-{"gameId":"1693302","_id":"j5V0KoQDsDgYBbdH"}
-{"gameId":"1973831","_id":"j5stVlY62IakyWFX"}
-{"gameId":"1972785","_id":"j60FZZLoncc8L7VW"}
-{"gameId":"1689524","_id":"j613TMhxt1nv6ITB"}
-{"gameId":"1687043","_id":"j6JqaJHyCxEGwEeM"}
-{"gameId":"1694648","_id":"j6KpHnUomz5va56l"}
-{"gameId":"1681801","_id":"j6MbzloeRsqlDZ3U"}
-{"gameId":"1693841","_id":"j6PJH2c6vGnxOf6D"}
-{"gameId":"1962084","_id":"j6sc1l0LnkfWWVfN"}
-{"gameId":"1685406","_id":"j7151y3KCh3KJn9Y"}
-{"gameId":"1738986","_id":"j7arG4teTq8FJs02"}
-{"gameId":"1689459","_id":"j7rS58c0OAnGhrsH"}
-{"gameId":"1963904","_id":"j7sUgGzVg6ZNsco6"}
-{"gameId":"1682629","_id":"j8NHxjVsIp8Md57O"}
-{"gameId":"1966769","_id":"j8V2wDBAaLDFRN46"}
-{"gameId":"1681982","_id":"j8eSvkzl52zsXzrZ"}
-{"gameId":"1693643","_id":"j922DD7yDXO3wsl5"}
-{"gameId":"1974407","_id":"j9GN2tcS2OudfJb3"}
-{"gameId":"1972582","_id":"j9eETYvknryDzBkh"}
-{"gameId":"1686993","_id":"j9eeQ7KR47CrczyA"}
-{"gameId":"1682163","_id":"jAMAhSrh9Cy0CmRm"}
-{"gameId":"1732568","_id":"jAO9weqsqvMFQzHB"}
-{"gameId":"2025511","_id":"jAVUymdcfxEEl2lA"}
-{"gameId":"2024238","_id":"jAbps8bIvbRqs3T0"}
-{"gameId":"1942328","_id":"jBMzQJS6JjMfqzuU"}
-{"gameId":"1966685","_id":"jBQzxwheZgStXRAj"}
-{"gameId":"1972823","_id":"jBY6pABUv1D3E8zQ"}
-{"gameId":"1980693","_id":"jBho97qHWBI4NDIl"}
-{"gameId":"1693570","_id":"jBx9GJZ4kNlu9lB0"}
-{"gameId":"1691406","_id":"jCU3re5v4e43EWxS"}
-{"gameId":"1694125","_id":"jCVZLDY2QgNPMLix"}
-{"gameId":"1961241","_id":"jCbm6wuZe1KY8MmN"}
-{"gameId":"1967789","_id":"jCj6toMptdVmKeYF"}
-{"gameId":"1682671","_id":"jE34pYs2Q6DpaprD"}
-{"gameId":"1972642","_id":"jEEgi0z54pSH4x1d"}
-{"gameId":"1964188","_id":"jEHiLXdf7KzZ7rV9"}
-{"gameId":"1974304","_id":"jEPO4N2M1HJhmE48"}
-{"gameId":"1693467","_id":"jEfXAtVyiFe7XPxm"}
-{"gameId":"1966655","_id":"jEi74y7DgB7My2rx"}
-{"gameId":"1691081","_id":"jFOhsidcPNhUx3GP"}
-{"gameId":"1965189","_id":"jFSZqpcvALupfXIT"}
-{"gameId":"1966149","_id":"jFXMi67qe8w22Jah"}
-{"gameId":"1690742","_id":"jFf5kyn1VQjCXuNj"}
-{"gameId":"1962270","_id":"jFxo1gLXBGxcDPkl"}
-{"gameId":"1688597","_id":"jFzHrmN88YRBSYYp"}
-{"gameId":"1691942","_id":"jGuKhsfAjYtjvbUI"}
-{"gameId":"1967976","_id":"jH0wRTNmf2C93yT0"}
-{"gameId":"1693943","_id":"jH6vSznPxE9aAuPR"}
-{"gameId":"1969254","_id":"jHOVn5LuPXjqUeFi"}
-{"gameId":"1966672","_id":"jHRAFINUHE7fzTsN"}
-{"gameId":"1682806","_id":"jHgclkwHrp9PE78m"}
-{"gameId":"1969171","_id":"jHlkFOGVWNtisp9X"}
-{"gameId":"1972667","_id":"jI0YqN4dwTYXs7UX"}
-{"gameId":"1693057","_id":"jIIadKBpnV0jOvyA"}
-{"gameId":"1693913","_id":"jISVsWRcABMUqLMm"}
-{"gameId":"1693463","_id":"jIzJNpC15BLp5q40"}
-{"gameId":"1692167","_id":"jJ2pGUlQSGbnWqaX"}
-{"gameId":"1685815","_id":"jJ5tc1H67AGYlpH2"}
-{"gameId":"1974394","_id":"jJIyFPyajZgk6ftw"}
-{"gameId":"1974276","_id":"jJKYjHD623fsWtQY"}
-{"gameId":"1733610","_id":"jJSRNezqcv9cg6L3"}
-{"gameId":"1964987","_id":"jJZiFyx8KiiuykJz"}
-{"gameId":"1966083","_id":"jKUfKydruybYalO6"}
-{"gameId":"1685356","_id":"jKV8kvEEh5HjSJOk"}
-{"gameId":"1693502","_id":"jKtB5wAtbKwS6ubR"}
-{"gameId":"1942407","_id":"jKzFOCLPr0LceRDQ"}
-{"gameId":"1694090","_id":"jL8qYu4Gs9N2DqWp"}
-{"gameId":"1685819","_id":"jLUMz1ub7nMqrQk8"}
-{"gameId":"1692486","_id":"jLrdBHzEeBGiIk19"}
-{"gameId":"1974396","_id":"jLvWWlEkQnwhbsMl"}
-{"gameId":"1981392","_id":"jMSfPAfxujDLacsz"}
-{"gameId":"2025442","_id":"jOEJLtCCVsCgNRiu"}
-{"gameId":"1966320","_id":"jOV3rnZ1AJgwr6HZ"}
-{"gameId":"1686178","_id":"jOrmOZewNPmQPhvl"}
-{"gameId":"1693122","_id":"jOw2TxIR9QZBTeFU"}
-{"gameId":"1962256","_id":"jOwlOr1kh3cBm2rn"}
-{"gameId":"1690535","_id":"jP7EtAa1DecqzffZ"}
-{"gameId":"1981448","_id":"jPBnT8yV5PVbHx2B"}
-{"gameId":"1694269","_id":"jPiDQAFIJo54Adrm"}
-{"gameId":"1691119","_id":"jPiqRgd9O2aw1xO1"}
-{"gameId":"1970917","_id":"jPvotJZDwbOprz0d"}
-{"gameId":"1687795","_id":"jQdUZGcDaQCHYvm1"}
-{"gameId":"1968034","_id":"jQtmIJWNAwk9iZCB"}
-{"gameId":"2032295","_id":"jRO4rmeW5xJQIvFD"}
-{"gameId":"1961985","_id":"jRdqbfDVXV0LBOFU"}
-{"gameId":"1690169","_id":"jRiS9cf6nV5RwblW"}
-{"gameId":"1972187","_id":"jRmpLJJmArupmpcr"}
-{"gameId":"1690405","_id":"jS4OjRoZmsuwTPX1"}
-{"gameId":"1974469","_id":"jSPRRckKqxOMpbUn"}
-{"gameId":"1969970","_id":"jSS4fqvmrL86NCJO"}
-{"gameId":"1686026","_id":"jSTNsd2dqUBdkcPs"}
-{"gameId":"1962087","_id":"jSZTvpZCcMMtR0Ce"}
-{"gameId":"1972857","_id":"jSbHA98CpAzhZZY1"}
-{"gameId":"2028462","_id":"jSfmk0w0qUjppPxt"}
-{"gameId":"1969453","_id":"jSvfaT5ZTuIaJkHK"}
-{"gameId":"1690351","_id":"jT63AyXbI2R1MdYa"}
-{"gameId":"1980781","_id":"jTZJuY9Xo66aiILa"}
-{"gameId":"1690906","_id":"jTbcvqpuFdRAf68i"}
-{"gameId":"1973751","_id":"jUORC31mJcuzPFXZ"}
-{"gameId":"1693004","_id":"jUXf6XDy6OXL8adE"}
-{"gameId":"1690697","_id":"jV1emuBX6wAHq11T"}
-{"gameId":"1682177","_id":"jV633DhKdS9SJASD"}
-{"gameId":"1970911","_id":"jVCnGhE8mH3NaDQ0"}
-{"gameId":"1961978","_id":"jVX2YWI8dnnMiIgR"}
-{"gameId":"1682101","_id":"jVsFXGBjz8bVXdEf"}
-{"gameId":"1689946","_id":"jVvufSkAZiPT0ioK"}
-{"gameId":"1943678","_id":"jWbP85alW44v1A3i"}
-{"gameId":"1944312","_id":"jWhfWlIV6kXwxRQA"}
-{"gameId":"1971402","_id":"jWhieQtOaSVWlUCl"}
-{"gameId":"1691711","_id":"jWwA7kL9nmIQaSMl"}
-{"gameId":"1686211","_id":"jXRRviHQJXKemAQK"}
-{"gameId":"1694266","_id":"jXpTY4liSyWUm4t9"}
-{"gameId":"1961086","_id":"jYqJSXdovTwyfAJj"}
-{"gameId":"1971150","_id":"jYqo0CNqFZnEGlKN"}
-{"gameId":"1969127","_id":"jYxoNVGkzbGSuLZD"}
-{"gameId":"1968054","_id":"jZ010aATRh5FjCJB"}
-{"gameId":"1973719","_id":"jZQ2cvEMYRveKRc9"}
-{"gameId":"1693599","_id":"jZTmxXCh1OTQXM2y"}
-{"gameId":"1691305","_id":"jaGDnubOpTj8ug2C"}
-{"gameId":"1966752","_id":"jarEgOCm1AWV10MD"}
-{"gameId":"1973915","_id":"jausfhhjSWKhMZlw"}
-{"gameId":"1943681","_id":"jb3CPlZQdDvgaTH6"}
-{"gameId":"2025513","_id":"jbmV77JNdBJVCUaM"}
-{"gameId":"1969695","_id":"jboLZof8cuvVxY0V"}
-{"gameId":"1687902","_id":"jcDOL3gWdEDuzLAB"}
-{"gameId":"1732862","_id":"jdKTo35dgKRXf1i2"}
-{"gameId":"1973829","_id":"jdeeRvNLZoy15GF6"}
-{"gameId":"1690400","_id":"jdgnO3uXokGnVvft"}
-{"gameId":"1942441","_id":"jeTySOMMDXnd1f00"}
-{"gameId":"1692217","_id":"jess72nTvfuHCi9o"}
-{"gameId":"1973524","_id":"jf4nXNfhSYpmDOLE"}
-{"gameId":"1682185","_id":"jfFMCefreQLfjp5B"}
-{"gameId":"1682874","_id":"jfjqm9QNRjeL49hQ"}
-{"gameId":"1971316","_id":"jfwemJjfwKOpZW7I"}
-{"gameId":"1686006","_id":"jhCPv1C7OyWI0rqc"}
-{"gameId":"1686100","_id":"jhG0JbSqSgcl9zVZ"}
-{"gameId":"1691487","_id":"jhL0m3hRC59OEUBi"}
-{"gameId":"1692200","_id":"ji0wdwytrENFjdOM"}
-{"gameId":"1966068","_id":"jiXqjMEDUBB0j350"}
-{"gameId":"1692071","_id":"jiboIftIzIGiggOz"}
-{"gameId":"2032307","_id":"jieDGHTvk6bxKDRo"}
-{"gameId":"1974296","_id":"jj4qrVQvHGm55tsa"}
-{"gameId":"1969267","_id":"jjRSDpH1IfPC4OyP"}
-{"gameId":"1689957","_id":"jk6NRmPYiY7lMlh7"}
-{"gameId":"1682748","_id":"jl3Q0j6XbBmnHDha"}
-{"gameId":"1981451","_id":"jlFIqqvhqZ3kT9VN"}
-{"gameId":"1688475","_id":"jmWTNmfX7ncSCmB4"}
-{"gameId":"1689329","_id":"jnInP138cqiaY7Ia"}
-{"gameId":"1971202","_id":"jnwxPkDkxXwD376P"}
-{"gameId":"1682580","_id":"jo1xIyLvbzzBY3qk"}
-{"gameId":"1949513","_id":"joEXyjs35FnxNGeV"}
-{"gameId":"1689135","_id":"joOnBxDNxu60WOwU"}
-{"gameId":"1963631","_id":"joUdV8GMHkYkBKmi"}
-{"gameId":"1974353","_id":"joxgC7BYdMOwLexQ"}
-{"gameId":"1972228","_id":"jp1wAd254aDFRYhh"}
-{"gameId":"1966302","_id":"jpFuY4y2Wxf3Xg3H"}
-{"gameId":"1971239","_id":"jq0C3LWarN3wqFPa"}
-{"gameId":"1970332","_id":"js23M27qtZCINfFl"}
-{"gameId":"1974458","_id":"jsgec4IfVGeZX7Lz"}
-{"gameId":"1692040","_id":"jsjnrNg0wTyN0dKk"}
-{"gameId":"1692199","_id":"jskkHnZt9U56s5x2"}
-{"gameId":"1683424","_id":"jsmFyCxfWrZtOxpW"}
-{"gameId":"1693732","_id":"jsq7BKhJhu7U8Ud4"}
-{"gameId":"1733586","_id":"jsyWBLtxwNjR0g8z"}
-{"gameId":"1733622","_id":"jt2dVHnESgRAd5uv"}
-{"gameId":"1971236","_id":"jtFQx9JRPNgzJgUT"}
-{"gameId":"1963513","_id":"jtGleM6VO4XYoTaz"}
-{"gameId":"1965018","_id":"jtcC2j0VgLHKpoM8"}
-{"gameId":"1944243","_id":"jtpnPsuMmZMHdQ9P"}
-{"gameId":"1691127","_id":"jttdzd7BjtAnQezz"}
-{"gameId":"1683434","_id":"juXhc10ziEt3dEuf"}
-{"gameId":"1973483","_id":"jvVwh7zoWohyLeMH"}
-{"gameId":"1687845","_id":"jvvukiOXOfgYAs9w"}
-{"gameId":"1689562","_id":"jwAcz9OqwFva6EK2"}
-{"gameId":"1942307","_id":"jwKvW1mo75qWXKen"}
-{"gameId":"1968016","_id":"jwL7w7us0p50TepS"}
-{"gameId":"1682741","_id":"jx6nTZjF38VJKuNS"}
-{"gameId":"1960963","_id":"jxNObGjgDp2qJheU"}
-{"gameId":"1682167","_id":"jxmAdMYAUAf3aX5U"}
-{"gameId":"1962318","_id":"jxnSiYUzL6S40KVa"}
-{"gameId":"1971267","_id":"jxosON5QK93W3b0G"}
-{"gameId":"1682625","_id":"jxp2w3hJSisBMfgP"}
-{"gameId":"1966761","_id":"jxzB1GxWHD8oMlv2"}
-{"gameId":"1690123","_id":"jy4zocWm1EOo3320"}
-{"gameId":"1971035","_id":"jyIKMaXES0rAbEVG"}
-{"gameId":"1942336","_id":"jyuNz6Q6q3l1YiPO"}
-{"gameId":"1960940","_id":"jzC2zUMulRqMSSHZ"}
-{"gameId":"1686220","_id":"jzrU5ct2FoyClOXT"}
-{"gameId":"1974434","_id":"jzvJGkppczRubNQo"}
-{"gameId":"1972504","_id":"k0BzTS0PzD8rO0T1"}
-{"gameId":"1690061","_id":"k13R1Kw1SEQWFwq0"}
-{"gameId":"1961208","_id":"k1AOnseULs81OE3C"}
-{"gameId":"1688602","_id":"k1AQtkM9hAuEEmrB"}
-{"gameId":"1690650","_id":"k1O9RMEH2yHWL2HE"}
-{"gameId":"1685905","_id":"k1ZJ2nrXvKX6XRpj"}
-{"gameId":"1693240","_id":"k2BrLsYFQm6yE32x"}
-{"gameId":"1964126","_id":"k2szq2gfw1z1Ylzo"}
-{"gameId":"1689500","_id":"k3UlI1sD7gTAL6eg"}
-{"gameId":"1687913","_id":"k3bAyOh0BnKJVzFj"}
-{"gameId":"1693729","_id":"k3rtROoMzxGPazDw"}
-{"gameId":"1967924","_id":"k4M19JQQIbz34tIu"}
-{"gameId":"1732370","_id":"k5DYKbMjYQ0h2jsR"}
-{"gameId":"1682520","_id":"k5QFE9phXgw8KfDP"}
-{"gameId":"1694324","_id":"k6b6iche29n0ELyv"}
-{"gameId":"1692362","_id":"k7NdAdyjeLQbz1V6"}
-{"gameId":"1693086","_id":"k8L7xl7BvrAzLEvB"}
-{"gameId":"1970993","_id":"k8gB1Ea2gG7EcogJ"}
-{"gameId":"1682816","_id":"k8veOfAEA9jI9TG5"}
-{"gameId":"1969246","_id":"k9CzeVIarrP85sXo"}
-{"gameId":"1962249","_id":"k9FHHdlj9C8s0pe5"}
-{"gameId":"1965132","_id":"k9Qu5FmAESZZGHyZ"}
-{"gameId":"1690200","_id":"k9TMN1ttoBJi1NfQ"}
-{"gameId":"1973707","_id":"k9VRlbzGD0SH46tu"}
-{"gameId":"1692842","_id":"kA8M3DxRtPSlMrKl"}
-{"gameId":"1967779","_id":"kAYoyXzJFzNh0E3J"}
-{"gameId":"1693723","_id":"kAp3JyDvn7GYHWLk"}
-{"gameId":"1685886","_id":"kAp3ja0spilHppQD"}
-{"gameId":"1686182","_id":"kB4c0u78w1iAW56m"}
-{"gameId":"1733662","_id":"kBXb0aA6AUlCtFGV"}
-{"gameId":"1681852","_id":"kBd1648S0VJrnjbH"}
-{"gameId":"1694610","_id":"kBrFu0B0Nh2v19B8"}
-{"gameId":"1689294","_id":"kCIfxfFjCt2M2Vfz"}
-{"gameId":"1973791","_id":"kCNJGDa2LTPRpmf6"}
-{"gameId":"1973474","_id":"kCQQsWnjBFgnByLc"}
-{"gameId":"1685788","_id":"kCWmxlmETcP0ZdQL"}
-{"gameId":"1966732","_id":"kCcWeVh7Jaz24FqI"}
-{"gameId":"1942440","_id":"kCnKBSh4oBGRJoKp"}
-{"gameId":"1969303","_id":"kCoPWjonBwTZjBhM"}
-{"gameId":"1690340","_id":"kDUKSkC5DdVvD4wi"}
-{"gameId":"2032319","_id":"kDfxC5slCdQ7VMO7"}
+{"gameId":"1973692","_id":"iN6xnhm57cMmBVUh","date":{"$$date":1517083200000},"city":"San Antonio","state":"TX","teams":["Incarnate Word Cardinals","New Orleans Privateers"]}
+{"gameId":"1686359","_id":"iNBJ18AGPACZ2JKU","date":{"$$date":1480028400000},"city":"Las Vegas","state":"NV","teams":["Vanderbilt Commodores","Butler Bulldogs"]}
+{"gameId":"1693153","_id":"iNICpJHarBn17rPr","date":{"$$date":1485640800000},"city":"Williamsburg","state":"VA","teams":["William & Mary Tribe","UNCW Seahawks"]}
+{"gameId":"1681786","_id":"iOTaF4WnQkIZ517u","date":{"$$date":1483914600000},"city":"West Lafayette","state":"IN","teams":["Purdue Boilermakers","Wisconsin Badgers"]}
+{"gameId":"1972560","_id":"iOjdWUuFVPOlqDJT","date":{"$$date":1519347600000},"city":"Smithfield","state":"RI","teams":["Bryant Bulldogs","Sacred Heart Pioneers"]}
+{"gameId":"1960959","_id":"iOkMPHG2XFOeEdfV","date":{"$$date":1517360400000},"city":"Clemson","state":"SC","teams":["Clemson Tigers","North Carolina Tar Heels"]}
+{"gameId":"1693174","_id":"iOseL08aIiB1O8RX","date":{"$$date":1486688400000},"city":"Conway","state":"AR","teams":["Central Arkansas Bears","Abilene Christian Wildcats"]}
+{"gameId":"1694387","_id":"iPKwX6Lw18mapHsM","date":{"$$date":1488506400000},"city":"Dover","state":"DE","teams":["Delaware State Hornets","Howard Bison"]}
+{"gameId":"1691343","_id":"iPWnqDoUpLK1trQZ","date":{"$$date":1479517200000},"city":"Pittsburgh","state":"PA","teams":["Duquesne Dukes","Canisius Golden Griffins"]}
+{"gameId":"1980778","_id":"iPai4JW5FVtTVFUq","date":{"$$date":1511226000000},"city":"Las Vegas","state":"NV","teams":["Rice Owls","UNLV Runnin' Rebels"]}
+{"gameId":"1689396","_id":"iPlvFGPOUvK3L9L5","date":{"$$date":1488070800000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","UTEP Miners"]}
+{"gameId":"1972186","_id":"iPz0wnBJl6fUryfL","date":{"$$date":1518742800000},"city":"Bridgeport","state":"CT","teams":["Fairfield Stags","Marist Red Foxes"]}
+{"gameId":"1971344","_id":"iQAb0JQBUqGjmr60","date":{"$$date":1511038800000},"city":"Chicago","state":"IL","teams":["UIC Flames","Fort Wayne Mastodons"]}
+{"gameId":"1687956","_id":"iQCUrGNSmSuXVZSn","date":{"$$date":1482370200000},"city":"Milwaukee","state":"WI","teams":["Marquette Golden Eagles","SIUE Cougars"]}
+{"gameId":"1688615","_id":"iQDJ8yo13hGAni5k","date":{"$$date":1480192200000},"city":"Savannah","state":"GA","teams":["Georgia Southern Eagles","Radford Highlanders"]}
+{"gameId":"1733257","_id":"iR3Ha51CHK5F4htc","date":{"$$date":1489026120000},"city":"Norfolk","state":"VA","teams":["Norfolk State Spartans","South Carolina State Bulldogs"]}
+{"gameId":"1688041","_id":"iRsvQf6in8pP0cfJ","date":{"$$date":1480208400000},"city":"Brooklyn","state":"NY","teams":["Richmond Spiders","Boston College Eagles"]}
+{"gameId":"1687118","_id":"iS12HSkYXz2N16rB","date":{"$$date":1487991600000},"city":"Davidson","state":"NC","teams":["Davidson Wildcats","Dayton Flyers"]}
+{"gameId":"1961239","_id":"iS6nYs0smAjWFbkK","date":{"$$date":1512522000000},"city":"Lubbock","state":"TX","teams":["Texas Tech Red Raiders","Nevada Wolf Pack"]}
+{"gameId":"1961233","_id":"iSnxiPmvirXmELt6","date":{"$$date":1516478400000},"city":"Morgantown","state":"WV","teams":["West Virginia Mountaineers","Texas Longhorns"]}
+{"gameId":"1966005","_id":"iTDEyj43GBhuSXSv","date":{"$$date":1519347600000},"city":"DeLand","state":"FL","teams":["Stetson Hatters","FGCU Eagles"]}
+{"gameId":"1693726","_id":"iTxhUsqr1yrt4Y4a","date":{"$$date":1480791600000},"city":"Wilmington","state":"NC","teams":["UNCW Seahawks","Pfeiffer Falcons"]}
+{"gameId":"1693703","_id":"iU1n4y3JMWb6PYuQ","date":{"$$date":1480813200000},"city":"High Point","state":"NC","teams":["High Point Panthers","Drexel Dragons"]}
+{"gameId":"1963854","_id":"iU7dEcbjRNDFxmsL","date":{"$$date":1517083200000},"city":"Fairfax","state":"VA","teams":["George Mason Patriots","VCU Rams"]}
+{"gameId":"1969655","_id":"iUiH5yKApQHgBoXG","date":{"$$date":1510358400000},"city":"Great Falls","state":"MT","teams":["Montana State Bobcats","Omaha Mavericks"]}
+{"gameId":"1969890","_id":"iVKxhXBdiv5kEEyt","date":{"$$date":1511226000000},"city":"Buies Creek","state":"NC","teams":["Campbell Fighting Camels","Johnson & Wales (NC) Wildcats"]}
+{"gameId":"1694291","_id":"iWWNL4gK1oKTSs3X","date":{"$$date":1482193800000},"city":"Huntsville","state":"TX","teams":["Sam Houston State Bearkats","Randall University Saints"]}
+{"gameId":"1949526","_id":"iWjoNES7XoBJl1Zc","date":{"$$date":1518307200000},"city":"Columbus","state":"OH","teams":["Ohio State Buckeyes","Iowa Hawkeyes"]}
+{"gameId":"2028385","_id":"iXHZqLHBbOpkQwXn","date":{"$$date":1520555400000},"city":"Frisco","state":"TX","teams":["Marshall Thundering Herd","UTSA Roadrunners"]}
+{"gameId":"1687880","_id":"iXWTxi1zu8lJWBLP","date":{"$$date":1479000600000},"city":"Indianapolis","state":"IN","teams":["Butler Bulldogs","Northern Colorado Bears"]}
+{"gameId":"1944181","_id":"iXWUgAORZlRGUq14","date":{"$$date":1510707600000},"city":"Piscataway","state":"NJ","teams":["Rutgers Scarlet Knights","Cleveland State Vikings"]}
+{"gameId":"1690917","_id":"iY9CLxhQczp63Fx9","date":{"$$date":1488049200000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","Fairleigh Dickinson Knights"]}
+{"gameId":"1685915","_id":"iYeDhwtTKlFXGe07","date":{"$$date":1483489800000},"city":"Knoxville","state":"TN","teams":["Tennessee Volunteers","Arkansas Razorbacks"]}
+{"gameId":"1685218","_id":"iYfL0trwd05JMAsq","date":{"$$date":1478908800000},"city":"Los Angeles","state":"CA","teams":["UCLA Bruins","Pacific Tigers"]}
+{"gameId":"1692284","_id":"iZ8sctI7a7QdzPye","date":{"$$date":1480467600000},"city":"Carbondale","state":"IL","teams":["Southern Illinois Salukis","Murray State Racers"]}
+{"gameId":"1961007","_id":"iZAx1g37VEaSAEyF","date":{"$$date":1515632400000},"city":"Atlanta","state":"GA","teams":["Georgia Tech Yellow Jackets","Notre Dame Fighting Irish"]}
+{"gameId":"1688439","_id":"iZRwZfKLUo2FE0bs","date":{"$$date":1479862800000},"city":"College Park","state":"MD","teams":["Maryland Terrapins","Stony Brook Seawolves"]}
+{"gameId":"1685917","_id":"iZTFsfXYbJaquSz0","date":{"$$date":1483493400000},"city":"Starkville","state":"MS","teams":["Mississippi State Bulldogs","Alabama Crimson Tide"]}
+{"gameId":"1693055","_id":"iZWEKzvJPQl4fJpv","date":{"$$date":1483664400000},"city":"Durham","state":"NH","teams":["New Hampshire Wildcats","Stony Brook Seawolves"]}
+{"gameId":"1968227","_id":"iZiJXE8wG3CbIjbE","date":{"$$date":1510430400000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Alabama A&M Bulldogs"]}
+{"gameId":"2028434","_id":"iZnrV8o9mVSgxgiG","date":{"$$date":1520359500000},"city":"Reno","state":"NV","teams":["North Dakota Fighting Hawks","Montana State Bobcats"]}
+{"gameId":"1682511","_id":"iajq0JEnNzrwqrRN","date":{"$$date":1487037600000},"city":"Rosemont","state":"IL","teams":["DePaul Blue Demons","Villanova Wildcats"]}
+{"gameId":"1692875","_id":"ibSuPB0KcaJMDPzs","date":{"$$date":1482004800000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Cleveland State Vikings"]}
+{"gameId":"1974219","_id":"iblDsamdk6N1d8QE","date":{"$$date":1516496400000},"city":"Edinburg","state":"TX","teams":["Texas-Rio Grande Valley Vaqueros","Seattle Redhawks"]}
+{"gameId":"1972748","_id":"icp0wtT2G1BQnPXZ","date":{"$$date":1519523820000},"city":"Cookeville","state":"TN","teams":["Tennessee Tech Golden Eagles","Jacksonville State Gamecocks"]}
+{"gameId":"1694110","_id":"id7q1WYrv5Kh0fmS","date":{"$$date":1480559400000},"city":"West Hartford","state":"CT","teams":["Hartford Hawks","LIU Brooklyn Blackbirds"]}
+{"gameId":"1969186","_id":"idGFtVb4QUGwmtCa","date":{"$$date":1516487400000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Louisiana Ragin' Cajuns"]}
+{"gameId":"1688717","_id":"idkePaYWP7GuGlU2","date":{"$$date":1480888800000},"city":"Washington","state":"DC","teams":["George Washington Colonials","Florida State Seminoles"]}
+{"gameId":"1694300","_id":"idvPINZKh0NcVksE","date":{"$$date":1482091200000},"city":"Nacogdoches","state":"TX","teams":["Stephen F. Austin Lumberjacks","LSU-Shreveport Pilots"]}
+{"gameId":"1690533","_id":"ieDhtyLDyE2xteh3","date":{"$$date":1484096400000},"city":"Riverdale","state":"NY","teams":["Manhattan Jaspers","Niagara Purple Eagles"]}
+{"gameId":"1971319","_id":"ifXdRzwWlsgORGu0","date":{"$$date":1516064400000},"city":"Chicago","state":"IL","teams":["UIC Flames","Oakland Golden Grizzlies"]}
+{"gameId":"1691976","_id":"ifvF8O2jgcbgiNlr","date":{"$$date":1478916000000},"city":"Albuquerque","state":"NM","teams":["New Mexico Lobos","Idaho State Bengals"]}
+{"gameId":"1944144","_id":"igDMeDUPtoQbXsDR","date":{"$$date":1513450800000},"city":"Chicago","state":"IL","teams":["DePaul Blue Demons","Northwestern Wildcats"]}
+{"gameId":"1968009","_id":"igKdY4Zic1p9YxeQ","date":{"$$date":1518289200000},"city":"Santa Clara","state":"CA","teams":["Santa Clara Broncos","San Diego Toreros"]}
+{"gameId":"1966025","_id":"igOplfBm16T2fhm0","date":{"$$date":1518742800000},"city":"Jacksonville","state":"FL","teams":["Jacksonville Dolphins","NJIT Highlanders"]}
+{"gameId":"1681902","_id":"igthPvKlQZ5jxvKw","date":{"$$date":1479171600000},"city":"Cincinnati","state":"OH","teams":["Cincinnati Bearcats","Albany Great Danes"]}
+{"gameId":"1693451","_id":"ih6O3DBI2y77BUlD","date":{"$$date":1480183200000},"city":"Las Vegas","state":"NV","teams":["Alabama State Hornets","Cal State Fullerton Titans"]}
+{"gameId":"1692153","_id":"ih8AYojSS6LuAJcK","date":{"$$date":1480280400000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Ferris State Bulldogs"]}
+{"gameId":"1733656","_id":"ihcyZKVA92lF44hk","date":{"$$date":1489082400000},"city":"Anaheim","state":"CA","teams":["UC Davis Aggies","Cal Poly Mustangs"]}
+{"gameId":"1961317","_id":"ii5RyQCXU4oSIdQ6","date":{"$$date":1513904400000},"city":"Minneapolis","state":"MN","teams":["Minnesota Golden Gophers","Oral Roberts Golden Eagles"]}
+{"gameId":"1965310","_id":"ii7hFQHZtg0pR5QQ","date":{"$$date":1513731600000},"city":"Laramie","state":"WY","teams":["Wyoming Cowboys","Northern Colorado Bears"]}
+{"gameId":"1691793","_id":"iiLAaYQmOPwq7pUy","date":{"$$date":1484874000000},"city":"Fort Myers","state":"FL","teams":["FGCU Eagles","USC Upstate Spartans"]}
+{"gameId":"1682456","_id":"iiMDNuI8xxQHAxQ7","date":{"$$date":1483297200000},"city":"Rosemont","state":"IL","teams":["DePaul Blue Demons","St. John's Red Storm"]}
+{"gameId":"1944294","_id":"iiZwrhJjkzsQvCjE","date":{"$$date":1510356600000},"city":"Starkville","state":"MS","teams":["Mississippi State Bulldogs","Alabama State Hornets"]}
+{"gameId":"1687837","_id":"iifk3J5DmqneWRHz","date":{"$$date":1486258200000},"city":"Seattle","state":"WA","teams":["Washington Huskies","UCLA Bruins"]}
+{"gameId":"1691319","_id":"ijKebO2afzJ2zWD7","date":{"$$date":1483815600000},"city":"Charleston","state":"SC","teams":["Citadel Bulldogs","VMI Keydets"]}
+{"gameId":"1969310","_id":"ijQjqMry25vaLVrr","date":{"$$date":1513990800000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","Hartford Hawks"]}
+{"gameId":"1692600","_id":"ijfokcCjBdjw4sB9","date":{"$$date":1480275000000},"city":"Valparaiso","state":"IN","teams":["Valparaiso Crusaders","Ball State Cardinals"]}
+{"gameId":"1738927","_id":"ijjY8Z03z9Bmt9T4","date":{"$$date":1489770900000},"city":"Indianapolis","state":"IN","teams":["Michigan Wolverines","Oklahoma State Cowboys"]}
+{"gameId":"1689511","_id":"ijmGh8rlvzcdMDnS","date":{"$$date":1488070800000},"city":"Norfolk","state":"VA","teams":["Old Dominion Monarchs","Western Kentucky Hilltoppers"]}
+{"gameId":"1688547","_id":"ijteSRzBGGyY6KDB","date":{"$$date":1479258000000},"city":"University Park","state":"PA","teams":["Penn State Nittany Lions","Grand Canyon Antelopes"]}
+{"gameId":"1693090","_id":"ik8SVY9I0ZsKj13m","date":{"$$date":1484874000000},"city":"Newark","state":"DE","teams":["Delaware Fightin' Blue Hens","Northeastern Huskies"]}
+{"gameId":"1693180","_id":"ik9JhZPtTF4ozMik","date":{"$$date":1488675600000},"city":"Houston","state":"TX","teams":["Houston Baptist Huskies","Abilene Christian Wildcats"]}
+{"gameId":"1979327","_id":"ikGfGAZ5PgMbr7gy","date":{"$$date":1511274600000},"city":"Lahaina","state":"HI","teams":["Wichita State Shockers","Marquette Golden Eagles"]}
+{"gameId":"1970832","_id":"ikSW41bwgyYnyHfs","date":{"$$date":1510363800000},"city":"Northridge","state":"CA","teams":["CSUN Matadors","Life Pacific Warriors"]}
+{"gameId":"1690580","_id":"ikThgmoOF4Skvwjs","date":{"$$date":1485727200000},"city":"New Rochelle","state":"NY","teams":["Iona Gaels","Saint Peter's Peacocks"]}
+{"gameId":"1689098","_id":"ikgufSFtE95DKTdw","date":{"$$date":1482001200000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Charleston Southern Buccaneers"]}
+{"gameId":"1971451","_id":"ilVYcAyOZRdJ9ErV","date":{"$$date":1513904400000},"city":"Boston","state":"MA","teams":["Harvard Crimson","Boston University Terriers"]}
+{"gameId":"2028235","_id":"ilpxgXnsPwJr3niN","date":{"$$date":1520384400000},"city":"Brooklyn","state":"NY","teams":["Syracuse Orange","Wake Forest Demon Deacons"]}
+{"gameId":"1981393","_id":"ilz2Jy9ii2YlSu4W","date":{"$$date":1511546400000},"city":"Portland","state":"OR","teams":["Butler Bulldogs","Portland State Vikings"]}
+{"gameId":"1962164","_id":"imitOsCy3gdeql6l","date":{"$$date":1516478400000},"city":"Boca Raton","state":"FL","teams":["Florida Atlantic Owls","Old Dominion Monarchs"]}
+{"gameId":"1681889","_id":"imkz80Ta7affvhqf","date":{"$$date":1478912400000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Florida A&M Rattlers"]}
+{"gameId":"1693987","_id":"inRuKbFd4JvK5Wlm","date":{"$$date":1480187100000},"city":"Worcester","state":"MA","teams":["Monmouth Hawks","South Carolina State Bulldogs"]}
+{"gameId":"1969422","_id":"inb3FuhPMPneYfPy","date":{"$$date":1520107500000},"city":"Cheney","state":"WA","teams":["Eastern Washington Eagles","Northern Arizona Lumberjacks"]}
+{"gameId":"1690213","_id":"inhNO8ewEYnCnHKE","date":{"$$date":1488416400000},"city":"Riverside","state":"CA","teams":["UC Riverside Highlanders","UC Irvine Anteaters"]}
+{"gameId":"1693947","_id":"innwJH6yYpvKuBsr","date":{"$$date":1479225600000},"city":"Nacogdoches","state":"TX","teams":["Stephen F. Austin Lumberjacks","Longwood Lancers"]}
+{"gameId":"1966805","_id":"io8TXz47elaLvUpw","date":{"$$date":1512867600000},"city":"Carbondale","state":"IL","teams":["Southern Illinois Salukis","Southeast Missouri State Redhawks"]}
+{"gameId":"1971431","_id":"ioBGVYEcz1wo1tLm","date":{"$$date":1520038800000},"city":"Boston","state":"MA","teams":["Harvard Crimson","Cornell Big Red"]}
+{"gameId":"1973783","_id":"ioEfY0mFDskRC2GR","date":{"$$date":1510705800000},"city":"Huntsville","state":"TX","teams":["Sam Houston State Bearkats","Hardin-Simmons Cowboys"]}
+{"gameId":"1733468","_id":"ioIzjeHQSvcpuqWF","date":{"$$date":1489021200000},"city":"New York","state":"NY","teams":["St. John's Red Storm","Georgetown Hoyas"]}
+{"gameId":"1970099","_id":"iouYkkEJAk9pn6Yo","date":{"$$date":1513540800000},"city":"Asheville","state":"NC","teams":["High Point Panthers","Wofford Terriers"]}
+{"gameId":"1682658","_id":"ip3QL6kPme1AOXIW","date":{"$$date":1481997600000},"city":"Louisville","state":"KY","teams":["Louisville Cardinals","Eastern Kentucky Colonels"]}
+{"gameId":"1965279","_id":"ipYWxOxcblYlI89X","date":{"$$date":1510794000000},"city":"Logan","state":"UT","teams":["Utah State Aggies","Mississippi Valley State Delta Devils"]}
+{"gameId":"1732532","_id":"ipeGigltZ90928pT","date":{"$$date":1488595740000},"city":"St. Louis","state":"MO","teams":["UNI Panthers","Missouri State Bears"]}
+{"gameId":"1973638","_id":"iqEo1W1jxaylOuO1","date":{"$$date":1516237200000},"city":"New Orleans","state":"LA","teams":["New Orleans Privateers","Central Arkansas Bears"]}
+{"gameId":"1969607","_id":"iqGSy3IiVOcS05nU","date":{"$$date":1510798800000},"city":"Bozeman","state":"MT","teams":["Montana State Bobcats","Montana-Western Bulldogs"]}
+{"gameId":"1689205","_id":"iqM8VfPX0TYNemja","date":{"$$date":1479780000000},"city":"Nashville","state":"TN","teams":["Vanderbilt Commodores","Bucknell Bison"]}
+{"gameId":"1692056","_id":"ir7X77t5zFNGTOXw","date":{"$$date":1483666200000},"city":"Dayton","state":"OH","teams":["Wright State Raiders","Cleveland State Vikings"]}
+{"gameId":"1693693","_id":"irOBuj0mJqV2zQ0p","date":{"$$date":1482454800000},"city":"Cullowhee","state":"NC","teams":["Western Carolina Catamounts","Charleston Cougars"]}
+{"gameId":"1689389","_id":"is1g8XP0yDDiWvhE","date":{"$$date":1485046800000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","UAB Blazers"]}
+{"gameId":"1687018","_id":"isUD5DECvaVEYkM9","date":{"$$date":1485307800000},"city":"Davidson","state":"NC","teams":["Davidson Wildcats","Duquesne Dukes"]}
+{"gameId":"1733575","_id":"itNZ6yzpQTjGv8nn","date":{"$$date":1489026840000},"city":"Pittsburgh","state":"PA","teams":["Saint Louis Billikens","Duquesne Dukes"]}
+{"gameId":"1690073","_id":"itPK9e3GnXHAvJqC","date":{"$$date":1483578000000},"city":"Radford","state":"VA","teams":["Radford Highlanders","Gardner-Webb Runnin' Bulldogs"]}
+{"gameId":"1682725","_id":"itXfUfxAtaurNEHe","date":{"$$date":1484182800000},"city":"Louisville","state":"KY","teams":["Louisville Cardinals","Pittsburgh Panthers"]}
+{"gameId":"1960923","_id":"itYxIdcG0etKxFTV","date":{"$$date":1513537200000},"city":"Chestnut Hill","state":"MA","teams":["Boston College Eagles","Central Connecticut State Blue Devils"]}
+{"gameId":"1689533","_id":"itrAq0ep43Jay0ea","date":{"$$date":1479776400000},"city":"Hattiesburg","state":"MS","teams":["Southern Miss Golden Eagles","Alabama A&M Bulldogs"]}
+{"gameId":"1693571","_id":"iuVeINKV8n6mQMeD","date":{"$$date":1480467600000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","McNeese State Cowboys"]}
+{"gameId":"1690836","_id":"iuX9lpoM166Bo27q","date":{"$$date":1483224300000},"city":"Brooklyn","state":"NY","teams":["LIU Brooklyn Blackbirds","Bryant Bulldogs"]}
+{"gameId":"1972655","_id":"ivX0GordQXGSuU5t","date":{"$$date":1517007600000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","Wagner Seahawks"]}
+{"gameId":"1963594","_id":"ivr4O5lTKjfSYtFk","date":{"$$date":1518656400000},"city":"Providence","state":"RI","teams":["Providence Friars","Villanova Wildcats"]}
+{"gameId":"1694458","_id":"ivv0MFFoG6JSlCDD","date":{"$$date":1488506400000},"city":"Greensboro","state":"NC","teams":["North Carolina A&T Aggies","North Carolina Central Eagles"]}
+{"gameId":"1690508","_id":"iwLFCyKemnh6Rb8V","date":{"$$date":1480881600000},"city":"Jersey City","state":"NJ","teams":["Saint Peter's Peacocks","Manhattan Jaspers"]}
+{"gameId":"1961992","_id":"ix7j0hbQ2cDLjSXj","date":{"$$date":1515279600000},"city":"Auburn","state":"AL","teams":["Auburn Tigers","Arkansas Razorbacks"]}
+{"gameId":"1690523","_id":"ixj3XK0G4aeif0Cp","date":{"$$date":1483668000000},"city":"Riverdale","state":"NY","teams":["Manhattan Jaspers","Fairfield Stags"]}
+{"gameId":"1973758","_id":"iyMhZN6wpXaF3VGe","date":{"$$date":1514055600000},"city":"Seattle","state":"WA","teams":["Seattle Redhawks","Nicholls Colonels"]}
+{"gameId":"1690898","_id":"iyiEvfX5HqSJVsMU","date":{"$$date":1486850400000},"city":"Smithfield","state":"RI","teams":["Bryant Bulldogs","St. Francis Brooklyn Terriers"]}
+{"gameId":"1689982","_id":"iytbsiXBgoTDrLHt","date":{"$$date":1484440200000},"city":"Cedar City","state":"UT","teams":["Southern Utah Thunderbirds","Portland State Vikings"]}
+{"gameId":"1965220","_id":"iyut6cHu2zCe99PC","date":{"$$date":1511227800000},"city":"San Diego","state":"CA","teams":["San Diego State Aztecs","Eastern Illinois Panthers"]}
+{"gameId":"1733475","_id":"iyvjs4pFqLZioUXJ","date":{"$$date":1489104000000},"city":"Kansas City","state":"MO","teams":["West Virginia Mountaineers","Texas Longhorns"]}
+{"gameId":"1692018","_id":"izMUu72cFn2Gm0zs","date":{"$$date":1486256400000},"city":"Jacksonville","state":"FL","teams":["North Florida Ospreys","Stetson Hatters"]}
+{"gameId":"1690253","_id":"izOWLfw2JwTYgY20","date":{"$$date":1484877600000},"city":"Moraga","state":"CA","teams":["Saint Mary's Gaels","Pacific Tigers"]}
+{"gameId":"1967990","_id":"j05w5VxeX8TkhdqO","date":{"$$date":1510794000000},"city":"San Diego","state":"CA","teams":["San Diego Toreros","Robert Morris Colonials"]}
+{"gameId":"1733572","_id":"j0LMSPJ7iaWPLVz6","date":{"$$date":1489104000000},"city":"Pittsburgh","state":"PA","teams":["George Mason Patriots","Fordham Rams"]}
+{"gameId":"1690274","_id":"j1DPM6lLX4vJLsjy","date":{"$$date":1486090800000},"city":"Provo","state":"UT","teams":["BYU Cougars","Gonzaga Bulldogs"]}
+{"gameId":"1692517","_id":"j1IcIHIbPmX7OjRY","date":{"$$date":1481931000000},"city":"Portland","state":"OR","teams":["Portland Pilots","South Dakota Coyotes"]}
+{"gameId":"1682454","_id":"j1OqIRPgZ0LpRKCE","date":{"$$date":1483203600000},"city":"Washington","state":"DC","teams":["Georgetown Hoyas","Xavier Musketeers"]}
+{"gameId":"1964889","_id":"j1Zwx8pQM3YxyoSb","date":{"$$date":1511226000000},"city":"Colorado Springs","state":"CO","teams":["Air Force Falcons","UAPB Golden Lions"]}
+{"gameId":"1687877","_id":"j1nWJIRbtADUkxWd","date":{"$$date":1488661200000},"city":"Corvallis","state":"OR","teams":["Oregon State Beavers","Oregon Ducks"]}
+{"gameId":"1689344","_id":"j29qxgMXmpzapzr2","date":{"$$date":1479508200000},"city":"Mobile","state":"AL","teams":["Jacksonville Dolphins","Youngstown State Penguins"]}
+{"gameId":"1686005","_id":"j2MeqgvJBVRg4Wwd","date":{"$$date":1487462400000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Kentucky Wildcats"]}
+{"gameId":"1970924","_id":"j2N3KPO5V7w7ahOk","date":{"$$date":1514941200000},"city":"Charleston","state":"SC","teams":["Charleston Cougars","Delaware Fightin' Blue Hens"]}
+{"gameId":"1963687","_id":"j2cPj72hwu8hnbAB","date":{"$$date":1515027600000},"city":"New York","state":"NY","teams":["Fordham Rams","Richmond Spiders"]}
+{"gameId":"1974467","_id":"j2lMXPNa8gTd2dn1","date":{"$$date":1516489200000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","UAPB Golden Lions"]}
+{"gameId":"1694325","_id":"j2ug5IHvdROpmStd","date":{"$$date":1481418000000},"city":"Seattle","state":"WA","teams":["Seattle Redhawks","University of Great Falls Argonauts"]}
+{"gameId":"1691394","_id":"j3OjG8m72i06uygn","date":{"$$date":1486249200000},"city":"Chattanooga","state":"TN","teams":["Chattanooga Mocs","Western Carolina Catamounts"]}
+{"gameId":"1732484","_id":"j3i4D2F8hB5WEUgr","date":{"$$date":1488502800000},"city":"Boston","state":"MA","teams":["Boston University Terriers","Loyola Maryland Greyhounds"]}
+{"gameId":"1971099","_id":"j4Bwac5bPv7soMrd","date":{"$$date":1513731600000},"city":"Niagara","state":"NY","teams":["Niagara Purple Eagles","Cleveland State Vikings"]}
+{"gameId":"1690658","_id":"j4IOdSSizSHFOAhI","date":{"$$date":1484182800000},"city":"Colorado Springs","state":"CO","teams":["Air Force Falcons","Fresno State Bulldogs"]}
+{"gameId":"1961235","_id":"j4i5zhQEC2NUlXDK","date":{"$$date":1520096400000},"city":"Austin","state":"TX","teams":["Texas Longhorns","West Virginia Mountaineers"]}
+{"gameId":"1690613","_id":"j4oYKiOW1DWsBU9E","date":{"$$date":1487545200000},"city":"New Rochelle","state":"NY","teams":["Iona Gaels","Rider Broncs"]}
+{"gameId":"1972779","_id":"j5KCeYZHmh9vXIW6","date":{"$$date":1513731600000},"city":"Edwardsville","state":"IL","teams":["SIUE Cougars","Chicago State Cougars"]}
+{"gameId":"2025446","_id":"j5SWB3SyVQNrR6er","date":{"$$date":1520035200000},"city":"St. Louis","state":"MO","teams":["Southern Illinois Salukis","Missouri State Bears"]}
+{"gameId":"1693302","_id":"j5V0KoQDsDgYBbdH","date":{"$$date":1485046800000},"city":"Jonesboro","state":"AR","teams":["Arkansas State Red Wolves","Troy Trojans"]}
+{"gameId":"1973831","_id":"j5stVlY62IakyWFX","date":{"$$date":1514673000000},"city":"Fort Wayne","state":"IN","teams":["Fort Wayne Mastodons","Concordia (MI) Cardinals"]}
+{"gameId":"1972785","_id":"j60FZZLoncc8L7VW","date":{"$$date":1518742800000},"city":"Martin","state":"TN","teams":["UT Martin Skyhawks","SIUE Cougars"]}
+{"gameId":"1689524","_id":"j613TMhxt1nv6ITB","date":{"$$date":1482370200000},"city":"Houston","state":"TX","teams":["Rice Owls","St. Thomas (TX) Celts"]}
+{"gameId":"1687043","_id":"j6JqaJHyCxEGwEeM","date":{"$$date":1485997200000},"city":"Richmond","state":"VA","teams":["VCU Rams","Richmond Spiders"]}
+{"gameId":"1694648","_id":"j6KpHnUomz5va56l","date":{"$$date":1484616600000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","Grambling State Tigers"]}
+{"gameId":"1681801","_id":"j6MbzloeRsqlDZ3U","date":{"$$date":1484787600000},"city":"University Park","state":"PA","teams":["Penn State Nittany Lions","Indiana Hoosiers"]}
+{"gameId":"1693841","_id":"j6PJH2c6vGnxOf6D","date":{"$$date":1481418000000},"city":"Brookings","state":"SD","teams":["South Dakota State Jackrabbits","Idaho Vandals"]}
+{"gameId":"1962084","_id":"j6sc1l0LnkfWWVfN","date":{"$$date":1518894000000},"city":"Baton Rouge","state":"LA","teams":["LSU Tigers","Missouri Tigers"]}
+{"gameId":"1685406","_id":"j7151y3KCh3KJn9Y","date":{"$$date":1479850200000},"city":"Brooklyn","state":"NY","teams":["Texas Longhorns","Colorado Buffaloes"]}
+{"gameId":"1738986","_id":"j7arG4teTq8FJs02","date":{"$$date":1490554800000},"city":"Corpus Christi","state":"TX","teams":["Texas A&M-Corpus Christi Islanders","Fort Wayne Mastodons"]}
+{"gameId":"1689459","_id":"j7rS58c0OAnGhrsH","date":{"$$date":1481763600000},"city":"Nashville","state":"TN","teams":["Belmont Bruins","Middle Tennessee Blue Raiders"]}
+{"gameId":"1963904","_id":"j7sUgGzVg6ZNsco6","date":{"$$date":1518285600000},"city":"Pittsburgh","state":"PA","teams":["Duquesne Dukes","Fordham Rams"]}
+{"gameId":"1682629","_id":"j8NHxjVsIp8Md57O","date":{"$$date":1480892400000},"city":"Notre Dame","state":"IN","teams":["Notre Dame Fighting Irish","North Carolina A&T Aggies"]}
+{"gameId":"1966769","_id":"j8V2wDBAaLDFRN46","date":{"$$date":1513731600000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","Wright State Raiders"]}
+{"gameId":"1681982","_id":"j8eSvkzl52zsXzrZ","date":{"$$date":1480554000000},"city":"Boise","state":"ID","teams":["Boise State Broncos","SMU Mustangs"]}
+{"gameId":"1693643","_id":"j922DD7yDXO3wsl5","date":{"$$date":1480269900000},"city":"Worcester","state":"MA","teams":["Holy Cross Crusaders","Monmouth Hawks"]}
+{"gameId":"1974407","_id":"j9GN2tcS2OudfJb3","date":{"$$date":1516491900000},"city":"Baton Rouge","state":"LA","teams":["Southern University Jaguars","Alabama State Hornets"]}
+{"gameId":"1972582","_id":"j9eETYvknryDzBkh","date":{"$$date":1511380800000},"city":"Teaneck","state":"NJ","teams":["Fairleigh Dickinson Knights","Holy Cross Crusaders"]}
+{"gameId":"1686993","_id":"j9eeQ7KR47CrczyA","date":{"$$date":1484519400000},"city":"Philadelphia","state":"PA","teams":["La Salle Explorers","George Washington Colonials"]}
+{"gameId":"1682163","_id":"jAMAhSrh9Cy0CmRm","date":{"$$date":1487444400000},"city":"New Orleans","state":"LA","teams":["Tulane Green Wave","South Florida Bulls"]}
+{"gameId":"1732568","_id":"jAO9weqsqvMFQzHB","date":{"$$date":1488514500000},"city":"Albany","state":"NY","teams":["Rider Broncs","Manhattan Jaspers"]}
+{"gameId":"2025511","_id":"jAVUymdcfxEEl2lA","date":{"$$date":1520213400000},"city":"Detroit","state":"MI","teams":["Oakland Golden Grizzlies","IUPUI Jaguars"]}
+{"gameId":"2024238","_id":"jAbps8bIvbRqs3T0","date":{"$$date":1519693200000},"city":"Nashville","state":"TN","teams":["Lipscomb Bisons","Stetson Hatters"]}
+{"gameId":"1942328","_id":"jBMzQJS6JjMfqzuU","date":{"$$date":1512176400000},"city":"Spokane","state":"WA","teams":["Gonzaga Bulldogs","Creighton Bluejays"]}
+{"gameId":"1966685","_id":"jBQzxwheZgStXRAj","date":{"$$date":1512846000000},"city":"Evansville","state":"IN","teams":["Evansville Aces","Canisius Golden Griffins"]}
+{"gameId":"1972823","_id":"jBY6pABUv1D3E8zQ","date":{"$$date":1515718800000},"city":"Washington","state":"DC","teams":["American University Eagles","Loyola Maryland Greyhounds"]}
+{"gameId":"1980693","_id":"jBho97qHWBI4NDIl","date":{"$$date":1511373600000},"city":"George Town","state":"","teams":["UAB Blazers","Iowa Hawkeyes"]}
+{"gameId":"1693570","_id":"jBx9GJZ4kNlu9lB0","date":{"$$date":1479776400000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Texas A&M-Corpus Christi Islanders"]}
+{"gameId":"1691406","_id":"jCU3re5v4e43EWxS","date":{"$$date":1479513600000},"city":"New York","state":"NY","teams":["Fordham Rams","Fairleigh Dickinson Knights"]}
+{"gameId":"1694125","_id":"jCVZLDY2QgNPMLix","date":{"$$date":1479171600000},"city":"Lowell","state":"MA","teams":["Massachusetts-Lowell River Hawks","Wagner Seahawks"]}
+{"gameId":"1961241","_id":"jCbm6wuZe1KY8MmN","date":{"$$date":1513472400000},"city":"Lubbock","state":"TX","teams":["Texas Tech Red Raiders","Rice Owls"]}
+{"gameId":"1967789","_id":"jCj6toMptdVmKeYF","date":{"$$date":1516320000000},"city":"Spokane","state":"WA","teams":["Gonzaga Bulldogs","Saint Mary's Gaels"]}
+{"gameId":"1682671","_id":"jE34pYs2Q6DpaprD","date":{"$$date":1482289200000},"city":"Blacksburg","state":"VA","teams":["Virginia Tech Hokies","Charleston Southern Buccaneers"]}
+{"gameId":"1972642","_id":"jEEgi0z54pSH4x1d","date":{"$$date":1516474800000},"city":"Fairfield","state":"CT","teams":["Sacred Heart Pioneers","Saint Francis U Red Flash"]}
+{"gameId":"1964188","_id":"jEHiLXdf7KzZ7rV9","date":{"$$date":1513461600000},"city":"Rochester","state":"NY","teams":["St. Bonaventure Bonnies","Vermont Catamounts"]}
+{"gameId":"1974304","_id":"jEPO4N2M1HJhmE48","date":{"$$date":1517099100000},"city":"Hampton","state":"VA","teams":["Hampton Pirates","Florida A&M Rattlers"]}
+{"gameId":"1693467","_id":"jEfXAtVyiFe7XPxm","date":{"$$date":1488061800000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Troy Trojans"]}
+{"gameId":"1966655","_id":"jEi74y7DgB7My2rx","date":{"$$date":1519506000000},"city":"Peoria","state":"IL","teams":["Bradley Braves","Indiana State Sycamores"]}
+{"gameId":"1691081","_id":"jFOhsidcPNhUx3GP","date":{"$$date":1487293200000},"city":"Orem","state":"UT","teams":["Utah Valley Wolverines","Bakersfield Roadrunners"]}
+{"gameId":"1965189","_id":"jFSZqpcvALupfXIT","date":{"$$date":1511132400000},"city":"San Jose","state":"CA","teams":["San Jose State Spartans","Saint Mary's Gaels"]}
+{"gameId":"1966149","_id":"jFXMi67qe8w22Jah","date":{"$$date":1519581600000},"city":"Highland Heights","state":"KY","teams":["Cincinnati Bearcats","Tulsa Golden Hurricane"]}
+{"gameId":"1690742","_id":"jFf5kyn1VQjCXuNj","date":{"$$date":1483059600000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Evansville Aces"]}
+{"gameId":"1962270","_id":"jFxo1gLXBGxcDPkl","date":{"$$date":1519520400000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","Rice Owls"]}
+{"gameId":"1688597","_id":"jFzHrmN88YRBSYYp","date":{"$$date":1480273200000},"city":"Madison","state":"WI","teams":["Wisconsin Badgers","Prairie View A&M Panthers"]}
+{"gameId":"1691942","_id":"jGuKhsfAjYtjvbUI","date":{"$$date":1479171600000},"city":"Fresno","state":"CA","teams":["Fresno State Bulldogs","Prairie View A&M Panthers"]}
+{"gameId":"1967976","_id":"jH0wRTNmf2C93yT0","date":{"$$date":1513731600000},"city":"Portland","state":"OR","teams":["Portland Pilots","Hartford Hawks"]}
+{"gameId":"1693943","_id":"jH6vSznPxE9aAuPR","date":{"$$date":1481400000000},"city":"Lynchburg","state":"VA","teams":["Liberty Flames","Princeton Tigers"]}
+{"gameId":"1969254","_id":"jHOVn5LuPXjqUeFi","date":{"$$date":1511398800000},"city":"Hanover","state":"NH","teams":["Dartmouth Big Green","Albany Great Danes"]}
+{"gameId":"1966672","_id":"jHRAFINUHE7fzTsN","date":{"$$date":1517360400000},"city":"Des Moines","state":"IA","teams":["Drake Bulldogs","Southern Illinois Salukis"]}
+{"gameId":"1682806","_id":"jHgclkwHrp9PE78m","date":{"$$date":1486609200000},"city":"Coral Gables","state":"FL","teams":["Miami (FL) Hurricanes","Virginia Tech Hokies"]}
+{"gameId":"1969171","_id":"jHlkFOGVWNtisp9X","date":{"$$date":1517084100000},"city":"Atlanta","state":"GA","teams":["Georgia State Panthers","Texas State Bobcats"]}
+{"gameId":"1972667","_id":"jI0YqN4dwTYXs7UX","date":{"$$date":1515882600000},"city":"Jacksonville","state":"AL","teams":["Jacksonville State Gamecocks","Austin Peay Governors"]}
+{"gameId":"1693057","_id":"jIIadKBpnV0jOvyA","date":{"$$date":1485392400000},"city":"Durham","state":"NH","teams":["New Hampshire Wildcats","Massachusetts-Lowell River Hawks"]}
+{"gameId":"1693913","_id":"jISVsWRcABMUqLMm","date":{"$$date":1479259800000},"city":"Charleston","state":"SC","teams":["Charleston Southern Buccaneers","Columbia International Rams"]}
+{"gameId":"1693463","_id":"jIzJNpC15BLp5q40","date":{"$$date":1484614800000},"city":"Troy","state":"AL","teams":["Troy Trojans","Texas State Bobcats"]}
+{"gameId":"1692167","_id":"jJ2pGUlQSGbnWqaX","date":{"$$date":1482363000000},"city":"Terre Haute","state":"IN","teams":["Indiana State Sycamores","Eastern Illinois Panthers"]}
+{"gameId":"1685815","_id":"jJ5tc1H67AGYlpH2","date":{"$$date":1485648900000},"city":"Lexington","state":"KY","teams":["Kentucky Wildcats","Kansas Jayhawks"]}
+{"gameId":"1974394","_id":"jJIyFPyajZgk6ftw","date":{"$$date":1517708100000},"city":"Pine Bluff","state":"AR","teams":["UAPB Golden Lions","Alabama A&M Bulldogs"]}
+{"gameId":"1974276","_id":"jJKYjHD623fsWtQY","date":{"$$date":1517091900000},"city":"Baltimore","state":"MD","teams":["Coppin State Eagles","South Carolina State Bulldogs"]}
+{"gameId":"1733610","_id":"jJSRNezqcv9cg6L3","date":{"$$date":1488938400000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","Grambling State Tigers"]}
+{"gameId":"1964987","_id":"jJZiFyx8KiiuykJz","date":{"$$date":1518656400000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","Air Force Falcons"]}
+{"gameId":"1966083","_id":"jKUfKydruybYalO6","date":{"$$date":1511388000000},"city":"Newark","state":"NJ","teams":["NJIT Highlanders","Kean Cougars"]}
+{"gameId":"1685356","_id":"jKV8kvEEh5HjSJOk","date":{"$$date":1479956400000},"city":"Las Vegas","state":"NV","teams":["Valparaiso Crusaders","BYU Cougars"]}
+{"gameId":"1693502","_id":"jKtB5wAtbKwS6ubR","date":{"$$date":1480638600000},"city":"Nashville","state":"TN","teams":["Lipscomb Bisons","Tennessee Tech Golden Eagles"]}
+{"gameId":"1942407","_id":"jKzFOCLPr0LceRDQ","date":{"$$date":1511231400000},"city":"Stanford","state":"CA","teams":["Stanford Cardinal","North Carolina Tar Heels"]}
+{"gameId":"1694090","_id":"jL8qYu4Gs9N2DqWp","date":{"$$date":1479171600000},"city":"Spartanburg","state":"SC","teams":["USC Upstate Spartans","Mars Hill Lions"]}
+{"gameId":"1685819","_id":"jLUMz1ub7nMqrQk8","date":{"$$date":1485914400000},"city":"Ames","state":"IA","teams":["Iowa State Cyclones","West Virginia Mountaineers"]}
+{"gameId":"1692486","_id":"jLrdBHzEeBGiIk19","date":{"$$date":1480278600000},"city":"Malibu","state":"CA","teams":["Pepperdine Waves","Portland State Vikings"]}
+{"gameId":"1974396","_id":"jLvWWlEkQnwhbsMl","date":{"$$date":1518304800000},"city":"Normal","state":"AL","teams":["Alabama A&M Bulldogs","Alabama State Hornets"]}
+{"gameId":"1981392","_id":"jMSfPAfxujDLacsz","date":{"$$date":1511742720000},"city":"Portland","state":"OR","teams":["Stanford Cardinal","Portland State Vikings"]}
+{"gameId":"2025442","_id":"jOEJLtCCVsCgNRiu","date":{"$$date":1520109000000},"city":"St. Louis","state":"MO","teams":["Loyola Chicago Ramblers","Bradley Braves"]}
+{"gameId":"1966320","_id":"jOV3rnZ1AJgwr6HZ","date":{"$$date":1516478400000},"city":"Philadelphia","state":"PA","teams":["Penn Quakers","Temple Owls"]}
+{"gameId":"1686178","_id":"jOrmOZewNPmQPhvl","date":{"$$date":1479171600000},"city":"Valparaiso","state":"IN","teams":["Valparaiso Crusaders","Coppin State Eagles"]}
+{"gameId":"1693122","_id":"jOw2TxIR9QZBTeFU","date":{"$$date":1485640800000},"city":"Hempstead","state":"NY","teams":["Hofstra Pride","Elon Phoenix"]}
+{"gameId":"1962256","_id":"jOwlOr1kh3cBm2rn","date":{"$$date":1511656200000},"city":"Houston","state":"TX","teams":["Rice Owls","St. Thomas (TX) Celts"]}
+{"gameId":"1690535","_id":"jP7EtAa1DecqzffZ","date":{"$$date":1484272800000},"city":"Albany","state":"NY","teams":["Siena Saints","Quinnipiac Bobcats"]}
+{"gameId":"1981448","_id":"jPBnT8yV5PVbHx2B","date":{"$$date":1511659800000},"city":"Savannah","state":"GA","teams":["Valparaiso Crusaders","UNCW Seahawks"]}
+{"gameId":"1694269","_id":"jPiDQAFIJo54Adrm","date":{"$$date":1482368400000},"city":"Beaumont","state":"TX","teams":["Lamar Cardinals","Arlington Baptist Patriots"]}
+{"gameId":"1691119","_id":"jPiqRgd9O2aw1xO1","date":{"$$date":1482973200000},"city":"Brookings","state":"SD","teams":["South Dakota State Jackrabbits","North Dakota State Bison"]}
+{"gameId":"1970917","_id":"jPvotJZDwbOprz0d","date":{"$$date":1514682000000},"city":"Santa Barbara","state":"CA","teams":["UC Santa Barbara Gauchos","Pacific Union Pioneers"]}
+{"gameId":"1687795","_id":"jQdUZGcDaQCHYvm1","date":{"$$date":1484265600000},"city":"Berkeley","state":"CA","teams":["California Golden Bears","Washington Huskies"]}
+{"gameId":"1968034","_id":"jQtmIJWNAwk9iZCB","date":{"$$date":1511053200000},"city":"Santa Clara","state":"CA","teams":["Santa Clara Broncos","Cal Poly Mustangs"]}
+{"gameId":"2032295","_id":"jRO4rmeW5xJQIvFD","date":{"$$date":1521415800000},"city":"Louisville","state":"KY","teams":["Louisville Cardinals","Middle Tennessee Blue Raiders"]}
+{"gameId":"1961985","_id":"jRdqbfDVXV0LBOFU","date":{"$$date":1520103600000},"city":"College Station","state":"TX","teams":["Texas A&M Aggies","Alabama Crimson Tide"]}
+{"gameId":"1690169","_id":"jRiS9cf6nV5RwblW","date":{"$$date":1485046800000},"city":"Honolulu","state":"HI","teams":["Hawaii Rainbow Warriors","UC Davis Aggies"]}
+{"gameId":"1972187","_id":"jRmpLJJmArupmpcr","date":{"$$date":1518894000000},"city":"Bridgeport","state":"CT","teams":["Fairfield Stags","Quinnipiac Bobcats"]}
+{"gameId":"1690405","_id":"jS4OjRoZmsuwTPX1","date":{"$$date":1488070800000},"city":"Kent","state":"OH","teams":["Kent State Golden Flashes","Ohio Bobcats"]}
+{"gameId":"1974469","_id":"jSPRRckKqxOMpbUn","date":{"$$date":1518487200000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","Jackson State Tigers"]}
+{"gameId":"1969970","_id":"jSS4fqvmrL86NCJO","date":{"$$date":1513387800000},"city":"Charleston","state":"SC","teams":["Charleston Southern Buccaneers","Eastern Kentucky Colonels"]}
+{"gameId":"1686026","_id":"jSTNsd2dqUBdkcPs","date":{"$$date":1488412800000},"city":"Baton Rouge","state":"LA","teams":["LSU Tigers","Tennessee Volunteers"]}
+{"gameId":"1962087","_id":"jSZTvpZCcMMtR0Ce","date":{"$$date":1520100000000},"city":"Baton Rouge","state":"LA","teams":["LSU Tigers","Mississippi State Bulldogs"]}
+{"gameId":"1972857","_id":"jSbHA98CpAzhZZY1","date":{"$$date":1515200400000},"city":"Baltimore","state":"MD","teams":["Loyola Maryland Greyhounds","Boston University Terriers"]}
+{"gameId":"2028462","_id":"jSfmk0w0qUjppPxt","date":{"$$date":1520532000000},"city":"Anaheim","state":"CA","teams":["UC Davis Aggies","UC Riverside Highlanders"]}
+{"gameId":"1969453","_id":"jSvfaT5ZTuIaJkHK","date":{"$$date":1520125200000},"city":"Moscow","state":"ID","teams":["Idaho Vandals","Southern Utah Thunderbirds"]}
+{"gameId":"1690351","_id":"jT63AyXbI2R1MdYa","date":{"$$date":1485306000000},"city":"Miami","state":"OH","teams":["Miami (OH) RedHawks","Buffalo Bulls"]}
+{"gameId":"1980781","_id":"jTZJuY9Xo66aiILa","date":{"$$date":1511379000000},"city":"Las Vegas","state":"NV","teams":["Georgia State Panthers","Prairie View A&M Panthers"]}
+{"gameId":"1690906","_id":"jTbcvqpuFdRAf68i","date":{"$$date":1487455200000},"city":"Teaneck","state":"NJ","teams":["Fairleigh Dickinson Knights","Mount St. Mary's Mountaineers"]}
+{"gameId":"1973751","_id":"jUORC31mJcuzPFXZ","date":{"$$date":1519518720000},"city":"Thibodaux","state":"LA","teams":["Nicholls Colonels","New Orleans Privateers"]}
+{"gameId":"1693004","_id":"jUXf6XDy6OXL8adE","date":{"$$date":1486256400000},"city":"Albany","state":"NY","teams":["Albany Great Danes","Stony Brook Seawolves"]}
+{"gameId":"1690697","_id":"jV1emuBX6wAHq11T","date":{"$$date":1486519200000},"city":"San Jose","state":"CA","teams":["San Jose State Spartans","San Diego State Aztecs"]}
+{"gameId":"1682177","_id":"jV633DhKdS9SJASD","date":{"$$date":1488502800000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","UCF Knights"]}
+{"gameId":"1970911","_id":"jVCnGhE8mH3NaDQ0","date":{"$$date":1517094000000},"city":"Riverside","state":"CA","teams":["UC Riverside Highlanders","UC Santa Barbara Gauchos"]}
+{"gameId":"1961978","_id":"jVX2YWI8dnnMiIgR","date":{"$$date":1517961600000},"city":"Starkville","state":"MS","teams":["Mississippi State Bulldogs","Alabama Crimson Tide"]}
+{"gameId":"1682101","_id":"jVsFXGBjz8bVXdEf","date":{"$$date":1483840800000},"city":"Houston","state":"TX","teams":["Houston Cougars","Cincinnati Bearcats"]}
+{"gameId":"1689946","_id":"jVvufSkAZiPT0ioK","date":{"$$date":1487811900000},"city":"Worcester","state":"MA","teams":["Holy Cross Crusaders","Loyola Maryland Greyhounds"]}
+{"gameId":"1943678","_id":"jWbP85alW44v1A3i","date":{"$$date":1512262800000},"city":"Boone","state":"NC","teams":["Appalachian State Mountaineers","South Florida Bulls"]}
+{"gameId":"1944312","_id":"jWhfWlIV6kXwxRQA","date":{"$$date":1512850500000},"city":"Knoxville","state":"TN","teams":["Tennessee Volunteers","Lipscomb Bisons"]}
+{"gameId":"1971402","_id":"jWhieQtOaSVWlUCl","date":{"$$date":1511640000000},"city":"Hamilton","state":"NY","teams":["Colgate Raiders","Columbia Lions"]}
+{"gameId":"1691711","_id":"jWwA7kL9nmIQaSMl","date":{"$$date":1481072400000},"city":"Hempstead","state":"NY","teams":["Hofstra Pride","St. Bonaventure Bonnies"]}
+{"gameId":"1686211","_id":"jXRRviHQJXKemAQK","date":{"$$date":1479430800000},"city":"Buffalo","state":"NY","teams":["Buffalo Bulls","Nazareth College Golden Flyers"]}
+{"gameId":"1694266","_id":"jXpTY4liSyWUm4t9","date":{"$$date":1480111200000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","Lamar Cardinals"]}
+{"gameId":"1961086","_id":"jYqJSXdovTwyfAJj","date":{"$$date":1519268400000},"city":"Pittsburgh","state":"PA","teams":["Pittsburgh Panthers","Wake Forest Demon Deacons"]}
+{"gameId":"1971150","_id":"jYqo0CNqFZnEGlKN","date":{"$$date":1513731600000},"city":"Detroit","state":"MI","teams":["Detroit Titans","East Tennessee State Buccaneers"]}
+{"gameId":"1969127","_id":"jYxoNVGkzbGSuLZD","date":{"$$date":1515721140000},"city":"Little Rock","state":"AR","teams":["Little Rock Trojans","UT Arlington Mavericks"]}
+{"gameId":"1968054","_id":"jZ010aATRh5FjCJB","date":{"$$date":1512867600000},"city":"Akron","state":"OH","teams":["Akron Zips","Appalachian State Mountaineers"]}
+{"gameId":"1973719","_id":"jZQ2cvEMYRveKRc9","date":{"$$date":1510621200000},"city":"Lake Charles","state":"LA","teams":["McNeese State Cowboys","Ecclesia Royals"]}
+{"gameId":"1693599","_id":"jZTmxXCh1OTQXM2y","date":{"$$date":1482368400000},"city":"West Point","state":"NY","teams":["Army West Point Black Knights","Binghamton Bearcats"]}
+{"gameId":"1691305","_id":"jaGDnubOpTj8ug2C","date":{"$$date":1479585600000},"city":"Dayton","state":"OH","teams":["Dayton Flyers","Saint Mary's Gaels"]}
+{"gameId":"1966752","_id":"jarEgOCm1AWV10MD","date":{"$$date":1515358800000},"city":"Cedar Falls","state":"IA","teams":["UNI Panthers","Loyola Chicago Ramblers"]}
+{"gameId":"1973915","_id":"jausfhhjSWKhMZlw","date":{"$$date":1510448400000},"city":"Macomb","state":"IL","teams":["Western Illinois Leathernecks","St. Mary's (MN) Cardinals"]}
+{"gameId":"1943681","_id":"jb3CPlZQdDvgaTH6","date":{"$$date":1513645200000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Northern Arizona Lumberjacks"]}
+{"gameId":"2025513","_id":"jbmV77JNdBJVCUaM","date":{"$$date":1520204400000},"city":"Detroit","state":"MI","teams":["UIC Flames","Milwaukee Panthers"]}
+{"gameId":"1969695","_id":"jboLZof8cuvVxY0V","date":{"$$date":1517533200000},"city":"Grand Forks","state":"ND","teams":["North Dakota Fighting Hawks","Montana State Bobcats"]}
+{"gameId":"1687902","_id":"jcDOL3gWdEDuzLAB","date":{"$$date":1484416800000},"city":"Omaha","state":"NE","teams":["Creighton Bluejays","Truman State Bulldogs"]}
+{"gameId":"1732862","_id":"jdKTo35dgKRXf1i2","date":{"$$date":1488764100000},"city":"Asheville","state":"NC","teams":["East Tennessee State Buccaneers","Samford Bulldogs"]}
+{"gameId":"1973829","_id":"jdeeRvNLZoy15GF6","date":{"$$date":1513454400000},"city":"Fort Wayne","state":"IN","teams":["Fort Wayne Mastodons","Stetson Hatters"]}
+{"gameId":"1690400","_id":"jdgnO3uXokGnVvft","date":{"$$date":1487725200000},"city":"Mt. Pleasant","state":"MI","teams":["Central Michigan Chippewas","Northern Illinois Huskies"]}
+{"gameId":"1942441","_id":"jeTySOMMDXnd1f00","date":{"$$date":1511053200000},"city":"Syracuse","state":"NY","teams":["Syracuse Orange","Texas Southern Tigers"]}
+{"gameId":"1692217","_id":"jess72nTvfuHCi9o","date":{"$$date":1481763600000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","Oral Roberts Golden Eagles"]}
+{"gameId":"1973524","_id":"jf4nXNfhSYpmDOLE","date":{"$$date":1518483600000},"city":"Greensboro","state":"NC","teams":["UNCG Spartans","East Tennessee State Buccaneers"]}
+{"gameId":"1682185","_id":"jfFMCefreQLfjp5B","date":{"$$date":1488747600000},"city":"New Orleans","state":"LA","teams":["Tulane Green Wave","Tulsa Golden Hurricane"]}
+{"gameId":"1682874","_id":"jfjqm9QNRjeL49hQ","date":{"$$date":1488045600000},"city":"Raleigh","state":"NC","teams":["North Carolina State Wolfpack","Virginia Cavaliers"]}
+{"gameId":"1971316","_id":"jfwemJjfwKOpZW7I","date":{"$$date":1515358800000},"city":"Oakland","state":"MI","teams":["Oakland Golden Grizzlies","Wright State Raiders"]}
+{"gameId":"1686006","_id":"jhCPv1C7OyWI0rqc","date":{"$$date":1487458800000},"city":"Fayetteville","state":"AR","teams":["Arkansas Razorbacks","Ole Miss Rebels"]}
+{"gameId":"1686100","_id":"jhG0JbSqSgcl9zVZ","date":{"$$date":1478991600000},"city":"Salt Lake City","state":"UT","teams":["Utah Runnin' Utes","Northwest Nazarene Crusaders"]}
+{"gameId":"1691487","_id":"jhL0m3hRC59OEUBi","date":{"$$date":1480186800000},"city":"Amherst","state":"MA","teams":["Massachusetts Minutemen","Harvard Crimson"]}
+{"gameId":"1692200","_id":"ji0wdwytrENFjdOM","date":{"$$date":1478912700000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","Alabama A&M Bulldogs"]}
+{"gameId":"1966068","_id":"jiXqjMEDUBB0j350","date":{"$$date":1517695200000},"city":"Nashville","state":"TN","teams":["Lipscomb Bisons","NJIT Highlanders"]}
+{"gameId":"1692071","_id":"jiboIftIzIGiggOz","date":{"$$date":1484442000000},"city":"Youngstown","state":"OH","teams":["Youngstown State Penguins","UIC Flames"]}
+{"gameId":"2032307","_id":"jieDGHTvk6bxKDRo","date":{"$$date":1520985600000},"city":"Murfreesboro","state":"TN","teams":["Middle Tennessee Blue Raiders","Vermont Catamounts"]}
+{"gameId":"1974296","_id":"jj4qrVQvHGm55tsa","date":{"$$date":1519509600000},"city":"Washington","state":"DC","teams":["Howard Bison","Delaware State Hornets"]}
+{"gameId":"1969267","_id":"jjRSDpH1IfPC4OyP","date":{"$$date":1516323600000},"city":"Albany","state":"NY","teams":["Albany Great Danes","Massachusetts-Lowell River Hawks"]}
+{"gameId":"1689957","_id":"jk6NRmPYiY7lMlh7","date":{"$$date":1483059900000},"city":"Portland","state":"OR","teams":["Portland State Vikings","North Dakota Fighting Hawks"]}
+{"gameId":"1682748","_id":"jl3Q0j6XbBmnHDha","date":{"$$date":1485028800000},"city":"Raleigh","state":"NC","teams":["North Carolina State Wolfpack","Wake Forest Demon Deacons"]}
+{"gameId":"1981451","_id":"jlFIqqvhqZ3kT9VN","date":{"$$date":1513965600000},"city":"Las Vegas","state":"NV","teams":["Radford Highlanders","North Carolina A&T Aggies"]}
+{"gameId":"1688475","_id":"jmWTNmfX7ncSCmB4","date":{"$$date":1481335200000},"city":"Minneapolis","state":"MN","teams":["Minnesota Golden Gophers","Georgia Southern Eagles"]}
+{"gameId":"1689329","_id":"jnInP138cqiaY7Ia","date":{"$$date":1483664400000},"city":"Hamilton","state":"NY","teams":["Colgate Raiders","Holy Cross Crusaders"]}
+{"gameId":"1971202","_id":"jnwxPkDkxXwD376P","date":{"$$date":1515286800000},"city":"Youngstown","state":"OH","teams":["Youngstown State Penguins","Green Bay Phoenix"]}
+{"gameId":"1682580","_id":"jo1xIyLvbzzBY3qk","date":{"$$date":1479344400000},"city":"Notre Dame","state":"IN","teams":["Notre Dame Fighting Irish","Seattle Redhawks"]}
+{"gameId":"1949513","_id":"joEXyjs35FnxNGeV","date":{"$$date":1517770800000},"city":"College Park","state":"MD","teams":["Maryland Terrapins","Wisconsin Badgers"]}
+{"gameId":"1689135","_id":"joOnBxDNxu60WOwU","date":{"$$date":1478908800000},"city":"Oxford","state":"MS","teams":["Ole Miss Rebels","UT Martin Skyhawks"]}
+{"gameId":"1963631","_id":"joUdV8GMHkYkBKmi","date":{"$$date":1513213200000},"city":"Philadelphia","state":"PA","teams":["Temple Owls","Villanova Wildcats"]}
+{"gameId":"1974353","_id":"joxgC7BYdMOwLexQ","date":{"$$date":1517276820000},"city":"Baltimore","state":"MD","teams":["Morgan State Bears","South Carolina State Bulldogs"]}
+{"gameId":"1972228","_id":"jp1wAd254aDFRYhh","date":{"$$date":1519588800000},"city":"Lawrenceville","state":"NJ","teams":["Rider Broncs","Iona Gaels"]}
+{"gameId":"1966302","_id":"jpFuY4y2Wxf3Xg3H","date":{"$$date":1517533200000},"city":"Tulsa","state":"OK","teams":["Tulsa Golden Hurricane","SMU Mustangs"]}
+{"gameId":"1971239","_id":"jq0C3LWarN3wqFPa","date":{"$$date":1515632400000},"city":"Indianapolis","state":"IN","teams":["IUPUI Jaguars","Milwaukee Panthers"]}
+{"gameId":"1970332","_id":"js23M27qtZCINfFl","date":{"$$date":1518051600000},"city":"Rock Hill","state":"SC","teams":["Winthrop Eagles","Presbyterian Blue Hose"]}
+{"gameId":"1974458","_id":"jsgec4IfVGeZX7Lz","date":{"$$date":1518904800000},"city":"Itta Bena","state":"MS","teams":["Mississippi Valley State Delta Devils","Texas Southern Tigers"]}
+{"gameId":"1692040","_id":"jsjnrNg0wTyN0dKk","date":{"$$date":1485036000000},"city":"DeLand","state":"FL","teams":["Stetson Hatters","USC Upstate Spartans"]}
+{"gameId":"1692199","_id":"jskkHnZt9U56s5x2","date":{"$$date":1479063900000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","Jacksonville State Gamecocks"]}
+{"gameId":"1683424","_id":"jsmFyCxfWrZtOxpW","date":{"$$date":1479922200000},"city":"Lahaina","state":"HI","teams":["Connecticut Huskies","Oregon Ducks"]}
+{"gameId":"1693732","_id":"jsq7BKhJhu7U8Ud4","date":{"$$date":1481396400000},"city":"Burlington","state":"VT","teams":["Vermont Catamounts","Northeastern Huskies"]}
+{"gameId":"1733586","_id":"jsyWBLtxwNjR0g8z","date":{"$$date":1489178280000},"city":"Nashville","state":"TN","teams":["South Carolina Gamecocks","Alabama Crimson Tide"]}
+{"gameId":"1733622","_id":"jt2dVHnESgRAd5uv","date":{"$$date":1489200120000},"city":"Las Vegas","state":"NV","teams":["Arizona Wildcats","UCLA Bruins"]}
+{"gameId":"1971236","_id":"jtFQx9JRPNgzJgUT","date":{"$$date":1514511960000},"city":"Highland Heights","state":"KY","teams":["Northern Kentucky Norse","IUPUI Jaguars"]}
+{"gameId":"1963513","_id":"jtGleM6VO4XYoTaz","date":{"$$date":1518922800000},"city":"Omaha","state":"NE","teams":["Creighton Bluejays","Marquette Golden Eagles"]}
+{"gameId":"1965018","_id":"jtcC2j0VgLHKpoM8","date":{"$$date":1520118000000},"city":"Boise","state":"ID","teams":["Boise State Broncos","Wyoming Cowboys"]}
+{"gameId":"1944243","_id":"jtpnPsuMmZMHdQ9P","date":{"$$date":1512608400000},"city":"Moscow","state":"ID","teams":["Idaho Vandals","Washington State Cougars"]}
+{"gameId":"1691127","_id":"jttdzd7BjtAnQezz","date":{"$$date":1483210800000},"city":"Brookings","state":"SD","teams":["South Dakota State Jackrabbits","South Dakota Coyotes"]}
+{"gameId":"1683434","_id":"juXhc10ziEt3dEuf","date":{"$$date":1479774600000},"city":"Lahaina","state":"HI","teams":["Chaminade Silverswords","North Carolina Tar Heels"]}
+{"gameId":"1973483","_id":"jvVwh7zoWohyLeMH","date":{"$$date":1518908400000},"city":"Chattanooga","state":"TN","teams":["Chattanooga Mocs","Wofford Terriers"]}
+{"gameId":"1687845","_id":"jvvukiOXOfgYAs9w","date":{"$$date":1486845000000},"city":"Salt Lake City","state":"UT","teams":["Utah Runnin' Utes","Washington Huskies"]}
+{"gameId":"1689562","_id":"jwAcz9OqwFva6EK2","date":{"$$date":1483059600000},"city":"San Antonio","state":"TX","teams":["UTSA Roadrunners","East Central Tigers"]}
+{"gameId":"1942307","_id":"jwKvW1mo75qWXKen","date":{"$$date":1510515000000},"city":"Newark","state":"NJ","teams":["Seton Hall Pirates","Monmouth Hawks"]}
+{"gameId":"1968016","_id":"jwL7w7us0p50TepS","date":{"$$date":1510966800000},"city":"San Francisco","state":"CA","teams":["San Francisco Dons","Sacramento State Hornets"]}
+{"gameId":"1682741","_id":"jx6nTZjF38VJKuNS","date":{"$$date":1484791200000},"city":"Winston-Salem","state":"NC","teams":["Wake Forest Demon Deacons","Miami (FL) Hurricanes"]}
+{"gameId":"1960963","_id":"jxNObGjgDp2qJheU","date":{"$$date":1518980400000},"city":"Clemson","state":"SC","teams":["Clemson Tigers","Duke Blue Devils"]}
+{"gameId":"1682167","_id":"jxmAdMYAUAf3aX5U","date":{"$$date":1487811600000},"city":"Philadelphia","state":"PA","teams":["Temple Owls","UCF Knights"]}
+{"gameId":"1962318","_id":"jxnSiYUzL6S40KVa","date":{"$$date":1517536800000},"city":"El Paso","state":"TX","teams":["UTEP Miners","Western Kentucky Hilltoppers"]}
+{"gameId":"1971267","_id":"jxosON5QK93W3b0G","date":{"$$date":1515805200000},"city":"Chicago","state":"IL","teams":["UIC Flames","Milwaukee Panthers"]}
+{"gameId":"1682625","_id":"jxp2w3hJSisBMfgP","date":{"$$date":1480807800000},"city":"Durham","state":"NC","teams":["Duke Blue Devils","Maine Black Bears"]}
+{"gameId":"1966761","_id":"jxzB1GxWHD8oMlv2","date":{"$$date":1510966800000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","North Dakota State Bison"]}
+{"gameId":"1690123","_id":"jy4zocWm1EOo3320","date":{"$$date":1486688400000},"city":"Asheville","state":"NC","teams":["UNC Asheville Bulldogs","Winthrop Eagles"]}
+{"gameId":"1971035","_id":"jyIKMaXES0rAbEVG","date":{"$$date":1514671200000},"city":"Williamsburg","state":"VA","teams":["William & Mary Tribe","Hofstra Pride"]}
+{"gameId":"1942336","_id":"jyuNz6Q6q3l1YiPO","date":{"$$date":1510365600000},"city":"Milwaukee","state":"WI","teams":["Marquette Golden Eagles","Mount St. Mary's Mountaineers"]}
+{"gameId":"1960940","_id":"jzC2zUMulRqMSSHZ","date":{"$$date":1519174800000},"city":"Raleigh","state":"NC","teams":["North Carolina State Wolfpack","Boston College Eagles"]}
+{"gameId":"1686220","_id":"jzrU5ct2FoyClOXT","date":{"$$date":1479258000000},"city":"Fairfax","state":"VA","teams":["George Mason Patriots","Lebanon Valley Flying Dutchmen"]}
+{"gameId":"1974434","_id":"jzvJGkppczRubNQo","date":{"$$date":1519515900000},"city":"Lorman","state":"MS","teams":["Alcorn State Braves","Southern University Jaguars"]}
+{"gameId":"1972504","_id":"k0BzTS0PzD8rO0T1","date":{"$$date":1511226000000},"city":"Lewisburg","state":"PA","teams":["Bucknell Bison","Siena Saints"]}
+{"gameId":"1690061","_id":"k13R1Kw1SEQWFwq0","date":{"$$date":1483059600000},"city":"Boiling Springs","state":"NC","teams":["Gardner-Webb Runnin' Bulldogs","High Point Panthers"]}
+{"gameId":"1961208","_id":"k1AOnseULs81OE3C","date":{"$$date":1515880800000},"city":"Stillwater","state":"OK","teams":["Oklahoma State Cowboys","Texas Longhorns"]}
+{"gameId":"1688602","_id":"k1AQtkM9hAuEEmrB","date":{"$$date":1480986000000},"city":"New York","state":"NY","teams":["Syracuse Orange","Connecticut Huskies"]}
+{"gameId":"1690650","_id":"k1O9RMEH2yHWL2HE","date":{"$$date":1483585200000},"city":"Logan","state":"UT","teams":["Utah State Aggies","New Mexico Lobos"]}
+{"gameId":"1685905","_id":"k1ZJ2nrXvKX6XRpj","date":{"$$date":1483063200000},"city":"Fayetteville","state":"AR","teams":["Arkansas Razorbacks","Florida Gators"]}
+{"gameId":"1693240","_id":"k2BrLsYFQm6yE32x","date":{"$$date":1483407000000},"city":"Lake Charles","state":"LA","teams":["McNeese State Cowboys","Stephen F. Austin Lumberjacks"]}
+{"gameId":"1964126","_id":"k2szq2gfw1z1Ylzo","date":{"$$date":1510362000000},"city":"Amherst","state":"MA","teams":["Massachusetts Minutemen","Massachusetts-Lowell River Hawks"]}
+{"gameId":"1689500","_id":"k3UlI1sD7gTAL6eg","date":{"$$date":1480795200000},"city":"Towson","state":"MD","teams":["Towson Tigers","Old Dominion Monarchs"]}
+{"gameId":"1687913","_id":"k3bAyOh0BnKJVzFj","date":{"$$date":1481391000000},"city":"Miami","state":"FL","teams":["Temple Owls","DePaul Blue Demons"]}
+{"gameId":"1693729","_id":"k3rtROoMzxGPazDw","date":{"$$date":1480554000000},"city":"Ithaca","state":"NY","teams":["Cornell Big Red","Northeastern Huskies"]}
+{"gameId":"1967924","_id":"k4M19JQQIbz34tIu","date":{"$$date":1511730000000},"city":"Stockton","state":"CA","teams":["Pacific Tigers","Canisius Golden Griffins"]}
+{"gameId":"1732370","_id":"k5DYKbMjYQ0h2jsR","date":{"$$date":1488243600000},"city":"Spartanburg","state":"SC","teams":["USC Upstate Spartans","Kennesaw State Owls"]}
+{"gameId":"1682520","_id":"k5QFE9phXgw8KfDP","date":{"$$date":1487811600000},"city":"Washington","state":"DC","teams":["Georgetown Hoyas","DePaul Blue Demons"]}
+{"gameId":"1694324","_id":"k6b6iche29n0ELyv","date":{"$$date":1480640400000},"city":"Seattle","state":"WA","teams":["Seattle Redhawks","Northwest University Eagles"]}
+{"gameId":"1692362","_id":"k7NdAdyjeLQbz1V6","date":{"$$date":1482454800000},"city":"Provo","state":"UT","teams":["BYU Cougars","Bakersfield Roadrunners"]}
+{"gameId":"1693086","_id":"k8L7xl7BvrAzLEvB","date":{"$$date":1483664400000},"city":"Boston","state":"MA","teams":["Northeastern Huskies","Delaware Fightin' Blue Hens"]}
+{"gameId":"1970993","_id":"k8gB1Ea2gG7EcogJ","date":{"$$date":1518742800000},"city":"Boston","state":"MA","teams":["Northeastern Huskies","Drexel Dragons"]}
+{"gameId":"1682816","_id":"k8veOfAEA9jI9TG5","date":{"$$date":1487034000000},"city":"Syracuse","state":"NY","teams":["Syracuse Orange","Louisville Cardinals"]}
+{"gameId":"1969246","_id":"k9CzeVIarrP85sXo","date":{"$$date":1511830800000},"city":"Troy","state":"AL","teams":["Troy Trojans","Delaware State Hornets"]}
+{"gameId":"1962249","_id":"k9FHHdlj9C8s0pe5","date":{"$$date":1518915600000},"city":"Norfolk","state":"VA","teams":["Old Dominion Monarchs","UTEP Miners"]}
+{"gameId":"1965132","_id":"k9Qu5FmAESZZGHyZ","date":{"$$date":1516237200000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","New Mexico Lobos"]}
+{"gameId":"1690200","_id":"k9TMN1ttoBJi1NfQ","date":{"$$date":1487296800000},"city":"Riverside","state":"CA","teams":["UC Riverside Highlanders","Cal State Fullerton Titans"]}
+{"gameId":"1973707","_id":"k9VRlbzGD0SH46tu","date":{"$$date":1514683800000},"city":"Corpus Christi","state":"TX","teams":["Texas A&M-Corpus Christi Islanders","Lamar Cardinals"]}
+{"gameId":"1692842","_id":"kA8M3DxRtPSlMrKl","date":{"$$date":1481418000000},"city":"Kent","state":"OH","teams":["Kent State Golden Flashes","NJIT Highlanders"]}
+{"gameId":"1967779","_id":"kAYoyXzJFzNh0E3J","date":{"$$date":1510704000000},"city":"Spokane","state":"WA","teams":["Gonzaga Bulldogs","Howard Bison"]}
+{"gameId":"1693723","_id":"kAp3JyDvn7GYHWLk","date":{"$$date":1482973200000},"city":"Harrisonburg","state":"VA","teams":["James Madison Dukes","Eastern Mennonite Royals"]}
+{"gameId":"1685886","_id":"kAp3ja0spilHppQD","date":{"$$date":1488049200000},"city":"Stillwater","state":"OK","teams":["Oklahoma State Cowboys","Texas Tech Red Raiders"]}
+{"gameId":"1686182","_id":"kB4c0u78w1iAW56m","date":{"$$date":1479344400000},"city":"Conway","state":"SC","teams":["Coastal Carolina Chanticleers","Coppin State Eagles"]}
+{"gameId":"1733662","_id":"kBXb0aA6AUlCtFGV","date":{"$$date":1489099080000},"city":"Las Vegas","state":"NV","teams":["New Mexico State Aggies","Chicago State Cougars"]}
+{"gameId":"1681852","_id":"kBd1648S0VJrnjbH","date":{"$$date":1487203200000},"city":"Evanston","state":"IL","teams":["Northwestern Wildcats","Maryland Terrapins"]}
+{"gameId":"1694610","_id":"kBrFu0B0Nh2v19B8","date":{"$$date":1479862800000},"city":"Lorman","state":"MS","teams":["Alcorn State Braves","Blue Mountain College Toppers"]}
+{"gameId":"1689294","_id":"kCIfxfFjCt2M2Vfz","date":{"$$date":1480813200000},"city":"Boca Raton","state":"FL","teams":["Florida Atlantic Owls","Hofstra Pride"]}
+{"gameId":"1973791","_id":"kCNJGDa2LTPRpmf6","date":{"$$date":1520125200000},"city":"Huntsville","state":"TX","teams":["Sam Houston State Bearkats","Stephen F. Austin Lumberjacks"]}
+{"gameId":"1973474","_id":"kCQQsWnjBFgnByLc","date":{"$$date":1516496400000},"city":"Spartanburg","state":"SC","teams":["Wofford Terriers","Chattanooga Mocs"]}
+{"gameId":"1685788","_id":"kCWmxlmETcP0ZdQL","date":{"$$date":1484420400000},"city":"Lawrence","state":"KS","teams":["Kansas Jayhawks","Oklahoma State Cowboys"]}
+{"gameId":"1966732","_id":"kCcWeVh7Jaz24FqI","date":{"$$date":1515632400000},"city":"Terre Haute","state":"IN","teams":["Indiana State Sycamores","UNI Panthers"]}
+{"gameId":"1942440","_id":"kCnKBSh4oBGRJoKp","date":{"$$date":1510707600000},"city":"Syracuse","state":"NY","teams":["Syracuse Orange","Iona Gaels"]}
+{"gameId":"1969303","_id":"kCoPWjonBwTZjBhM","date":{"$$date":1510365660000},"city":"West Hartford","state":"CT","teams":["Hartford Hawks","Central Connecticut State Blue Devils"]}
+{"gameId":"1690340","_id":"kDUKSkC5DdVvD4wi","date":{"$$date":1484701200000},"city":"Akron","state":"OH","teams":["Akron Zips","Ohio Bobcats"]}
+{"gameId":"2032319","_id":"kDfxC5slCdQ7VMO7","date":{"$$date":1521504000000},"city":"San Francisco","state":"CA","teams":["San Francisco Dons","Utah Valley Wolverines"]}
 {"gameId":"1682087","_id":"kDksf4b8xJ23m1DD"}
 {"gameId":"1963482","_id":"kDstPQaPAnF7xfP2"}
 {"gameId":"1967947","_id":"kE4S8cOxmgNtlrz3"}
@@ -11993,212 +11986,377 @@
 {"gameId":"1682902","_id":"zz1WmuMrmZAj0nXA"}
 {"gameId":"1682673","_id":"zzI6c2hFY51YQP4w"}
 {"gameId":"1685794","_id":"zzVPdGCj5vxbN4Sf"}
-{"$$deleted":true,"_id":"CgrxVJ76EaW9AgCO"}
-{"$$deleted":true,"_id":"D1JXFIjzRz72jGTs"}
-{"$$deleted":true,"_id":"HbSvHvTuIakp6dgv"}
-{"$$deleted":true,"_id":"KqidS2JRoeHMb0TM"}
-{"$$deleted":true,"_id":"Rd0wEz4haMj2aOuz"}
-{"$$deleted":true,"_id":"iN15ER2om53FeM1S"}
-{"gameId":"1973692","_id":"iN6xnhm57cMmBVUh","date":{"$$date":1517083200000},"city":"San Antonio","state":"TX","teams":["Incarnate Word Cardinals","New Orleans Privateers"]}
-{"gameId":"1686359","_id":"iNBJ18AGPACZ2JKU","date":{"$$date":1480028400000},"city":"Las Vegas","state":"NV","teams":["Vanderbilt Commodores","Butler Bulldogs"]}
-{"gameId":"1693153","_id":"iNICpJHarBn17rPr","date":{"$$date":1485640800000},"city":"Williamsburg","state":"VA","teams":["William & Mary Tribe","UNCW Seahawks"]}
-{"gameId":"1681786","_id":"iOTaF4WnQkIZ517u","date":{"$$date":1483914600000},"city":"West Lafayette","state":"IN","teams":["Purdue Boilermakers","Wisconsin Badgers"]}
-{"gameId":"1972560","_id":"iOjdWUuFVPOlqDJT","date":{"$$date":1519347600000},"city":"Smithfield","state":"RI","teams":["Bryant Bulldogs","Sacred Heart Pioneers"]}
-{"gameId":"1960959","_id":"iOkMPHG2XFOeEdfV","date":{"$$date":1517360400000},"city":"Clemson","state":"SC","teams":["Clemson Tigers","North Carolina Tar Heels"]}
-{"gameId":"1693174","_id":"iOseL08aIiB1O8RX","date":{"$$date":1486688400000},"city":"Conway","state":"AR","teams":["Central Arkansas Bears","Abilene Christian Wildcats"]}
-{"gameId":"1694387","_id":"iPKwX6Lw18mapHsM","date":{"$$date":1488506400000},"city":"Dover","state":"DE","teams":["Delaware State Hornets","Howard Bison"]}
-{"gameId":"1691343","_id":"iPWnqDoUpLK1trQZ","date":{"$$date":1479517200000},"city":"Pittsburgh","state":"PA","teams":["Duquesne Dukes","Canisius Golden Griffins"]}
-{"gameId":"1980778","_id":"iPai4JW5FVtTVFUq","date":{"$$date":1511226000000},"city":"Las Vegas","state":"NV","teams":["Rice Owls","UNLV Runnin' Rebels"]}
-{"gameId":"1689396","_id":"iPlvFGPOUvK3L9L5","date":{"$$date":1488070800000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","UTEP Miners"]}
-{"gameId":"1972186","_id":"iPz0wnBJl6fUryfL","date":{"$$date":1518742800000},"city":"Bridgeport","state":"CT","teams":["Fairfield Stags","Marist Red Foxes"]}
-{"gameId":"1971344","_id":"iQAb0JQBUqGjmr60","date":{"$$date":1511038800000},"city":"Chicago","state":"IL","teams":["UIC Flames","Fort Wayne Mastodons"]}
-{"gameId":"1687956","_id":"iQCUrGNSmSuXVZSn","date":{"$$date":1482370200000},"city":"Milwaukee","state":"WI","teams":["Marquette Golden Eagles","SIUE Cougars"]}
-{"gameId":"1688615","_id":"iQDJ8yo13hGAni5k","date":{"$$date":1480192200000},"city":"Savannah","state":"GA","teams":["Georgia Southern Eagles","Radford Highlanders"]}
-{"gameId":"1733257","_id":"iR3Ha51CHK5F4htc","date":{"$$date":1489026120000},"city":"Norfolk","state":"VA","teams":["Norfolk State Spartans","South Carolina State Bulldogs"]}
-{"gameId":"1688041","_id":"iRsvQf6in8pP0cfJ","date":{"$$date":1480208400000},"city":"Brooklyn","state":"NY","teams":["Richmond Spiders","Boston College Eagles"]}
-{"gameId":"1687118","_id":"iS12HSkYXz2N16rB","date":{"$$date":1487991600000},"city":"Davidson","state":"NC","teams":["Davidson Wildcats","Dayton Flyers"]}
-{"gameId":"1961239","_id":"iS6nYs0smAjWFbkK","date":{"$$date":1512522000000},"city":"Lubbock","state":"TX","teams":["Texas Tech Red Raiders","Nevada Wolf Pack"]}
-{"gameId":"1961233","_id":"iSnxiPmvirXmELt6","date":{"$$date":1516478400000},"city":"Morgantown","state":"WV","teams":["West Virginia Mountaineers","Texas Longhorns"]}
-{"gameId":"1966005","_id":"iTDEyj43GBhuSXSv","date":{"$$date":1519347600000},"city":"DeLand","state":"FL","teams":["Stetson Hatters","FGCU Eagles"]}
-{"gameId":"1693726","_id":"iTxhUsqr1yrt4Y4a","date":{"$$date":1480791600000},"city":"Wilmington","state":"NC","teams":["UNCW Seahawks","Pfeiffer Falcons"]}
-{"gameId":"1693703","_id":"iU1n4y3JMWb6PYuQ","date":{"$$date":1480813200000},"city":"High Point","state":"NC","teams":["High Point Panthers","Drexel Dragons"]}
-{"gameId":"1963854","_id":"iU7dEcbjRNDFxmsL","date":{"$$date":1517083200000},"city":"Fairfax","state":"VA","teams":["George Mason Patriots","VCU Rams"]}
-{"gameId":"1969655","_id":"iUiH5yKApQHgBoXG","date":{"$$date":1510358400000},"city":"Great Falls","state":"MT","teams":["Montana State Bobcats","Omaha Mavericks"]}
-{"gameId":"1969890","_id":"iVKxhXBdiv5kEEyt","date":{"$$date":1511226000000},"city":"Buies Creek","state":"NC","teams":["Campbell Fighting Camels","Johnson & Wales (NC) Wildcats"]}
-{"gameId":"1694291","_id":"iWWNL4gK1oKTSs3X","date":{"$$date":1482193800000},"city":"Huntsville","state":"TX","teams":["Sam Houston State Bearkats","Randall University Saints"]}
-{"gameId":"1949526","_id":"iWjoNES7XoBJl1Zc","date":{"$$date":1518307200000},"city":"Columbus","state":"OH","teams":["Ohio State Buckeyes","Iowa Hawkeyes"]}
-{"gameId":"2028385","_id":"iXHZqLHBbOpkQwXn","date":{"$$date":1520555400000},"city":"Frisco","state":"TX","teams":["Marshall Thundering Herd","UTSA Roadrunners"]}
-{"gameId":"1687880","_id":"iXWTxi1zu8lJWBLP","date":{"$$date":1479000600000},"city":"Indianapolis","state":"IN","teams":["Butler Bulldogs","Northern Colorado Bears"]}
-{"gameId":"1944181","_id":"iXWUgAORZlRGUq14","date":{"$$date":1510707600000},"city":"Piscataway","state":"NJ","teams":["Rutgers Scarlet Knights","Cleveland State Vikings"]}
-{"gameId":"1690917","_id":"iY9CLxhQczp63Fx9","date":{"$$date":1488049200000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","Fairleigh Dickinson Knights"]}
-{"gameId":"1685915","_id":"iYeDhwtTKlFXGe07","date":{"$$date":1483489800000},"city":"Knoxville","state":"TN","teams":["Tennessee Volunteers","Arkansas Razorbacks"]}
-{"gameId":"1685218","_id":"iYfL0trwd05JMAsq","date":{"$$date":1478908800000},"city":"Los Angeles","state":"CA","teams":["UCLA Bruins","Pacific Tigers"]}
-{"gameId":"1692284","_id":"iZ8sctI7a7QdzPye","date":{"$$date":1480467600000},"city":"Carbondale","state":"IL","teams":["Southern Illinois Salukis","Murray State Racers"]}
-{"gameId":"1961007","_id":"iZAx1g37VEaSAEyF","date":{"$$date":1515632400000},"city":"Atlanta","state":"GA","teams":["Georgia Tech Yellow Jackets","Notre Dame Fighting Irish"]}
-{"gameId":"1688439","_id":"iZRwZfKLUo2FE0bs","date":{"$$date":1479862800000},"city":"College Park","state":"MD","teams":["Maryland Terrapins","Stony Brook Seawolves"]}
-{"gameId":"1685917","_id":"iZTFsfXYbJaquSz0","date":{"$$date":1483493400000},"city":"Starkville","state":"MS","teams":["Mississippi State Bulldogs","Alabama Crimson Tide"]}
-{"gameId":"1693055","_id":"iZWEKzvJPQl4fJpv","date":{"$$date":1483664400000},"city":"Durham","state":"NH","teams":["New Hampshire Wildcats","Stony Brook Seawolves"]}
-{"gameId":"1968227","_id":"iZiJXE8wG3CbIjbE","date":{"$$date":1510430400000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Alabama A&M Bulldogs"]}
-{"gameId":"2028434","_id":"iZnrV8o9mVSgxgiG","date":{"$$date":1520359500000},"city":"Reno","state":"NV","teams":["North Dakota Fighting Hawks","Montana State Bobcats"]}
-{"gameId":"1682511","_id":"iajq0JEnNzrwqrRN","date":{"$$date":1487037600000},"city":"Rosemont","state":"IL","teams":["DePaul Blue Demons","Villanova Wildcats"]}
-{"gameId":"1692875","_id":"ibSuPB0KcaJMDPzs","date":{"$$date":1482004800000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Cleveland State Vikings"]}
-{"gameId":"1974219","_id":"iblDsamdk6N1d8QE","date":{"$$date":1516496400000},"city":"Edinburg","state":"TX","teams":["Texas-Rio Grande Valley Vaqueros","Seattle Redhawks"]}
-{"gameId":"1972748","_id":"icp0wtT2G1BQnPXZ","date":{"$$date":1519523820000},"city":"Cookeville","state":"TN","teams":["Tennessee Tech Golden Eagles","Jacksonville State Gamecocks"]}
-{"gameId":"1694110","_id":"id7q1WYrv5Kh0fmS","date":{"$$date":1480559400000},"city":"West Hartford","state":"CT","teams":["Hartford Hawks","LIU Brooklyn Blackbirds"]}
-{"gameId":"1969186","_id":"idGFtVb4QUGwmtCa","date":{"$$date":1516487400000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Louisiana Ragin' Cajuns"]}
-{"gameId":"1688717","_id":"idkePaYWP7GuGlU2","date":{"$$date":1480888800000},"city":"Washington","state":"DC","teams":["George Washington Colonials","Florida State Seminoles"]}
-{"gameId":"1694300","_id":"idvPINZKh0NcVksE","date":{"$$date":1482091200000},"city":"Nacogdoches","state":"TX","teams":["Stephen F. Austin Lumberjacks","LSU-Shreveport Pilots"]}
-{"gameId":"1690533","_id":"ieDhtyLDyE2xteh3","date":{"$$date":1484096400000},"city":"Riverdale","state":"NY","teams":["Manhattan Jaspers","Niagara Purple Eagles"]}
-{"$$deleted":true,"_id":"ieWi0k5FhipFDZ1q"}
-{"gameId":"1971319","_id":"ifXdRzwWlsgORGu0","date":{"$$date":1516064400000},"city":"Chicago","state":"IL","teams":["UIC Flames","Oakland Golden Grizzlies"]}
-{"gameId":"1691976","_id":"ifvF8O2jgcbgiNlr","date":{"$$date":1478916000000},"city":"Albuquerque","state":"NM","teams":["New Mexico Lobos","Idaho State Bengals"]}
-{"gameId":"1944144","_id":"igDMeDUPtoQbXsDR","date":{"$$date":1513450800000},"city":"Chicago","state":"IL","teams":["DePaul Blue Demons","Northwestern Wildcats"]}
-{"gameId":"1968009","_id":"igKdY4Zic1p9YxeQ","date":{"$$date":1518289200000},"city":"Santa Clara","state":"CA","teams":["Santa Clara Broncos","San Diego Toreros"]}
-{"gameId":"1966025","_id":"igOplfBm16T2fhm0","date":{"$$date":1518742800000},"city":"Jacksonville","state":"FL","teams":["Jacksonville Dolphins","NJIT Highlanders"]}
-{"gameId":"1681902","_id":"igthPvKlQZ5jxvKw","date":{"$$date":1479171600000},"city":"Cincinnati","state":"OH","teams":["Cincinnati Bearcats","Albany Great Danes"]}
-{"gameId":"1693451","_id":"ih6O3DBI2y77BUlD","date":{"$$date":1480183200000},"city":"Las Vegas","state":"NV","teams":["Alabama State Hornets","Cal State Fullerton Titans"]}
-{"gameId":"1692153","_id":"ih8AYojSS6LuAJcK","date":{"$$date":1480280400000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Ferris State Bulldogs"]}
-{"gameId":"1733656","_id":"ihcyZKVA92lF44hk","date":{"$$date":1489082400000},"city":"Anaheim","state":"CA","teams":["UC Davis Aggies","Cal Poly Mustangs"]}
-{"gameId":"1961317","_id":"ii5RyQCXU4oSIdQ6","date":{"$$date":1513904400000},"city":"Minneapolis","state":"MN","teams":["Minnesota Golden Gophers","Oral Roberts Golden Eagles"]}
-{"gameId":"1965310","_id":"ii7hFQHZtg0pR5QQ","date":{"$$date":1513731600000},"city":"Laramie","state":"WY","teams":["Wyoming Cowboys","Northern Colorado Bears"]}
-{"gameId":"1691793","_id":"iiLAaYQmOPwq7pUy","date":{"$$date":1484874000000},"city":"Fort Myers","state":"FL","teams":["FGCU Eagles","USC Upstate Spartans"]}
-{"gameId":"1682456","_id":"iiMDNuI8xxQHAxQ7","date":{"$$date":1483297200000},"city":"Rosemont","state":"IL","teams":["DePaul Blue Demons","St. John's Red Storm"]}
-{"gameId":"1944294","_id":"iiZwrhJjkzsQvCjE","date":{"$$date":1510356600000},"city":"Starkville","state":"MS","teams":["Mississippi State Bulldogs","Alabama State Hornets"]}
-{"gameId":"1687837","_id":"iifk3J5DmqneWRHz","date":{"$$date":1486258200000},"city":"Seattle","state":"WA","teams":["Washington Huskies","UCLA Bruins"]}
-{"gameId":"1691319","_id":"ijKebO2afzJ2zWD7","date":{"$$date":1483815600000},"city":"Charleston","state":"SC","teams":["Citadel Bulldogs","VMI Keydets"]}
-{"gameId":"1969310","_id":"ijQjqMry25vaLVrr","date":{"$$date":1513990800000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","Hartford Hawks"]}
-{"gameId":"1692600","_id":"ijfokcCjBdjw4sB9","date":{"$$date":1480275000000},"city":"Valparaiso","state":"IN","teams":["Valparaiso Crusaders","Ball State Cardinals"]}
-{"gameId":"1738927","_id":"ijjY8Z03z9Bmt9T4","date":{"$$date":1489770900000},"city":"Indianapolis","state":"IN","teams":["Michigan Wolverines","Oklahoma State Cowboys"]}
-{"gameId":"1689511","_id":"ijmGh8rlvzcdMDnS","date":{"$$date":1488070800000},"city":"Norfolk","state":"VA","teams":["Old Dominion Monarchs","Western Kentucky Hilltoppers"]}
-{"gameId":"1688547","_id":"ijteSRzBGGyY6KDB","date":{"$$date":1479258000000},"city":"University Park","state":"PA","teams":["Penn State Nittany Lions","Grand Canyon Antelopes"]}
-{"gameId":"1693090","_id":"ik8SVY9I0ZsKj13m","date":{"$$date":1484874000000},"city":"Newark","state":"DE","teams":["Delaware Fightin' Blue Hens","Northeastern Huskies"]}
-{"gameId":"1693180","_id":"ik9JhZPtTF4ozMik","date":{"$$date":1488675600000},"city":"Houston","state":"TX","teams":["Houston Baptist Huskies","Abilene Christian Wildcats"]}
-{"gameId":"1979327","_id":"ikGfGAZ5PgMbr7gy","date":{"$$date":1511274600000},"city":"Lahaina","state":"HI","teams":["Wichita State Shockers","Marquette Golden Eagles"]}
-{"gameId":"1970832","_id":"ikSW41bwgyYnyHfs","date":{"$$date":1510363800000},"city":"Northridge","state":"CA","teams":["CSUN Matadors","Life Pacific Warriors"]}
-{"gameId":"1690580","_id":"ikThgmoOF4Skvwjs","date":{"$$date":1485727200000},"city":"New Rochelle","state":"NY","teams":["Iona Gaels","Saint Peter's Peacocks"]}
-{"gameId":"1689098","_id":"ikgufSFtE95DKTdw","date":{"$$date":1482001200000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Charleston Southern Buccaneers"]}
-{"gameId":"1971451","_id":"ilVYcAyOZRdJ9ErV","date":{"$$date":1513904400000},"city":"Boston","state":"MA","teams":["Harvard Crimson","Boston University Terriers"]}
-{"gameId":"2028235","_id":"ilpxgXnsPwJr3niN","date":{"$$date":1520384400000},"city":"Brooklyn","state":"NY","teams":["Syracuse Orange","Wake Forest Demon Deacons"]}
-{"gameId":"1981393","_id":"ilz2Jy9ii2YlSu4W","date":{"$$date":1511546400000},"city":"Portland","state":"OR","teams":["Butler Bulldogs","Portland State Vikings"]}
-{"gameId":"1962164","_id":"imitOsCy3gdeql6l","date":{"$$date":1516478400000},"city":"Boca Raton","state":"FL","teams":["Florida Atlantic Owls","Old Dominion Monarchs"]}
-{"gameId":"1681889","_id":"imkz80Ta7affvhqf","date":{"$$date":1478912400000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Florida A&M Rattlers"]}
-{"gameId":"1693987","_id":"inRuKbFd4JvK5Wlm","date":{"$$date":1480187100000},"city":"Worcester","state":"MA","teams":["Monmouth Hawks","South Carolina State Bulldogs"]}
-{"gameId":"1969422","_id":"inb3FuhPMPneYfPy","date":{"$$date":1520107500000},"city":"Cheney","state":"WA","teams":["Eastern Washington Eagles","Northern Arizona Lumberjacks"]}
-{"gameId":"1690213","_id":"inhNO8ewEYnCnHKE","date":{"$$date":1488416400000},"city":"Riverside","state":"CA","teams":["UC Riverside Highlanders","UC Irvine Anteaters"]}
-{"gameId":"1693947","_id":"innwJH6yYpvKuBsr","date":{"$$date":1479225600000},"city":"Nacogdoches","state":"TX","teams":["Stephen F. Austin Lumberjacks","Longwood Lancers"]}
-{"gameId":"1966805","_id":"io8TXz47elaLvUpw","date":{"$$date":1512867600000},"city":"Carbondale","state":"IL","teams":["Southern Illinois Salukis","Southeast Missouri State Redhawks"]}
-{"gameId":"1971431","_id":"ioBGVYEcz1wo1tLm","date":{"$$date":1520038800000},"city":"Boston","state":"MA","teams":["Harvard Crimson","Cornell Big Red"]}
-{"gameId":"1973783","_id":"ioEfY0mFDskRC2GR","date":{"$$date":1510705800000},"city":"Huntsville","state":"TX","teams":["Sam Houston State Bearkats","Hardin-Simmons Cowboys"]}
-{"gameId":"1733468","_id":"ioIzjeHQSvcpuqWF","date":{"$$date":1489021200000},"city":"New York","state":"NY","teams":["St. John's Red Storm","Georgetown Hoyas"]}
-{"gameId":"1970099","_id":"iouYkkEJAk9pn6Yo","date":{"$$date":1513540800000},"city":"Asheville","state":"NC","teams":["High Point Panthers","Wofford Terriers"]}
-{"gameId":"1682658","_id":"ip3QL6kPme1AOXIW","date":{"$$date":1481997600000},"city":"Louisville","state":"KY","teams":["Louisville Cardinals","Eastern Kentucky Colonels"]}
-{"gameId":"1965279","_id":"ipYWxOxcblYlI89X","date":{"$$date":1510794000000},"city":"Logan","state":"UT","teams":["Utah State Aggies","Mississippi Valley State Delta Devils"]}
-{"gameId":"1732532","_id":"ipeGigltZ90928pT","date":{"$$date":1488595740000},"city":"St. Louis","state":"MO","teams":["UNI Panthers","Missouri State Bears"]}
-{"gameId":"1973638","_id":"iqEo1W1jxaylOuO1","date":{"$$date":1516237200000},"city":"New Orleans","state":"LA","teams":["New Orleans Privateers","Central Arkansas Bears"]}
-{"gameId":"1969607","_id":"iqGSy3IiVOcS05nU","date":{"$$date":1510798800000},"city":"Bozeman","state":"MT","teams":["Montana State Bobcats","Montana-Western Bulldogs"]}
-{"gameId":"1689205","_id":"iqM8VfPX0TYNemja","date":{"$$date":1479780000000},"city":"Nashville","state":"TN","teams":["Vanderbilt Commodores","Bucknell Bison"]}
-{"gameId":"1692056","_id":"ir7X77t5zFNGTOXw","date":{"$$date":1483666200000},"city":"Dayton","state":"OH","teams":["Wright State Raiders","Cleveland State Vikings"]}
-{"gameId":"1693693","_id":"irOBuj0mJqV2zQ0p","date":{"$$date":1482454800000},"city":"Cullowhee","state":"NC","teams":["Western Carolina Catamounts","Charleston Cougars"]}
-{"gameId":"1689389","_id":"is1g8XP0yDDiWvhE","date":{"$$date":1485046800000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","UAB Blazers"]}
-{"gameId":"1687018","_id":"isUD5DECvaVEYkM9","date":{"$$date":1485307800000},"city":"Davidson","state":"NC","teams":["Davidson Wildcats","Duquesne Dukes"]}
-{"gameId":"1733575","_id":"itNZ6yzpQTjGv8nn","date":{"$$date":1489026840000},"city":"Pittsburgh","state":"PA","teams":["Saint Louis Billikens","Duquesne Dukes"]}
-{"gameId":"1690073","_id":"itPK9e3GnXHAvJqC","date":{"$$date":1483578000000},"city":"Radford","state":"VA","teams":["Radford Highlanders","Gardner-Webb Runnin' Bulldogs"]}
-{"gameId":"1682725","_id":"itXfUfxAtaurNEHe","date":{"$$date":1484182800000},"city":"Louisville","state":"KY","teams":["Louisville Cardinals","Pittsburgh Panthers"]}
-{"gameId":"1960923","_id":"itYxIdcG0etKxFTV","date":{"$$date":1513537200000},"city":"Chestnut Hill","state":"MA","teams":["Boston College Eagles","Central Connecticut State Blue Devils"]}
-{"gameId":"1689533","_id":"itrAq0ep43Jay0ea","date":{"$$date":1479776400000},"city":"Hattiesburg","state":"MS","teams":["Southern Miss Golden Eagles","Alabama A&M Bulldogs"]}
-{"gameId":"1693571","_id":"iuVeINKV8n6mQMeD","date":{"$$date":1480467600000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","McNeese State Cowboys"]}
-{"gameId":"1690836","_id":"iuX9lpoM166Bo27q","date":{"$$date":1483224300000},"city":"Brooklyn","state":"NY","teams":["LIU Brooklyn Blackbirds","Bryant Bulldogs"]}
-{"gameId":"1972655","_id":"ivX0GordQXGSuU5t","date":{"$$date":1517007600000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","Wagner Seahawks"]}
-{"gameId":"1963594","_id":"ivr4O5lTKjfSYtFk","date":{"$$date":1518656400000},"city":"Providence","state":"RI","teams":["Providence Friars","Villanova Wildcats"]}
-{"gameId":"1694458","_id":"ivv0MFFoG6JSlCDD","date":{"$$date":1488506400000},"city":"Greensboro","state":"NC","teams":["North Carolina A&T Aggies","North Carolina Central Eagles"]}
-{"gameId":"1690508","_id":"iwLFCyKemnh6Rb8V","date":{"$$date":1480881600000},"city":"Jersey City","state":"NJ","teams":["Saint Peter's Peacocks","Manhattan Jaspers"]}
-{"gameId":"1961992","_id":"ix7j0hbQ2cDLjSXj","date":{"$$date":1515279600000},"city":"Auburn","state":"AL","teams":["Auburn Tigers","Arkansas Razorbacks"]}
-{"gameId":"1690523","_id":"ixj3XK0G4aeif0Cp","date":{"$$date":1483668000000},"city":"Riverdale","state":"NY","teams":["Manhattan Jaspers","Fairfield Stags"]}
-{"gameId":"1973758","_id":"iyMhZN6wpXaF3VGe","date":{"$$date":1514055600000},"city":"Seattle","state":"WA","teams":["Seattle Redhawks","Nicholls Colonels"]}
-{"gameId":"1690898","_id":"iyiEvfX5HqSJVsMU","date":{"$$date":1486850400000},"city":"Smithfield","state":"RI","teams":["Bryant Bulldogs","St. Francis Brooklyn Terriers"]}
-{"gameId":"1689982","_id":"iytbsiXBgoTDrLHt","date":{"$$date":1484440200000},"city":"Cedar City","state":"UT","teams":["Southern Utah Thunderbirds","Portland State Vikings"]}
-{"gameId":"1965220","_id":"iyut6cHu2zCe99PC","date":{"$$date":1511227800000},"city":"San Diego","state":"CA","teams":["San Diego State Aztecs","Eastern Illinois Panthers"]}
-{"gameId":"1733475","_id":"iyvjs4pFqLZioUXJ","date":{"$$date":1489104000000},"city":"Kansas City","state":"MO","teams":["West Virginia Mountaineers","Texas Longhorns"]}
-{"gameId":"1692018","_id":"izMUu72cFn2Gm0zs","date":{"$$date":1486256400000},"city":"Jacksonville","state":"FL","teams":["North Florida Ospreys","Stetson Hatters"]}
-{"gameId":"1690253","_id":"izOWLfw2JwTYgY20","date":{"$$date":1484877600000},"city":"Moraga","state":"CA","teams":["Saint Mary's Gaels","Pacific Tigers"]}
-{"gameId":"1967990","_id":"j05w5VxeX8TkhdqO","date":{"$$date":1510794000000},"city":"San Diego","state":"CA","teams":["San Diego Toreros","Robert Morris Colonials"]}
-{"gameId":"1733572","_id":"j0LMSPJ7iaWPLVz6","date":{"$$date":1489104000000},"city":"Pittsburgh","state":"PA","teams":["George Mason Patriots","Fordham Rams"]}
-{"gameId":"1690274","_id":"j1DPM6lLX4vJLsjy","date":{"$$date":1486090800000},"city":"Provo","state":"UT","teams":["BYU Cougars","Gonzaga Bulldogs"]}
-{"gameId":"1692517","_id":"j1IcIHIbPmX7OjRY","date":{"$$date":1481931000000},"city":"Portland","state":"OR","teams":["Portland Pilots","South Dakota Coyotes"]}
-{"gameId":"1682454","_id":"j1OqIRPgZ0LpRKCE","date":{"$$date":1483203600000},"city":"Washington","state":"DC","teams":["Georgetown Hoyas","Xavier Musketeers"]}
-{"gameId":"1964889","_id":"j1Zwx8pQM3YxyoSb","date":{"$$date":1511226000000},"city":"Colorado Springs","state":"CO","teams":["Air Force Falcons","UAPB Golden Lions"]}
-{"gameId":"1687877","_id":"j1nWJIRbtADUkxWd","date":{"$$date":1488661200000},"city":"Corvallis","state":"OR","teams":["Oregon State Beavers","Oregon Ducks"]}
-{"gameId":"1689344","_id":"j29qxgMXmpzapzr2","date":{"$$date":1479508200000},"city":"Mobile","state":"AL","teams":["Jacksonville Dolphins","Youngstown State Penguins"]}
-{"gameId":"1686005","_id":"j2MeqgvJBVRg4Wwd","date":{"$$date":1487462400000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Kentucky Wildcats"]}
-{"gameId":"1970924","_id":"j2N3KPO5V7w7ahOk","date":{"$$date":1514941200000},"city":"Charleston","state":"SC","teams":["Charleston Cougars","Delaware Fightin' Blue Hens"]}
-{"gameId":"1963687","_id":"j2cPj72hwu8hnbAB","date":{"$$date":1515027600000},"city":"New York","state":"NY","teams":["Fordham Rams","Richmond Spiders"]}
-{"gameId":"1974467","_id":"j2lMXPNa8gTd2dn1","date":{"$$date":1516489200000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","UAPB Golden Lions"]}
-{"gameId":"1694325","_id":"j2ug5IHvdROpmStd","date":{"$$date":1481418000000},"city":"Seattle","state":"WA","teams":["Seattle Redhawks","University of Great Falls Argonauts"]}
-{"gameId":"1691394","_id":"j3OjG8m72i06uygn","date":{"$$date":1486249200000},"city":"Chattanooga","state":"TN","teams":["Chattanooga Mocs","Western Carolina Catamounts"]}
-{"gameId":"1732484","_id":"j3i4D2F8hB5WEUgr","date":{"$$date":1488502800000},"city":"Boston","state":"MA","teams":["Boston University Terriers","Loyola Maryland Greyhounds"]}
-{"gameId":"1971099","_id":"j4Bwac5bPv7soMrd","date":{"$$date":1513731600000},"city":"Niagara","state":"NY","teams":["Niagara Purple Eagles","Cleveland State Vikings"]}
-{"gameId":"1690658","_id":"j4IOdSSizSHFOAhI","date":{"$$date":1484182800000},"city":"Colorado Springs","state":"CO","teams":["Air Force Falcons","Fresno State Bulldogs"]}
-{"gameId":"1961235","_id":"j4i5zhQEC2NUlXDK","date":{"$$date":1520096400000},"city":"Austin","state":"TX","teams":["Texas Longhorns","West Virginia Mountaineers"]}
-{"gameId":"1690613","_id":"j4oYKiOW1DWsBU9E","date":{"$$date":1487545200000},"city":"New Rochelle","state":"NY","teams":["Iona Gaels","Rider Broncs"]}
-{"gameId":"1972779","_id":"j5KCeYZHmh9vXIW6","date":{"$$date":1513731600000},"city":"Edwardsville","state":"IL","teams":["SIUE Cougars","Chicago State Cougars"]}
-{"gameId":"2025446","_id":"j5SWB3SyVQNrR6er","date":{"$$date":1520035200000},"city":"St. Louis","state":"MO","teams":["Southern Illinois Salukis","Missouri State Bears"]}
-{"gameId":"1693302","_id":"j5V0KoQDsDgYBbdH","date":{"$$date":1485046800000},"city":"Jonesboro","state":"AR","teams":["Arkansas State Red Wolves","Troy Trojans"]}
-{"gameId":"1973831","_id":"j5stVlY62IakyWFX","date":{"$$date":1514673000000},"city":"Fort Wayne","state":"IN","teams":["Fort Wayne Mastodons","Concordia (MI) Cardinals"]}
-{"gameId":"1972785","_id":"j60FZZLoncc8L7VW","date":{"$$date":1518742800000},"city":"Martin","state":"TN","teams":["UT Martin Skyhawks","SIUE Cougars"]}
-{"gameId":"1689524","_id":"j613TMhxt1nv6ITB","date":{"$$date":1482370200000},"city":"Houston","state":"TX","teams":["Rice Owls","St. Thomas (TX) Celts"]}
-{"gameId":"1687043","_id":"j6JqaJHyCxEGwEeM","date":{"$$date":1485997200000},"city":"Richmond","state":"VA","teams":["VCU Rams","Richmond Spiders"]}
-{"gameId":"1694648","_id":"j6KpHnUomz5va56l","date":{"$$date":1484616600000},"city":"Prairie View","state":"TX","teams":["Prairie View A&M Panthers","Grambling State Tigers"]}
-{"gameId":"1681801","_id":"j6MbzloeRsqlDZ3U","date":{"$$date":1484787600000},"city":"University Park","state":"PA","teams":["Penn State Nittany Lions","Indiana Hoosiers"]}
-{"gameId":"1693841","_id":"j6PJH2c6vGnxOf6D","date":{"$$date":1481418000000},"city":"Brookings","state":"SD","teams":["South Dakota State Jackrabbits","Idaho Vandals"]}
-{"gameId":"1962084","_id":"j6sc1l0LnkfWWVfN","date":{"$$date":1518894000000},"city":"Baton Rouge","state":"LA","teams":["LSU Tigers","Missouri Tigers"]}
-{"gameId":"1685406","_id":"j7151y3KCh3KJn9Y","date":{"$$date":1479850200000},"city":"Brooklyn","state":"NY","teams":["Texas Longhorns","Colorado Buffaloes"]}
-{"gameId":"1738986","_id":"j7arG4teTq8FJs02","date":{"$$date":1490554800000},"city":"Corpus Christi","state":"TX","teams":["Texas A&M-Corpus Christi Islanders","Fort Wayne Mastodons"]}
-{"gameId":"1689459","_id":"j7rS58c0OAnGhrsH","date":{"$$date":1481763600000},"city":"Nashville","state":"TN","teams":["Belmont Bruins","Middle Tennessee Blue Raiders"]}
-{"gameId":"1963904","_id":"j7sUgGzVg6ZNsco6","date":{"$$date":1518285600000},"city":"Pittsburgh","state":"PA","teams":["Duquesne Dukes","Fordham Rams"]}
-{"gameId":"1682629","_id":"j8NHxjVsIp8Md57O","date":{"$$date":1480892400000},"city":"Notre Dame","state":"IN","teams":["Notre Dame Fighting Irish","North Carolina A&T Aggies"]}
-{"gameId":"1966769","_id":"j8V2wDBAaLDFRN46","date":{"$$date":1513731600000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","Wright State Raiders"]}
-{"gameId":"1681982","_id":"j8eSvkzl52zsXzrZ","date":{"$$date":1480554000000},"city":"Boise","state":"ID","teams":["Boise State Broncos","SMU Mustangs"]}
-{"gameId":"1693643","_id":"j922DD7yDXO3wsl5","date":{"$$date":1480269900000},"city":"Worcester","state":"MA","teams":["Holy Cross Crusaders","Monmouth Hawks"]}
-{"gameId":"1974407","_id":"j9GN2tcS2OudfJb3","date":{"$$date":1516491900000},"city":"Baton Rouge","state":"LA","teams":["Southern University Jaguars","Alabama State Hornets"]}
-{"gameId":"1972582","_id":"j9eETYvknryDzBkh","date":{"$$date":1511380800000},"city":"Teaneck","state":"NJ","teams":["Fairleigh Dickinson Knights","Holy Cross Crusaders"]}
-{"gameId":"1686993","_id":"j9eeQ7KR47CrczyA","date":{"$$date":1484519400000},"city":"Philadelphia","state":"PA","teams":["La Salle Explorers","George Washington Colonials"]}
-{"gameId":"1682163","_id":"jAMAhSrh9Cy0CmRm","date":{"$$date":1487444400000},"city":"New Orleans","state":"LA","teams":["Tulane Green Wave","South Florida Bulls"]}
-{"gameId":"1732568","_id":"jAO9weqsqvMFQzHB","date":{"$$date":1488514500000},"city":"Albany","state":"NY","teams":["Rider Broncs","Manhattan Jaspers"]}
-{"gameId":"2025511","_id":"jAVUymdcfxEEl2lA","date":{"$$date":1520213400000},"city":"Detroit","state":"MI","teams":["Oakland Golden Grizzlies","IUPUI Jaguars"]}
-{"gameId":"2024238","_id":"jAbps8bIvbRqs3T0","date":{"$$date":1519693200000},"city":"Nashville","state":"TN","teams":["Lipscomb Bisons","Stetson Hatters"]}
-{"gameId":"1942328","_id":"jBMzQJS6JjMfqzuU","date":{"$$date":1512176400000},"city":"Spokane","state":"WA","teams":["Gonzaga Bulldogs","Creighton Bluejays"]}
-{"gameId":"1966685","_id":"jBQzxwheZgStXRAj","date":{"$$date":1512846000000},"city":"Evansville","state":"IN","teams":["Evansville Aces","Canisius Golden Griffins"]}
-{"gameId":"1972823","_id":"jBY6pABUv1D3E8zQ","date":{"$$date":1515718800000},"city":"Washington","state":"DC","teams":["American University Eagles","Loyola Maryland Greyhounds"]}
-{"gameId":"1980693","_id":"jBho97qHWBI4NDIl","date":{"$$date":1511373600000},"city":"George Town","state":"","teams":["UAB Blazers","Iowa Hawkeyes"]}
-{"gameId":"1693570","_id":"jBx9GJZ4kNlu9lB0","date":{"$$date":1479776400000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Texas A&M-Corpus Christi Islanders"]}
-{"gameId":"1691406","_id":"jCU3re5v4e43EWxS","date":{"$$date":1479513600000},"city":"New York","state":"NY","teams":["Fordham Rams","Fairleigh Dickinson Knights"]}
-{"gameId":"1694125","_id":"jCVZLDY2QgNPMLix","date":{"$$date":1479171600000},"city":"Lowell","state":"MA","teams":["Massachusetts-Lowell River Hawks","Wagner Seahawks"]}
-{"gameId":"1961241","_id":"jCbm6wuZe1KY8MmN","date":{"$$date":1513472400000},"city":"Lubbock","state":"TX","teams":["Texas Tech Red Raiders","Rice Owls"]}
-{"gameId":"1967789","_id":"jCj6toMptdVmKeYF","date":{"$$date":1516320000000},"city":"Spokane","state":"WA","teams":["Gonzaga Bulldogs","Saint Mary's Gaels"]}
-{"gameId":"1682671","_id":"jE34pYs2Q6DpaprD","date":{"$$date":1482289200000},"city":"Blacksburg","state":"VA","teams":["Virginia Tech Hokies","Charleston Southern Buccaneers"]}
-{"gameId":"1972642","_id":"jEEgi0z54pSH4x1d","date":{"$$date":1516474800000},"city":"Fairfield","state":"CT","teams":["Sacred Heart Pioneers","Saint Francis U Red Flash"]}
-{"gameId":"1964188","_id":"jEHiLXdf7KzZ7rV9","date":{"$$date":1513461600000},"city":"Rochester","state":"NY","teams":["St. Bonaventure Bonnies","Vermont Catamounts"]}
-{"gameId":"1974304","_id":"jEPO4N2M1HJhmE48","date":{"$$date":1517099100000},"city":"Hampton","state":"VA","teams":["Hampton Pirates","Florida A&M Rattlers"]}
-{"gameId":"1693467","_id":"jEfXAtVyiFe7XPxm","date":{"$$date":1488061800000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Troy Trojans"]}
-{"gameId":"1966655","_id":"jEi74y7DgB7My2rx","date":{"$$date":1519506000000},"city":"Peoria","state":"IL","teams":["Bradley Braves","Indiana State Sycamores"]}
-{"gameId":"1691081","_id":"jFOhsidcPNhUx3GP","date":{"$$date":1487293200000},"city":"Orem","state":"UT","teams":["Utah Valley Wolverines","Bakersfield Roadrunners"]}
-{"gameId":"1965189","_id":"jFSZqpcvALupfXIT","date":{"$$date":1511132400000},"city":"San Jose","state":"CA","teams":["San Jose State Spartans","Saint Mary's Gaels"]}
-{"gameId":"1966149","_id":"jFXMi67qe8w22Jah","date":{"$$date":1519581600000},"city":"Highland Heights","state":"KY","teams":["Cincinnati Bearcats","Tulsa Golden Hurricane"]}
-{"gameId":"1690742","_id":"jFf5kyn1VQjCXuNj","date":{"$$date":1483059600000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Evansville Aces"]}
-{"gameId":"1962270","_id":"jFxo1gLXBGxcDPkl","date":{"$$date":1519520400000},"city":"Miami","state":"FL","teams":["FIU Golden Panthers","Rice Owls"]}
-{"gameId":"1688597","_id":"jFzHrmN88YRBSYYp","date":{"$$date":1480273200000},"city":"Madison","state":"WI","teams":["Wisconsin Badgers","Prairie View A&M Panthers"]}
-{"gameId":"1691942","_id":"jGuKhsfAjYtjvbUI","date":{"$$date":1479171600000},"city":"Fresno","state":"CA","teams":["Fresno State Bulldogs","Prairie View A&M Panthers"]}
-{"gameId":"1967976","_id":"jH0wRTNmf2C93yT0","date":{"$$date":1513731600000},"city":"Portland","state":"OR","teams":["Portland Pilots","Hartford Hawks"]}
-{"gameId":"1693943","_id":"jH6vSznPxE9aAuPR","date":{"$$date":1481400000000},"city":"Lynchburg","state":"VA","teams":["Liberty Flames","Princeton Tigers"]}
-{"gameId":"1969254","_id":"jHOVn5LuPXjqUeFi","date":{"$$date":1511398800000},"city":"Hanover","state":"NH","teams":["Dartmouth Big Green","Albany Great Danes"]}
-{"gameId":"1966672","_id":"jHRAFINUHE7fzTsN","date":{"$$date":1517360400000},"city":"Des Moines","state":"IA","teams":["Drake Bulldogs","Southern Illinois Salukis"]}
-{"gameId":"1682806","_id":"jHgclkwHrp9PE78m","date":{"$$date":1486609200000},"city":"Coral Gables","state":"FL","teams":["Miami (FL) Hurricanes","Virginia Tech Hokies"]}
-{"gameId":"1969171","_id":"jHlkFOGVWNtisp9X","date":{"$$date":1517084100000},"city":"Atlanta","state":"GA","teams":["Georgia State Panthers","Texas State Bobcats"]}
-{"gameId":"1972667","_id":"jI0YqN4dwTYXs7UX","date":{"$$date":1515882600000},"city":"Jacksonville","state":"AL","teams":["Jacksonville State Gamecocks","Austin Peay Governors"]}
-{"gameId":"1693057","_id":"jIIadKBpnV0jOvyA","date":{"$$date":1485392400000},"city":"Durham","state":"NH","teams":["New Hampshire Wildcats","Massachusetts-Lowell River Hawks"]}
-{"gameId":"1693913","_id":"jISVsWRcABMUqLMm","date":{"$$date":1479259800000},"city":"Charleston","state":"SC","teams":["Charleston Southern Buccaneers","Columbia International Rams"]}
-{"gameId":"1693463","_id":"jIzJNpC15BLp5q40","date":{"$$date":1484614800000},"city":"Troy","state":"AL","teams":["Troy Trojans","Texas State Bobcats"]}
-{"gameId":"1692167","_id":"jJ2pGUlQSGbnWqaX","date":{"$$date":1482363000000},"city":"Terre Haute","state":"IN","teams":["Indiana State Sycamores","Eastern Illinois Panthers"]}
-{"gameId":"1685815","_id":"jJ5tc1H67AGYlpH2","date":{"$$date":1485648900000},"city":"Lexington","state":"KY","teams":["Kentucky Wildcats","Kansas Jayhawks"]}
-{"gameId":"1974394","_id":"jJIyFPyajZgk6ftw","date":{"$$date":1517708100000},"city":"Pine Bluff","state":"AR","teams":["UAPB Golden Lions","Alabama A&M Bulldogs"]}
-{"gameId":"1974276","_id":"jJKYjHD623fsWtQY","date":{"$$date":1517091900000},"city":"Baltimore","state":"MD","teams":["Coppin State Eagles","South Carolina State Bulldogs"]}
+{"gameId":"1692831","_id":"kEPZZnKZ6Fh8OG6V","date":{"$$date":1479931200000},"city":"Ypsilanti","state":"MI","teams":["Eastern Michigan Eagles","Madonna Crusaders"]}
+{"gameId":"1693226","_id":"kEQSzBaaKbtUtChp","date":{"$$date":1483668000000},"city":"Beaumont","state":"TX","teams":["Lamar Cardinals","New Orleans Privateers"]}
+{"gameId":"1683530","_id":"kEV8XDN1IrKRyBkm","date":{"$$date":1479673800000},"city":"Kissimmee","state":"FL","teams":["Arizona State Sun Devils","Davidson Wildcats"]}
+{"gameId":"1963479","_id":"kF7upDTy8kSCGLZz","date":{"$$date":1514671200000},"city":"Indianapolis","state":"IN","teams":["Butler Bulldogs","Villanova Wildcats"]}
+{"gameId":"1682518","_id":"kFIAy5GqBUaXkRno","date":{"$$date":1487536200000},"city":"Omaha","state":"NE","teams":["Creighton Bluejays","Georgetown Hoyas"]}
+{"gameId":"1686628","_id":"kFqZ3gtZy6cWJCkc","date":{"$$date":1482012000000},"city":"Salt Lake City","state":"UT","teams":["Utah Runnin' Utes","Prairie View A&M Panthers"]}
+{"gameId":"1691643","_id":"kGLsY5T9EqlteWAy","date":{"$$date":1485651600000},"city":"Murray","state":"KY","teams":["Murray State Racers","UT Martin Skyhawks"]}
+{"gameId":"1693710","_id":"kGk6jpnuMzHT0LsP","date":{"$$date":1481407200000},"city":"Radford","state":"VA","teams":["Radford Highlanders","Elon Phoenix"]}
+{"gameId":"1974214","_id":"kHFbpy25qvcp9GuL","date":{"$$date":1512860400000},"city":"Moraga","state":"CA","teams":["Saint Mary's Gaels","Seattle Redhawks"]}
+{"gameId":"1969433","_id":"kHIdqbeP5FTnGZWL","date":{"$$date":1514595600000},"city":"Grand Forks","state":"ND","teams":["North Dakota Fighting Hawks","Idaho Vandals"]}
+{"gameId":"1943724","_id":"kHjg0eIJfMRbGyPI","date":{"$$date":1512090000000},"city":"Norman","state":"OK","teams":["Oklahoma Sooners","North Texas Mean Green"]}
+{"gameId":"1688064","_id":"kHzyFtqZKVufTf7Y","date":{"$$date":1479931200000},"city":"Durham","state":"NH","teams":["New Hampshire Wildcats","Detroit Titans"]}
+{"gameId":"1968065","_id":"kIPbvYppLgAbdLBv","date":{"$$date":1517360400000},"city":"Miami","state":"OH","teams":["Miami (OH) RedHawks","Akron Zips"]}
+{"gameId":"1690538","_id":"kIZxiOtggSgd0cxf","date":{"$$date":1484442000000},"city":"Niagara","state":"NY","teams":["Niagara Purple Eagles","Monmouth Hawks"]}
+{"gameId":"1682105","_id":"kJ6BfH289P1S4VvS","date":{"$$date":1484182800000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Tulane Green Wave"]}
+{"gameId":"1733361","_id":"kJH0uPmWzteaziZ0","date":{"$$date":1489091760000},"city":"Cleveland","state":"OH","teams":["Ball State Cardinals","Western Michigan Broncos"]}
+{"gameId":"1971390","_id":"kJstVSQ7QeRBSWP4","date":{"$$date":1517097600000},"city":"Providence","state":"RI","teams":["Brown Bears","Harvard Crimson"]}
+{"gameId":"1693638","_id":"kKWjJXvUJG1etNgi","date":{"$$date":1481158800000},"city":"Hamilton","state":"NY","teams":["Colgate Raiders","Binghamton Bearcats"]}
+{"gameId":"1689543","_id":"kKjDFEGzGeeCRrzd","date":{"$$date":1480276800000},"city":"Las Vegas","state":"NV","teams":["Saint Mary's Gaels","UAB Blazers"]}
+{"gameId":"1682470","_id":"kKuy6Yjz5f9gkcMg","date":{"$$date":1484179200000},"city":"Milwaukee","state":"WI","teams":["Marquette Golden Eagles","Seton Hall Pirates"]}
+{"gameId":"1970858","_id":"kL3hc11cfNKrulHI","date":{"$$date":1518051600000},"city":"Honolulu","state":"HI","teams":["Hawaii Rainbow Warriors","UC Riverside Highlanders"]}
+{"gameId":"1690918","_id":"kLaIM4HEeZ8nLcYA","date":{"$$date":1488049200000},"city":"Smithfield","state":"RI","teams":["Bryant Bulldogs","Central Connecticut State Blue Devils"]}
+{"gameId":"1681778","_id":"kMcbIOJG5uTVsyQN","date":{"$$date":1483668000000},"city":"Evanston","state":"IL","teams":["Northwestern Wildcats","Minnesota Golden Gophers"]}
+{"gameId":"1689016","_id":"kMf8qh9CywnqEUDs","date":{"$$date":1481409000000},"city":"Fayetteville","state":"AR","teams":["Arkansas Razorbacks","North Florida Ospreys"]}
+{"gameId":"1687138","_id":"kMsmA9LUZxrrKyyf","date":{"$$date":1488416400000},"city":"St. Louis","state":"MO","teams":["Saint Louis Billikens","La Salle Explorers"]}
+{"gameId":"1682563","_id":"kMxXEuWrXfV9is3C","date":{"$$date":1478919600000},"city":"Blacksburg","state":"VA","teams":["Virginia Tech Hokies","Maine Black Bears"]}
+{"gameId":"1969081","_id":"kN11Via5O2hCGoeR","date":{"$$date":1516930200000},"city":"Boone","state":"NC","teams":["Appalachian State Mountaineers","Little Rock Trojans"]}
+{"gameId":"1688457","_id":"kNPMrhx5FcvvJsVa","date":{"$$date":1480208400000},"city":"Ann Arbor","state":"MI","teams":["Michigan Wolverines","Mount St. Mary's Mountaineers"]}
+{"gameId":"2025563","_id":"kP8K4SkWRYDfFucb","date":{"$$date":1519954140000},"city":"Albany","state":"NY","teams":["Siena Saints","Quinnipiac Bobcats"]}
+{"gameId":"1692806","_id":"kPTBtoTEZvT7mxmy","date":{"$$date":1479592800000},"city":"Bowling Green","state":"OH","teams":["Bowling Green Falcons","UMKC Kangaroos"]}
+{"gameId":"1969468","_id":"kPfGcPtmQkqRIDl3","date":{"$$date":1511830800000},"city":"Seattle","state":"WA","teams":["Seattle Redhawks","Idaho State Bengals"]}
+{"gameId":"1685836","_id":"kPxJ90eXXsgxDg6P","date":{"$$date":1486846800000},"city":"Stillwater","state":"OK","teams":["Oklahoma State Cowboys","Texas Longhorns"]}
+{"gameId":"1972620","_id":"kQKOeFpK7c3RkYWi","date":{"$$date":1517090400000},"city":"Emmitsburg","state":"MD","teams":["Mount St. Mary's Mountaineers","St. Francis Brooklyn Terriers"]}
+{"gameId":"1966028","_id":"kQm7HWYPIy0iChnZ","date":{"$$date":1510621200000},"city":"Hempstead","state":"NY","teams":["Hofstra Pride","Kennesaw State Owls"]}
+{"gameId":"1685969","_id":"kQxfxiBgQvMJaT0p","date":{"$$date":1485914400000},"city":"College Station","state":"TX","teams":["Texas A&M Aggies","Vanderbilt Commodores"]}
+{"gameId":"1693002","_id":"kR2yT6pvY9sYvf4o","date":{"$$date":1485651600000},"city":"West Hartford","state":"CT","teams":["Hartford Hawks","Albany Great Danes"]}
+{"gameId":"1973508","_id":"kRNx3cNa9uEJTpdP","date":{"$$date":1511226000000},"city":"Johnson City","state":"TN","teams":["East Tennessee State Buccaneers","Delaware State Hornets"]}
+{"gameId":"1682604","_id":"kRkpcNjJRZm1sNNA","date":{"$$date":1480381200000},"city":"Tallahassee","state":"FL","teams":["Florida State Seminoles","Minnesota Golden Gophers"]}
+{"gameId":"1692222","_id":"kRslOmKJAaOLwhWl","date":{"$$date":1488135600000},"city":"Highland Heights","state":"KY","teams":["Northern Kentucky Norse","Valparaiso Crusaders"]}
+{"gameId":"1966736","_id":"kRz3kPM5EKL3BQvo","date":{"$$date":1517691600000},"city":"Cedar Falls","state":"IA","teams":["UNI Panthers","Indiana State Sycamores"]}
+{"gameId":"1972801","_id":"kS1nVZ7EN0JrbTQo","date":{"$$date":1515276000000},"city":"Nashville","state":"TN","teams":["Tennessee State Tigers","Tennessee Tech Golden Eagles"]}
+{"gameId":"1687843","_id":"kS9twHFeDedmQECo","date":{"$$date":1486692000000},"city":"Los Angeles","state":"CA","teams":["USC Trojans","Oregon State Beavers"]}
+{"gameId":"1972855","_id":"kStFrmN3MwEch7cH","date":{"$$date":1513537200000},"city":"Boston","state":"MA","teams":["Boston University Terriers","Elon Phoenix"]}
+{"gameId":"1694119","_id":"kTTLEVfIVbUwLEqH","date":{"$$date":1478890800000},"city":"Durham","state":"NH","teams":["New Hampshire Wildcats","Lesley University Lynx"]}
+{"gameId":"1981452","_id":"kTdqi3KUItVQVojK","date":{"$$date":1513974600000},"city":"Las Vegas","state":"NV","teams":["UC Davis Aggies","Lamar Cardinals"]}
+{"gameId":"1686020","_id":"kTes5jRzhHWyX4h7","date":{"$$date":1488072600000},"city":"Auburn","state":"AL","teams":["Auburn Tigers","Arkansas Razorbacks"]}
+{"gameId":"1694332","_id":"kTrGEVVnTpiXFfUy","date":{"$$date":1481407500000},"city":"Kansas City","state":"MO","teams":["UMKC Kangaroos","William Jewell Cardinals"]}
+{"gameId":"1961008","_id":"kTyRGWgl02R6JiXM","date":{"$$date":1515873600000},"city":"Pittsburgh","state":"PA","teams":["Pittsburgh Panthers","Georgia Tech Yellow Jackets"]}
+{"gameId":"2032225","_id":"kUOVATLwqGvZtjTg","date":{"$$date":1521772920000},"city":"Atlanta","state":"GA","teams":["Kentucky Wildcats","Kansas State Wildcats"]}
+{"gameId":"1694628","_id":"kUU2kybd9aW2WLO1","date":{"$$date":1479769200000},"city":"Pine Bluff","state":"AR","teams":["UAPB Golden Lions","Blue Mountain College Toppers"]}
+{"gameId":"1684306","_id":"kUeuDTPPJUitNpV6","date":{"$$date":1479864600000},"city":"Estero","state":"FL","teams":["Houston Cougars","South Dakota Coyotes"]}
+{"$$deleted":true,"_id":"kUeuO77o0vJCOfe5"}
+{"gameId":"2028168","_id":"kVPfOM12Lco4yIR3","date":{"$$date":1520298000000},"city":"Kent","state":"OH","teams":["Kent State Golden Flashes","Northern Illinois Huskies"]}
+{"gameId":"1686012","_id":"kW7Ecdy5b90C8RTM","date":{"$$date":1487809800000},"city":"Knoxville","state":"TN","teams":["Tennessee Volunteers","Vanderbilt Commodores"]}
+{"gameId":"1964154","_id":"kWuokAZmJ1ngaZzh","date":{"$$date":1512851400000},"city":"Philadelphia","state":"PA","teams":["Temple Owls","Saint Joseph's Hawks"]}
+{"gameId":"1682801","_id":"kXGET2DKa2umDMTW","date":{"$$date":1486602000000},"city":"Tallahassee","state":"FL","teams":["Florida State Seminoles","North Carolina State Wolfpack"]}
+{"gameId":"1974501","_id":"kXH6I5CgZkCEaHuU","date":{"$$date":1510365000000},"city":"Conway","state":"SC","teams":["Coastal Carolina Chanticleers","Piedmont International Bruins"]}
+{"gameId":"1969429","_id":"kXUwZI2OIGM4pmGl","date":{"$$date":1512867600000},"city":"Bakersfield","state":"CA","teams":["Bakersfield Roadrunners","Idaho Vandals"]}
+{"gameId":"1949500","_id":"kXxenMQioU1Ngsoz","date":{"$$date":1517166000000},"city":"College Park","state":"MD","teams":["Maryland Terrapins","Michigan State Spartans"]}
+{"gameId":"1969549","_id":"kYHshJQkMU3cOZbS","date":{"$$date":1515870000000},"city":"Portland","state":"OR","teams":["Portland State Vikings","Montana Grizzlies"]}
+{"gameId":"1972885","_id":"kYOL9qnCMPtn2CQO","date":{"$$date":1515452400000},"city":"Hamilton","state":"NY","teams":["Colgate Raiders","Navy Midshipmen"]}
+{"gameId":"1694091","_id":"kZ9REC3O2sZkuV2p","date":{"$$date":1481400000000},"city":"Spartanburg","state":"SC","teams":["USC Upstate Spartans","Virginia-Wise Highland Cavaliers"]}
+{"gameId":"1694424","_id":"kZCF8HNzkKqknZPL","date":{"$$date":1487629800000},"city":"Washington","state":"DC","teams":["Howard Bison","North Carolina Central Eagles"]}
+{"gameId":"1969409","_id":"kZY7FrZiklu2jsOx","date":{"$$date":1515807000000},"city":"Cheney","state":"WA","teams":["Eastern Washington Eagles","Idaho Vandals"]}
+{"gameId":"1969393","_id":"kZsRFnfxrTpyryhL","date":{"$$date":1514055600000},"city":"Lowell","state":"MA","teams":["Massachusetts-Lowell River Hawks","Central Connecticut State Blue Devils"]}
+{"gameId":"1693743","_id":"kaFRL4htz1uOss2k","date":{"$$date":1479603600000},"city":"Williamsburg","state":"VA","teams":["William & Mary Tribe","Presbyterian Blue Hose"]}
+{"gameId":"1686598","_id":"kaHnXZFQdo3yvRFk","date":{"$$date":1481497200000},"city":"Seattle","state":"WA","teams":["Washington Huskies","Nevada Wolf Pack"]}
+{"gameId":"1974357","_id":"kaKKl0MiDKGQlu0k","date":{"$$date":1513299600000},"city":"Norfolk","state":"VA","teams":["Norfolk State Spartans","Mid-Atlantic Christian Mustangs"]}
+{"gameId":"1683425","_id":"kb680kpGVlLe2C4H","date":{"$$date":1479913200000},"city":"Lahaina","state":"HI","teams":["Chaminade Silverswords","Tennessee Volunteers"]}
+{"gameId":"1689469","_id":"kbJU6VnXTrfODKDj","date":{"$$date":1486688400000},"city":"Murfreesboro","state":"TN","teams":["Middle Tennessee Blue Raiders","Old Dominion Monarchs"]}
+{"gameId":"1682574","_id":"kbaP12hflf9ocY2W","date":{"$$date":1479261600000},"city":"Chapel Hill","state":"NC","teams":["North Carolina Tar Heels","Long Beach State 49ers"]}
+{"gameId":"1690778","_id":"kbkT0PpW2xPtEBzq","date":{"$$date":1485046800000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Drake Bulldogs"]}
+{"gameId":"1981444","_id":"kbvMPe2aKerMAYxS","date":{"$$date":1511650800000},"city":"Brooklyn","state":"NY","teams":["Minnesota Golden Gophers","Alabama Crimson Tide"]}
+{"gameId":"1733254","_id":"kcKZH7xeEk1EYrLb","date":{"$$date":1489200600000},"city":"Norfolk","state":"VA","teams":["Norfolk State Spartans","Howard Bison"]}
+{"gameId":"1682140","_id":"kcScHfkcIN043977","date":{"$$date":1486083600000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Memphis Tigers"]}
+{"gameId":"1733480","_id":"kcYj2MTprXXxQvQq","date":{"$$date":1489260600000},"city":"Philadelphia","state":"PA","teams":["Penn Quakers","Princeton Tigers"]}
+{"gameId":"1693755","_id":"kcblvHWnh49hCklL","date":{"$$date":1481158800000},"city":"Charleston","state":"SC","teams":["Citadel Bulldogs","Toccoa Falls Eagles"]}
+{"gameId":"1681842","_id":"kck7srCcbrwSeCS1","date":{"$$date":1486857600000},"city":"East Lansing","state":"MI","teams":["Michigan State Spartans","Iowa Hawkeyes"]}
+{"gameId":"1944166","_id":"kczjv6dhdoQgJ7tj","date":{"$$date":1512856800000},"city":"University Park","state":"PA","teams":["Penn State Nittany Lions","George Washington Colonials"]}
+{"gameId":"1690051","_id":"kduyvvv3ZxIXYJ9F","date":{"$$date":1488502800000},"city":"Greeley","state":"CO","teams":["Northern Colorado Bears","Portland State Vikings"]}
+{"gameId":"1691929","_id":"ke0wvNCptc4sXIt8","date":{"$$date":1487898000000},"city":"Jacksonville","state":"FL","teams":["North Florida Ospreys","Jacksonville Dolphins"]}
+{"gameId":"1944338","_id":"ke4VbK9I0EJU7loa","date":{"$$date":1513533600000},"city":"Tempe","state":"AZ","teams":["Arizona State Sun Devils","Vanderbilt Commodores"]}
+{"gameId":"1690847","_id":"kf8LJVUQFzylul7U","date":{"$$date":1483826400000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","LIU Brooklyn Blackbirds"]}
+{"gameId":"1980779","_id":"kfNduD95ESJL2Iao","date":{"$$date":1511235000000},"city":"Las Vegas","state":"NV","teams":["Utah Runnin' Utes","Ole Miss Rebels"]}
+{"gameId":"1690810","_id":"kfbG1KJkq6cKbMDs","date":{"$$date":1487203200000},"city":"Carbondale","state":"IL","teams":["Southern Illinois Salukis","Wichita State Shockers"]}
+{"gameId":"1968098","_id":"kg45uH172NkyJvm2","date":{"$$date":1510621200000},"city":"Bowling Green","state":"OH","teams":["Bowling Green Falcons","South Dakota Coyotes"]}
+{"gameId":"1681860","_id":"kgozuv5ilBn9WxLG","date":{"$$date":1487728800000},"city":"Iowa City","state":"IA","teams":["Iowa Hawkeyes","Indiana Hoosiers"]}
+{"gameId":"1973777","_id":"kh5BjVz0wRcaq1eY","date":{"$$date":1515274200000},"city":"Natchitoches","state":"LA","teams":["Northwestern State Demons","Stephen F. Austin Lumberjacks"]}
+{"gameId":"2032323","_id":"khUzsgDmVY3HomB3","date":{"$$date":1520985600000},"city":"Orem","state":"UT","teams":["Utah Valley Wolverines","Eastern Washington Eagles"]}
+{"gameId":"1693301","_id":"khXf0pWpJK3vyo7J","date":{"$$date":1484438400000},"city":"Little Rock","state":"AR","teams":["Little Rock Trojans","Arkansas State Red Wolves"]}
+{"gameId":"1971396","_id":"khenxrElYJEE9rXR","date":{"$$date":1518915600000},"city":"Hanover","state":"NH","teams":["Dartmouth Big Green","Brown Bears"]}
+{"gameId":"1682737","_id":"khsCrEJPL83vliTb","date":{"$$date":1484614800000},"city":"Chapel Hill","state":"NC","teams":["North Carolina Tar Heels","Syracuse Orange"]}
+{"gameId":"1972619","_id":"ki63MJudElaK27nq","date":{"$$date":1516323600000},"city":"Brooklyn Heights","state":"NY","teams":["St. Francis Brooklyn Terriers","Mount St. Mary's Mountaineers"]}
+{"gameId":"1693091","_id":"kiI1T0k2xJHLIFkY","date":{"$$date":1485028800000},"city":"Newark","state":"DE","teams":["Delaware Fightin' Blue Hens","Towson Tigers"]}
+{"gameId":"1963614","_id":"kiWazvizULjcyLlz","date":{"$$date":1515895200000},"city":"New York","state":"NY","teams":["St. John's Red Storm","Villanova Wildcats"]}
+{"gameId":"1981810","_id":"kirW6vGKsfKsaQ0p","date":{"$$date":1513905180000},"city":"El Paso","state":"TX","teams":["UTEP Miners","Howard Bison"]}
+{"gameId":"1972591","_id":"kixVquwrYZZSfgcX","date":{"$$date":1517688000000},"city":"Pittsburgh","state":"PA","teams":["Robert Morris Colonials","Fairleigh Dickinson Knights"]}
+{"gameId":"1971432","_id":"kjC8v2GvBeXJcM7x","date":{"$$date":1520125200000},"city":"Hanover","state":"NH","teams":["Dartmouth Big Green","Cornell Big Red"]}
+{"gameId":"1690821","_id":"kjnAgLKC34yMhtHI","date":{"$$date":1487811600000},"city":"Terre Haute","state":"IN","teams":["Indiana State Sycamores","UNI Panthers"]}
+{"gameId":"1692015","_id":"kkVceAvQ4hcIhQUf","date":{"$$date":1479344400000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","UC Riverside Highlanders"]}
+{"gameId":"2025185","_id":"kkZS196Q8O3IKb66","date":{"$$date":1520133780000},"city":"Las Vegas","state":"NV","teams":["Saint Mary's Gaels","Pepperdine Waves"]}
+{"gameId":"1970930","_id":"kknmSmBVYI7wrFGz","date":{"$$date":1516485600000},"city":"Charleston","state":"SC","teams":["Charleston Cougars","Hofstra Pride"]}
+{"gameId":"1963765","_id":"klM7EjcdmdgJ5pSm","date":{"$$date":1515882600000},"city":"Richmond","state":"VA","teams":["Richmond Spiders","George Washington Colonials"]}
+{"gameId":"1686302","_id":"klxDUVRt3TVsqCpA","date":{"$$date":1479348000000},"city":"Berkeley","state":"CA","teams":["California Golden Bears","UC Irvine Anteaters"]}
+{"gameId":"1967211","_id":"km8lRFwYQg7ryk0q","date":{"$$date":1512262800000},"city":"Tempe","state":"AZ","teams":["Arizona State Sun Devils","San Francisco Dons"]}
+{"gameId":"1973816","_id":"kmGqpDUlSXawPJbj","date":{"$$date":1516325400000},"city":"Omaha","state":"NE","teams":["Omaha Mavericks","Denver Pioneers"]}
+{"gameId":"1690901","_id":"kmXjsIklaqw29bFE","date":{"$$date":1487293200000},"city":"Fairfield","state":"CT","teams":["Sacred Heart Pioneers","Fairleigh Dickinson Knights"]}
+{"gameId":"1962015","_id":"kmZxh1fNxFwPzF4v","date":{"$$date":1514057400000},"city":"Auburn","state":"AL","teams":["Auburn Tigers","Connecticut Huskies"]}
+{"gameId":"1686173","_id":"kmfytDFkHuNKYGLA","date":{"$$date":1478912400000},"city":"St. Louis","state":"MO","teams":["Saint Louis Billikens","Ball State Cardinals"]}
+{"gameId":"1970949","_id":"kn9KeBsgRT7rdjzT","date":{"$$date":1515200400000},"city":"Newark","state":"DE","teams":["Delaware Fightin' Blue Hens","William & Mary Tribe"]}
+{"gameId":"1982019","_id":"knYhHUGKC206pYVG","date":{"$$date":1511647200000},"city":"Dover","state":"DE","teams":["Delaware State Hornets","Georgian Court Lions"]}
+{"gameId":"1944270","_id":"knxZYMduGtkvJMiJ","date":{"$$date":1510362000000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Bryant Bulldogs"]}
+{"gameId":"1983028","_id":"koFa4KkWLboVTCJz","date":{"$$date":1513386000000},"city":"Houston","state":"TX","teams":["Houston Baptist Huskies","Barclay Bears"]}
+{"gameId":"1693652","_id":"koQBK33qbi8n4KRv","date":{"$$date":1479672000000},"city":"Easton","state":"PA","teams":["Lafayette Leopards","Cornell Big Red"]}
+{"gameId":"1969101","_id":"kodPzJ0kTWygKBJ7","date":{"$$date":1515270360000},"city":"Atlanta","state":"GA","teams":["Georgia State Panthers","Arkansas State Red Wolves"]}
+{"gameId":"1971027","_id":"korBA1VQhHYPzZ6M","date":{"$$date":1511640000000},"city":"Albany","state":"NY","teams":["Siena Saints","Hofstra Pride"]}
+{"gameId":"1733647","_id":"kpBsatgBB0xcmlwm","date":{"$$date":1489111500000},"city":"Reno","state":"NV","teams":["Weber State Wildcats","Southern Utah Thunderbirds"]}
+{"gameId":"2032273","_id":"kpFgyKEpIMl6jhUq","date":{"$$date":1521136800000},"city":"Wichita","state":"KS","teams":["Kansas Jayhawks","Penn Quakers"]}
+{"gameId":"1962241","_id":"kqWoCgbGL94QMnML","date":{"$$date":1513990800000},"city":"Norfolk","state":"VA","teams":["Old Dominion Monarchs","Norfolk State Spartans"]}
+{"gameId":"1692010","_id":"kqbDaWVONU72qTNy","date":{"$$date":1481158800000},"city":"Missoula","state":"MT","teams":["Montana Grizzlies","San Jose State Spartans"]}
+{"gameId":"1688050","_id":"kqixXK1nrT43MxwY","date":{"$$date":1480098600000},"city":"Brooklyn","state":"NY","teams":["Illinois Fighting Illini","Florida State Seminoles"]}
+{"gameId":"1966810","_id":"kqkCyzcmlokzYCWt","date":{"$$date":1517706000000},"city":"Carbondale","state":"IL","teams":["Southern Illinois Salukis","Valparaiso Crusaders"]}
+{"gameId":"1689298","_id":"kqonfuBwcwUYmBk4","date":{"$$date":1483146000000},"city":"Boston","state":"MA","teams":["Boston University Terriers","Holy Cross Crusaders"]}
+{"gameId":"1690585","_id":"kqpPFoc0vO3pTaRg","date":{"$$date":1486087200000},"city":"Bridgeport","state":"CT","teams":["Fairfield Stags","Niagara Purple Eagles"]}
+{"gameId":"1690737","_id":"kr0zAh9aQXPxZyKy","date":{"$$date":1488668400000},"city":"Reno","state":"NV","teams":["Nevada Wolf Pack","Colorado State Rams"]}
+{"gameId":"1982018","_id":"krJRlBq3mYwCFPzu","date":{"$$date":1514595600000},"city":"Mt. Pleasant","state":"MI","teams":["Central Michigan Chippewas","Lawrence Tech Blue Devils"]}
+{"gameId":"1685841","_id":"ksHDvYkLY4a0RcUD","date":{"$$date":1487203200000},"city":"Manhattan","state":"KS","teams":["Kansas State Wildcats","Iowa State Cyclones"]}
+{"gameId":"1965078","_id":"kscT6GjK0hxATJ8N","date":{"$$date":1514664000000},"city":"Reno","state":"NV","teams":["Nevada Wolf Pack","New Mexico Lobos"]}
+{"gameId":"1683579","_id":"ksdRaJZUu8w8KYX3","date":{"$$date":1480294800000},"city":"Kissimmee","state":"FL","teams":["Seton Hall Pirates","Stanford Cardinal"]}
+{"gameId":"2028436","_id":"kt7DVqQUufxfSTrd","date":{"$$date":1520379300000},"city":"Reno","state":"NV","teams":["Idaho State Bengals","Southern Utah Thunderbirds"]}
+{"gameId":"1681868","_id":"ktBUlZwMZjTupBAM","date":{"$$date":1488060000000},"city":"Ann Arbor","state":"MI","teams":["Michigan Wolverines","Purdue Boilermakers"]}
+{"gameId":"1690828","_id":"ktyEiG4opoJLSAZT","date":{"$$date":1488042000000},"city":"Springfield","state":"MO","teams":["Missouri State Bears","Wichita State Shockers"]}
+{"gameId":"1692836","_id":"ku0aknzmUzFHDo93","date":{"$$date":1482436800000},"city":"Ypsilanti","state":"MI","teams":["Eastern Michigan Eagles","Marygrove College Mustangs"]}
+{"gameId":"1969887","_id":"kuA6HK1V6EnZZN5c","date":{"$$date":1511053200000},"city":"Wilmington","state":"NC","teams":["UNCW Seahawks","Campbell Fighting Camels"]}
+{"gameId":"1689493","_id":"kuBEuQCXFeejvXPh","date":{"$$date":1487293200000},"city":"Denton","state":"TX","teams":["North Texas Mean Green","UTEP Miners"]}
+{"gameId":"1690211","_id":"kv9jQ8LTgUECMere","date":{"$$date":1488072600000},"city":"Irvine","state":"CA","teams":["UC Irvine Anteaters","CSUN Matadors"]}
+{"gameId":"1688565","_id":"kvLOUImLGOgVGsG5","date":{"$$date":1479598200000},"city":"Uncasville","state":"CT","teams":["Brown Bears","Marist Red Foxes"]}
+{"gameId":"2028258","_id":"kvaMJBGmFmwBoV1W","date":{"$$date":1520728200000},"city":"New York","state":"NY","teams":["Villanova Wildcats","Providence Friars"]}
+{"gameId":"1738915","_id":"kvvoA0xhn67YHLNF","date":{"$$date":1489686000000},"city":"Orlando","state":"FL","teams":["Virginia Cavaliers","UNCW Seahawks"]}
+{"gameId":"1964094","_id":"kwM7cERuPqtc7bZt","date":{"$$date":1512608400000},"city":"Fairfax","state":"VA","teams":["George Mason Patriots","William & Mary Tribe"]}
+{"gameId":"2032234","_id":"kwfztAogOosuh7sY","date":{"$$date":1521317700000},"city":"Boise","state":"ID","teams":["Kentucky Wildcats","Buffalo Bulls"]}
+{"gameId":"1969419","_id":"kwiF6szHuxCa09JZ","date":{"$$date":1519347600000},"city":"Ogden","state":"UT","teams":["Weber State Wildcats","Eastern Washington Eagles"]}
+{"gameId":"1685884","_id":"kwmFGe3O3MP0diZf","date":{"$$date":1487815200000},"city":"Manhattan","state":"KS","teams":["Kansas State Wildcats","Oklahoma State Cowboys"]}
+{"gameId":"1689466","_id":"kxvTgZmclXC2kTgu","date":{"$$date":1485477000000},"city":"Murfreesboro","state":"TN","teams":["Middle Tennessee Blue Raiders","Southern Miss Golden Eagles"]}
+{"gameId":"1974383","_id":"kxwVx0sUBoBxLmmm","date":{"$$date":1512691200000},"city":"Orangeburg","state":"SC","teams":["South Carolina State Bulldogs","Brevard College Tornados"]}
+{"gameId":"1682834","_id":"ky2U4QJRDKdx9hRe","date":{"$$date":1487120400000},"city":"Pittsburgh","state":"PA","teams":["Pittsburgh Panthers","Virginia Tech Hokies"]}
+{"gameId":"2032255","_id":"kyG2rdgv1VmsepkB","date":{"$$date":1521232200000},"city":"Nashville","state":"TN","teams":["Nevada Wolf Pack","Texas Longhorns"]}
+{"gameId":"1681912","_id":"kyT3FgwesEw9tXVC","date":{"$$date":1479603600000},"city":"Tampa","state":"FL","teams":["South Florida Bulls","Rider Broncs"]}
+{"gameId":"1682767","_id":"kyYnid3MJrZ6i8nI","date":{"$$date":1485637200000},"city":"Winston-Salem","state":"NC","teams":["Wake Forest Demon Deacons","Duke Blue Devils"]}
+{"gameId":"2025560","_id":"kynJ1pM02H1FwSV5","date":{"$$date":1520047800000},"city":"Albany","state":"NY","teams":["Canisius Golden Griffins","Quinnipiac Bobcats"]}
+{"gameId":"1689094","_id":"kzCazxsvK6hfOSzr","date":{"$$date":1480122000000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Gardner-Webb Runnin' Bulldogs"]}
+{"gameId":"1961088","_id":"kzRLV0tFlFfcnova","date":{"$$date":1513449000000},"city":"Washington","state":"DC","teams":["Georgetown Hoyas","Syracuse Orange"]}
+{"gameId":"1966349","_id":"kzVpcCFI9PPDN87V","date":{"$$date":1518134400000},"city":"Tulsa","state":"OK","teams":["Tulsa Golden Hurricane","Tulane Green Wave"]}
+{"gameId":"1974326","_id":"kzgFZ4Gle7Zd9ZJJ","date":{"$$date":1519956900000},"city":"Norfolk","state":"VA","teams":["Norfolk State Spartans","Hampton Pirates"]}
+{"gameId":"1968183","_id":"kzsoTyqg5Y8HXAoW","date":{"$$date":1517965200000},"city":"Kent","state":"OH","teams":["Kent State Golden Flashes","Eastern Michigan Eagles"]}
+{"gameId":"1692214","_id":"kztBTgndaEJITZlh","date":{"$$date":1487984400000},"city":"Milwaukee","state":"WI","teams":["Milwaukee Panthers","Detroit Titans"]}
+{"gameId":"1942470","_id":"l00SqVGdd2kLRV2x","date":{"$$date":1512252000000},"city":"Winston-Salem","state":"NC","teams":["Wake Forest Demon Deacons","Richmond Spiders"]}
+{"gameId":"1681803","_id":"l02jjjWHxagt6Zq8","date":{"$$date":1484870400000},"city":"Iowa City","state":"IA","teams":["Iowa Hawkeyes","Maryland Terrapins"]}
+{"gameId":"1738994","_id":"l0A3FnM7FhleFyJj","date":{"$$date":1489536000000},"city":"Buies Creek","state":"NC","teams":["Campbell Fighting Camels","Houston Baptist Huskies"]}
+{"gameId":"1967245","_id":"l0YvN7TdYIlPt8kA","date":{"$$date":1519952400000},"city":"Tempe","state":"AZ","teams":["Arizona State Sun Devils","California Golden Bears"]}
+{"gameId":"1973851","_id":"l0vz729QqRkolqGT","date":{"$$date":1517360400000},"city":"Brookings","state":"SD","teams":["South Dakota State Jackrabbits","Omaha Mavericks"]}
+{"gameId":"1963526","_id":"l1h2i9s3L4oczPOH","date":{"$$date":1515268800000},"city":"Jamaica","state":"NY","teams":["St. John's Red Storm","DePaul Blue Demons"]}
+{"gameId":"1685809","_id":"l20nj4N7XIEzmLe3","date":{"$$date":1485630000000},"city":"Norman","state":"OK","teams":["Oklahoma Sooners","Florida Gators"]}
+{"gameId":"1969665","_id":"l2aCBrEYOATLux62","date":{"$$date":1513904400000},"city":"Omaha","state":"NE","teams":["Omaha Mavericks","Montana State Bobcats"]}
+{"gameId":"1969112","_id":"l30u2fcsCQcUpjow","date":{"$$date":1519520400000},"city":"Jonesboro","state":"AR","teams":["Arkansas State Red Wolves","Coastal Carolina Chanticleers"]}
+{"gameId":"1967303","_id":"l375vmeLQEis38XJ","date":{"$$date":1516320000000},"city":"Eugene","state":"OR","teams":["Oregon Ducks","USC Trojans"]}
+{"gameId":"2028443","_id":"l3IXatnVxw2YGgF0","date":{"$$date":1520463600000},"city":"Katy","state":"TX","teams":["New Orleans Privateers","Texas A&M-Corpus Christi Islanders"]}
+{"gameId":"1971174","_id":"l3QGhaDkqavcTfBU","date":{"$$date":1517619600000},"city":"Detroit","state":"MI","teams":["Detroit Titans","IUPUI Jaguars"]}
+{"gameId":"1972612","_id":"l3cGFfXuOliqtPYe","date":{"$$date":1512849600000},"city":"Bethlehem","state":"PA","teams":["Lehigh Mountain Hawks","Mount St. Mary's Mountaineers"]}
+{"gameId":"1961175","_id":"l3jIbuMfR5LMIyl7","date":{"$$date":1516071600000},"city":"Morgantown","state":"WV","teams":["West Virginia Mountaineers","Kansas Jayhawks"]}
+{"gameId":"1981417","_id":"l43OcPRg2jZHiRuN","date":{"$$date":1511463600000},"city":"Fullerton","state":"CA","teams":["Harvard Crimson","Saint Mary's Gaels"]}
+{"gameId":"1682497","_id":"l49DVfiMafwStDY2","date":{"$$date":1486004400000},"city":"Cincinnati","state":"OH","teams":["Xavier Musketeers","Seton Hall Pirates"]}
+{"gameId":"1964196","_id":"l4Of7G9IuFN9veQ1","date":{"$$date":1513990800000},"city":"Richmond","state":"VA","teams":["VCU Rams","VMI Keydets"]}
+{"gameId":"1973676","_id":"l4TG6rFohrVHimmF","date":{"$$date":1518915600000},"city":"Houston","state":"TX","teams":["Houston Baptist Huskies","Sam Houston State Bearkats"]}
+{"gameId":"1689475","_id":"l55ZKdm5mZUSstQ2","date":{"$$date":1479668400000},"city":"Denton","state":"TX","teams":["North Texas Mean Green","Drexel Dragons"]}
+{"gameId":"1969331","_id":"l56BD1x36KQSWwyX","date":{"$$date":1515632400000},"city":"Bangor","state":"ME","teams":["Maine Black Bears","UMBC Retrievers"]}
+{"gameId":"1969304","_id":"l59aJ3ymugx8bUA4","date":{"$$date":1510794000000},"city":"Lawrenceville","state":"NJ","teams":["Rider Broncs","Hartford Hawks"]}
+{"gameId":"1961298","_id":"l5tV84GDucLxDlFT","date":{"$$date":1513904400000},"city":"East Lansing","state":"MI","teams":["Michigan State Spartans","Long Beach State 49ers"]}
+{"gameId":"1694030","_id":"l6H7yOlnnqi5uEDc","date":{"$$date":1478912400000},"city":"Vestal","state":"NY","teams":["Binghamton Bearcats","Cornell Big Red"]}
+{"gameId":"1693558","_id":"l7Z5fV7iHAwJazMQ","date":{"$$date":1481158800000},"city":"Lafayette","state":"LA","teams":["Louisiana Ragin' Cajuns","Loyola (LA) Wolfpack"]}
+{"gameId":"1971284","_id":"l7mPMBppbkNTzoTA","date":{"$$date":1510513200000},"city":"Highland Heights","state":"KY","teams":["Northern Kentucky Norse","Wilmington (OH) Quakers"]}
+{"gameId":"1691698","_id":"l85mOct9BcewfPBd","date":{"$$date":1486863000000},"city":"Cookeville","state":"TN","teams":["Tennessee Tech Golden Eagles","Belmont Bruins"]}
+{"gameId":"1693094","_id":"l8POh3cQGfcvtfIo","date":{"$$date":1486083600000},"city":"Hempstead","state":"NY","teams":["Hofstra Pride","Delaware Fightin' Blue Hens"]}
+{"gameId":"1981805","_id":"l8YM5PpNoQ2AhslS","date":{"$$date":1511632800000},"city":"Nashville","state":"TN","teams":["New Hampshire Wildcats","Utah State Aggies"]}
+{"gameId":"1967776","_id":"l8sbAGLHwoR6zWIB","date":{"$$date":1519351200000},"city":"Portland","state":"OR","teams":["Portland Pilots","BYU Cougars"]}
+{"gameId":"1963489","_id":"lAWKlmzmCQiIrUbS","date":{"$$date":1517963400000},"city":"Indianapolis","state":"IN","teams":["Butler Bulldogs","Xavier Musketeers"]}
+{"gameId":"1687823","_id":"lAjHtDNFbe8PKN3F","date":{"$$date":1485653400000},"city":"Boulder","state":"CO","teams":["Colorado Buffaloes","Oregon Ducks"]}
+{"gameId":"1690391","_id":"lAwfeMYGAhFDBnH5","date":{"$$date":1487448000000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Bowling Green Falcons"]}
+{"gameId":"1682628","_id":"lBNZtsECGd78r9V9","date":{"$$date":1480881600000},"city":"Chapel Hill","state":"NC","teams":["North Carolina Tar Heels","Radford Highlanders"]}
+{"gameId":"1961974","_id":"lBkQm764ijPJddhW","date":{"$$date":1516498200000},"city":"Tuscaloosa","state":"AL","teams":["Alabama Crimson Tide","Mississippi State Bulldogs"]}
+{"gameId":"1688558","_id":"lBqC8SApBIdnwfZr","date":{"$$date":1479580200000},"city":"Uncasville","state":"CT","teams":["Duke Blue Devils","Penn State Nittany Lions"]}
+{"gameId":"1686946","_id":"lBxJSG69kbvkxYPB","date":{"$$date":1483495200000},"city":"St. Bonaventure","state":"NY","teams":["St. Bonaventure Bonnies","Dayton Flyers"]}
+{"gameId":"1971297","_id":"lCYTy8qbyJzFetzC","date":{"$$date":1518836400000},"city":"Dayton","state":"OH","teams":["Wright State Raiders","Northern Kentucky Norse"]}
+{"gameId":"1685790","_id":"lCt5CgCBXeM16BQM","date":{"$$date":1484429400000},"city":"Manhattan","state":"KS","teams":["Kansas State Wildcats","Baylor Bears"]}
+{"gameId":"1966069","_id":"lD132Z2xcZBq6fN5","date":{"$$date":1518300000000},"city":"Nashville","state":"TN","teams":["Lipscomb Bisons","North Florida Ospreys"]}
+{"gameId":"1974369","_id":"lD2PDf2u3YqYoqWY","date":{"$$date":1518488460000},"city":"Savannah","state":"GA","teams":["Savannah State Tigers","North Carolina A&T Aggies"]}
+{"gameId":"1969744","_id":"lD8XS1HX0XMv1ovt","date":{"$$date":1519952700000},"city":"Sacramento","state":"CA","teams":["Sacramento State Hornets","North Dakota Fighting Hawks"]}
+{"gameId":"1980733","_id":"lDPID4D6SjuBkDgI","date":{"$$date":1511314200000},"city":"Malibu","state":"CA","teams":["Pepperdine Waves","Oral Roberts Golden Eagles"]}
+{"gameId":"1690820","_id":"lDcuJXzCDvGRwXYZ","date":{"$$date":1487808000000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Southern Illinois Salukis"]}
+{"gameId":"1681808","_id":"lDklnPCknZwUnfHP","date":{"$$date":1485034200000},"city":"Minneapolis","state":"MN","teams":["Minnesota Golden Gophers","Wisconsin Badgers"]}
+{"gameId":"1692492","_id":"lDmEt48E91NfuPPa","date":{"$$date":1488675600000},"city":"New Haven","state":"CT","teams":["Yale Bulldogs","Columbia Lions"]}
+{"gameId":"1960931","_id":"lDxZb3RlaUPHVjUy","date":{"$$date":1516064400000},"city":"Chestnut Hill","state":"MA","teams":["Boston College Eagles","Florida State Seminoles"]}
+{"gameId":"1969503","_id":"lEH60BZ3bIb5xEyU","date":{"$$date":1518743100000},"city":"Sacramento","state":"CA","teams":["Sacramento State Hornets","Idaho State Bengals"]}
+{"gameId":"1690725","_id":"lEUHv6tIjtgJmw81","date":{"$$date":1488056400000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","Nevada Wolf Pack"]}
+{"gameId":"1691674","_id":"lEZkgxcjRXxDWOTU","date":{"$$date":1486252800000},"city":"Martin","state":"TN","teams":["UT Martin Skyhawks","Eastern Kentucky Colonels"]}
+{"gameId":"1692505","_id":"lFBDYagDyeqYymSj","date":{"$$date":1478912400000},"city":"Portland","state":"OR","teams":["Portland Pilots","UC Riverside Highlanders"]}
+{"gameId":"1966275","_id":"lFGJczOS6pdYhrAg","date":{"$$date":1510365060000},"city":"Dallas","state":"TX","teams":["SMU Mustangs","UMBC Retrievers"]}
+{"gameId":"1969368","_id":"lFZn8VdzM41KdLMe","date":{"$$date":1518984000000},"city":"Stony Brook","state":"NY","teams":["Stony Brook Seawolves","New Hampshire Wildcats"]}
+{"gameId":"1974285","_id":"lFfT23OuuFnaE2Xc","date":{"$$date":1515030840000},"city":"Dover","state":"DE","teams":["Delaware State Hornets","North Carolina Central Eagles"]}
+{"gameId":"1686622","_id":"lGJv66TDclRnxWTg","date":{"$$date":1482007500000},"city":"Las Vegas","state":"NV","teams":["North Carolina Tar Heels","Kentucky Wildcats"]}
+{"gameId":"1969526","_id":"lGWChME62gRhvASl","date":{"$$date":1511744400000},"city":"Missoula","state":"MT","teams":["Montana Grizzlies","Carroll (MT) Fighting Saints"]}
+{"gameId":"1738917","_id":"lGZK7088zQwkFfmX","date":{"$$date":1489778160000},"city":"Tulsa","state":"OK","teams":["SMU Mustangs","USC Trojans"]}
+{"gameId":"1733651","_id":"lGduSWs86GbXDb74","date":{"$$date":1489285800000},"city":"Anaheim","state":"CA","teams":["UC Irvine Anteaters","UC Davis Aggies"]}
+{"gameId":"1682630","_id":"lH073sbKZ94yhodF","date":{"$$date":1481072400000},"city":"Tallahassee","state":"FL","teams":["Florida State Seminoles","Southern Miss Golden Eagles"]}
+{"gameId":"1689508","_id":"lH5qUAdOcYdSa2q3","date":{"$$date":1484269200000},"city":"Norfolk","state":"VA","teams":["Old Dominion Monarchs","Southern Miss Golden Eagles"]}
+{"gameId":"2025159","_id":"lHLE50m9VcPFfPuD","date":{"$$date":1520186400000},"city":"Hamilton","state":"NY","teams":["Colgate Raiders","Holy Cross Crusaders"]}
+{"gameId":"1964077","_id":"lHny8X2X0K6Zqke6","date":{"$$date":1513535400000},"city":"Pittsburgh","state":"PA","teams":["Duquesne Dukes","North Carolina A&T Aggies"]}
+{"gameId":"1971342","_id":"lHp4MGFk9Yo5gWOI","date":{"$$date":1510880400000},"city":"Chicago","state":"IL","teams":["UIC Flames","Delaware State Hornets"]}
+{"gameId":"1961075","_id":"lHqWztjrP91XlFYZ","date":{"$$date":1518292800000},"city":"Raleigh","state":"NC","teams":["North Carolina State Wolfpack","North Carolina Tar Heels"]}
+{"gameId":"1732495","_id":"lIEKEc5rCoVGgaw4","date":{"$$date":1488675600000},"city":"Nashville","state":"TN","teams":["UT Martin Skyhawks","Jacksonville State Gamecocks"]}
+{"gameId":"1681767","_id":"lII5r3VrxhPsW00r","date":{"$$date":1482971400000},"city":"Bloomington","state":"IN","teams":["Indiana Hoosiers","Nebraska Cornhuskers"]}
+{"gameId":"1693203","_id":"lJNw4RmsZUvjLZwH","date":{"$$date":1485039600000},"city":"Hammond","state":"LA","teams":["Southeastern Louisiana Lions","Houston Baptist Huskies"]}
+{"gameId":"1961219","_id":"lJoMjSYFGmmsItpV","date":{"$$date":1512007200000},"city":"Fort Worth","state":"TX","teams":["TCU Horned Frogs","Belmont Bruins"]}
+{"gameId":"1974224","_id":"lKctzzloiB7sbNtJ","date":{"$$date":1520125200000},"city":"Orem","state":"UT","teams":["Utah Valley Wolverines","Seattle Redhawks"]}
+{"gameId":"1691409","_id":"lKmtia2CtJLVOp26","date":{"$$date":1479589200000},"city":"New York","state":"NY","teams":["Fordham Rams","Saint Peter's Peacocks"]}
+{"gameId":"1966101","_id":"lKosHjXBsartYPbT","date":{"$$date":1511312400000},"city":"Jacksonville","state":"FL","teams":["North Florida Ospreys","Edward Waters Tigers"]}
+{"gameId":"1692099","_id":"lKuzVAqD9caf4eXh","date":{"$$date":1485565200000},"city":"Chicago","state":"IL","teams":["UIC Flames","Northern Kentucky Norse"]}
+{"gameId":"1690393","_id":"lLcIWrsUlqH3IAkV","date":{"$$date":1487453400000},"city":"Buffalo","state":"NY","teams":["Buffalo Bulls","Miami (OH) RedHawks"]}
+{"gameId":"1688044","_id":"lLxxcyZciaxcYxJJ","date":{"$$date":1480131000000},"city":"Brooklyn","state":"NY","teams":["Richmond Spiders","Maryland Terrapins"]}
+{"gameId":"1694276","_id":"lMKL8Yk9zfV4yrAt","date":{"$$date":1480122000000},"city":"New Orleans","state":"LA","teams":["New Orleans Privateers","Florida College Falcons"]}
+{"gameId":"1961198","_id":"lMNy11IZ3cNrre7V","date":{"$$date":1515031200000},"city":"Norman","state":"OK","teams":["Oklahoma Sooners","Oklahoma State Cowboys"]}
+{"gameId":"1967760","_id":"lMj79oCc4uDuEqST","date":{"$$date":1514509200000},"city":"Provo","state":"UT","teams":["BYU Cougars","Portland Pilots"]}
+{"gameId":"1732515","_id":"lNDZGbs53ItQrqO1","date":{"$$date":1488767400000},"city":"Sioux Falls","state":"SD","teams":["Omaha Mavericks","Fort Wayne Mastodons"]}
+{"gameId":"1981391","_id":"lNKo9FtaCQTqdgSC","date":{"$$date":1511721720000},"city":"Portland","state":"OR","teams":["Ohio State Buckeyes","Butler Bulldogs"]}
+{"gameId":"1690724","_id":"lO53WSWa6OMOUOq6","date":{"$$date":1488067200000},"city":"Fort Collins","state":"CO","teams":["Colorado State Rams","San Diego State Aztecs"]}
+{"gameId":"1682033","_id":"lOJ7rgMz9VQlO4zg","date":{"$$date":1481410800000},"city":"Orlando","state":"FL","teams":["UCF Knights","Maryland Eastern Shore Hawks"]}
+{"gameId":"2032376","_id":"lOa0vytFce82Gx7D","date":{"$$date":1521072000000},"city":"Ypsilanti","state":"MI","teams":["Eastern Michigan Eagles","Niagara Purple Eagles"]}
+{"gameId":"1969428","_id":"lOf8UkYyZamxRXUS","date":{"$$date":1512345600000},"city":"Thibodaux","state":"LA","teams":["Nicholls Colonels","Idaho Vandals"]}
+{"gameId":"1980777","_id":"lOl29NjyxHLrDMvy","date":{"$$date":1511407800000},"city":"Las Vegas","state":"NV","teams":["Utah Runnin' Utes","UNLV Runnin' Rebels"]}
+{"gameId":"1682691","_id":"lOr9edlauVm1TJD2","date":{"$$date":1482973200000},"city":"Clemson","state":"SC","teams":["Clemson Tigers","UNCW Seahawks"]}
+{"gameId":"1966770","_id":"lOviVaJoysYjf25v","date":{"$$date":1514754000000},"city":"Valparaiso","state":"IN","teams":["Valparaiso Crusaders","Missouri State Bears"]}
+{"gameId":"2032380","_id":"lPQozf2hXQaXsIGT","date":{"$$date":1521158400000},"city":"Clarksville","state":"TN","teams":["Austin Peay Governors","Louisiana-Monroe Warhawks"]}
+{"gameId":"2025512","_id":"lPbSmmeLqTEbqRVk","date":{"$$date":1520119800000},"city":"Detroit","state":"MI","teams":["Wright State Raiders","Green Bay Phoenix"]}
+{"gameId":"1969676","_id":"lPwwfdeKfiIMO9Kt","date":{"$$date":1515114000000},"city":"Bozeman","state":"MT","teams":["Montana State Bobcats","Northern Colorado Bears"]}
+{"gameId":"1690763","_id":"lQ67oh7vvRXQ4qGS","date":{"$$date":1484186400000},"city":"Peoria","state":"IL","teams":["Bradley Braves","UNI Panthers"]}
+{"gameId":"1964895","_id":"lQmK5N53KeyDI7Ek","date":{"$$date":1512003600000},"city":"Terre Haute","state":"IN","teams":["Indiana State Sycamores","Air Force Falcons"]}
+{"gameId":"1693949","_id":"lQuTtAO4yK76KBJO","date":{"$$date":1479949200000},"city":"Loretto","state":"PA","teams":["Saint Francis U Red Flash","Longwood Lancers"]}
+{"gameId":"1961995","_id":"lQxNNNxwJtU3txUC","date":{"$$date":1516237200000},"city":"Gainesville","state":"FL","teams":["Florida Gators","Arkansas Razorbacks"]}
+{"gameId":"1962335","_id":"lRIvJrYgxJ2F45Xe","date":{"$$date":1512936000000},"city":"Athens","state":"OH","teams":["Ohio Bobcats","Western Kentucky Hilltoppers"]}
+{"gameId":"1689938","_id":"lRL9f9N0Htmu64VA","date":{"$$date":1487527200000},"city":"Boston","state":"MA","teams":["Boston University Terriers","Bucknell Bison"]}
+{"gameId":"1682731","_id":"lRYMJsuqPdhKvG1E","date":{"$$date":1484416800000},"city":"Louisville","state":"KY","teams":["Louisville Cardinals","Duke Blue Devils"]}
+{"gameId":"1693773","_id":"lRiWnNtkKvH33epk","date":{"$$date":1480467600000},"city":"Greensboro","state":"NC","teams":["UNCG Spartans","North Carolina A&T Aggies"]}
+{"gameId":"1693308","_id":"lRtnPk44aLHwRZtT","date":{"$$date":1487034000000},"city":"San Marcos","state":"TX","teams":["Texas State Bobcats","Arkansas State Red Wolves"]}
+{"gameId":"1690223","_id":"lRuUTA6iOrPSlsYs","date":{"$$date":1483059600000},"city":"Stockton","state":"CA","teams":["Pacific Tigers","Portland Pilots"]}
+{"gameId":"1681919","_id":"lRunoJdzMOCE2M9N","date":{"$$date":1479866400000},"city":"Tulsa","state":"OK","teams":["Tulsa Golden Hurricane","Oregon State Beavers"]}
+{"gameId":"1972878","_id":"lS3QLJxHLDGmMTWn","date":{"$$date":1518483600000},"city":"Lewisburg","state":"PA","teams":["Bucknell Bison","Colgate Raiders"]}
+{"gameId":"1688361","_id":"lSDk41Qpp0BehXTl","date":{"$$date":1480726800000},"city":"Bloomington","state":"IN","teams":["Indiana Hoosiers","SIUE Cougars"]}
+{"gameId":"2032324","_id":"lSY2WzeBdZD4YJmr","date":{"$$date":1521072000000},"city":"San Francisco","state":"CA","teams":["San Francisco Dons","Colgate Raiders"]}
+{"gameId":"1692955","_id":"lT2qKQA1oSNsJKbf","date":{"$$date":1480798800000},"city":"Oakland","state":"MI","teams":["Oakland Golden Grizzlies","Southern Utah Thunderbirds"]}
+{"gameId":"1970205","_id":"lTUaKieJXFaJ1rTh","date":{"$$date":1510362000000},"city":"Lynchburg","state":"VA","teams":["Liberty Flames","Clarks Summit Defenders"]}
+{"gameId":"1694393","_id":"lTd6LklqdpgY4EIf","date":{"$$date":1485225000000},"city":"Tallahassee","state":"FL","teams":["Florida A&M Rattlers","Maryland Eastern Shore Hawks"]}
+{"gameId":"1974327","_id":"lTgOQIFk3aO88eRd","date":{"$$date":1512090000000},"city":"Washington","state":"DC","teams":["Howard Bison","Central Pennsylvania College Knights"]}
+{"gameId":"1949447","_id":"lTwSPuc3rJMKVV00","date":{"$$date":1514944800000},"city":"Rosemont","state":"IL","teams":["Northwestern Wildcats","Nebraska Cornhuskers"]}
+{"gameId":"1682640","_id":"lUEIuD6pbwS2n1SH","date":{"$$date":1481252400000},"city":"Tallahassee","state":"FL","teams":["Florida State Seminoles","Nicholls Colonels"]}
+{"gameId":"1949542","_id":"lUaogW333auvqq4g","date":{"$$date":1519084800000},"city":"Rosemont","state":"IL","teams":["Northwestern Wildcats","Maryland Terrapins"]}
+{"gameId":"1968239","_id":"lUfD6gnL6Uvj0Pt1","date":{"$$date":1511560800000},"city":"Ithaca","state":"NY","teams":["Cornell Big Red","Toledo Rockets"]}
+{"gameId":"1682466","_id":"lUphCfp2BReDo9Nv","date":{"$$date":1483839000000},"city":"Philadelphia","state":"PA","teams":["Villanova Wildcats","Marquette Golden Eagles"]}
+{"gameId":"1682487","_id":"lV05EMlsYoeiZBRH","date":{"$$date":1485392400000},"city":"Washington","state":"DC","teams":["Georgetown Hoyas","Creighton Bluejays"]}
+{"gameId":"1684329","_id":"lVDf41Ryripcccj2","date":{"$$date":1479945600000},"city":"Riviera Maya","state":"","teams":["Utah State Aggies","Texas Tech Red Raiders"]}
+{"gameId":"1693601","_id":"lVZL2JcVRGqT3Rl0","date":{"$$date":1479513600000},"city":"Boston","state":"MA","teams":["Boston University Terriers","Northeastern Huskies"]}
+{"gameId":"1969158","_id":"lWK2V3bU144iGUnd","date":{"$$date":1519347600000},"city":"Arlington","state":"TX","teams":["UT Arlington Mavericks","Georgia Southern Eagles"]}
+{"gameId":"1694599","_id":"lWWktf1LV1z7BRTb","date":{"$$date":1487643000000},"city":"Baton Rouge","state":"LA","teams":["Southern University Jaguars","Alabama State Hornets"]}
+{"gameId":"1966115","_id":"lX6ObI1deLHpyQbE","date":{"$$date":1512003600000},"city":"Asheville","state":"NC","teams":["UNC Asheville Bulldogs","USC Upstate Spartans"]}
+{"gameId":"1692904","_id":"lXZCWKygkv86ybJu","date":{"$$date":1480554000000},"city":"Jonesboro","state":"AR","teams":["Arkansas State Red Wolves","Cleveland State Vikings"]}
+{"gameId":"1966704","_id":"lXq70EwAqFxHStAQ","date":{"$$date":1512853200000},"city":"Normal","state":"IL","teams":["Illinois State Redbirds","Murray State Racers"]}
+{"gameId":"1963588","_id":"lXxt4it4GTHz41WR","date":{"$$date":1513542600000},"city":"Providence","state":"RI","teams":["Providence Friars","Stony Brook Seawolves"]}
+{"gameId":"1693529","_id":"lYPvBxxeTs6aFwGE","date":{"$$date":1482195600000},"city":"Tulsa","state":"OK","teams":["Oral Roberts Golden Eagles","Little Rock Trojans"]}
+{"gameId":"1691288","_id":"lZ9E7dwUQb4XrDqR","date":{"$$date":1482973200000},"city":"Davidson","state":"NC","teams":["Davidson Wildcats","Hartford Hawks"]}
+{"gameId":"1693997","_id":"lZAo4DzKp1Zs9xcC","date":{"$$date":1482369300000},"city":"Brooklyn","state":"NY","teams":["LIU Brooklyn Blackbirds","Niagara Purple Eagles"]}
+{"gameId":"1973628","_id":"lZFyDTDLauusLfbM","date":{"$$date":1511118000000},"city":"Conway","state":"AR","teams":["Central Arkansas Bears","Alcorn State Braves"]}
+{"gameId":"1967767","_id":"lZbE07W6sxI51F4A","date":{"$$date":1516496400000},"city":"Provo","state":"UT","teams":["BYU Cougars","San Diego Toreros"]}
+{"gameId":"1969220","_id":"laAepxjdXuIvyaqr","date":{"$$date":1515546300000},"city":"Mobile","state":"AL","teams":["South Alabama Jaguars","Trinity Baptist Eagles"]}
+{"gameId":"1970919","_id":"laBOUt9lvuLH4RIF","date":{"$$date":1512090000000},"city":"Charleston","state":"SC","teams":["Charleston Cougars","Western Carolina Catamounts"]}
+{"gameId":"1682907","_id":"lbYnkRpTt1WAQ8WA","date":{"$$date":1488664800000},"city":"Syracuse","state":"NY","teams":["Syracuse Orange","Georgia Tech Yellow Jackets"]}
+{"gameId":"1964184","_id":"lcDRG5XyLjbQAkRO","date":{"$$date":1512003600000},"city":"Albany","state":"NY","teams":["Siena Saints","St. Bonaventure Bonnies"]}
+{"gameId":"1689443","_id":"ld4Ka5etlwganG0R","date":{"$$date":1487293200000},"city":"Huntington","state":"WV","teams":["Marshall Thundering Herd","UAB Blazers"]}
+{"gameId":"1687046","_id":"ld7PwOzzeAC30dgD","date":{"$$date":1485993600000},"city":"St. Louis","state":"MO","teams":["Saint Louis Billikens","George Mason Patriots"]}
+{"gameId":"1981385","_id":"ldbkW7l2sEZVzLME","date":{"$$date":1511481600000},"city":"Portland","state":"OR","teams":["Oregon Ducks","Connecticut Huskies"]}
+{"gameId":"1972903","_id":"ldw5mwtZnEGmwvKK","date":{"$$date":1515960000000},"city":"Baltimore","state":"MD","teams":["Loyola Maryland Greyhounds","Lafayette Leopards"]}
+{"gameId":"1969391","_id":"le5mo40Ulftd87Sh","date":{"$$date":1518379200000},"city":"Burlington","state":"VT","teams":["Vermont Catamounts","Massachusetts-Lowell River Hawks"]}
+{"gameId":"1962025","_id":"leRU2QWcYCtWVFnI","date":{"$$date":1518055200000},"city":"Auburn","state":"AL","teams":["Auburn Tigers","Texas A&M Aggies"]}
+{"gameId":"1966100","_id":"leqczhdPsKpxgUZD","date":{"$$date":1519347600000},"city":"Spartanburg","state":"SC","teams":["USC Upstate Spartans","NJIT Highlanders"]}
+{"gameId":"1969150","_id":"lfPIUzHZePvLt1mN","date":{"$$date":1514596500000},"city":"Troy","state":"AL","teams":["Troy Trojans","Georgia Southern Eagles"]}
+{"gameId":"1689434","_id":"lg6ELNW71pkdY40C","date":{"$$date":1482192000000},"city":"Huntington","state":"WV","teams":["Marshall Thundering Herd","West Virginia Wesleyan Bobcats"]}
+{"gameId":"1963519","_id":"lgKwIbIV7OSgGdwY","date":{"$$date":1512612000000},"city":"Chicago","state":"IL","teams":["DePaul Blue Demons","Central Connecticut State Blue Devils"]}
+{"gameId":"2014249","_id":"lgX4gdCVFLFTxRRf","date":{"$$date":1518570000000},"city":"Harrisonburg","state":"VA","teams":["James Madison Dukes","UNCW Seahawks"]}
+{"gameId":"1690612","_id":"lhYGQdmsIsYLoTm2","date":{"$$date":1487469600000},"city":"Albany","state":"NY","teams":["Siena Saints","Niagara Purple Eagles"]}
+{"gameId":"1942448","_id":"lho73fv9AEGIHfm7","date":{"$$date":1513990800000},"city":"Syracuse","state":"NY","teams":["Syracuse Orange","St. Bonaventure Bonnies"]}
+{"gameId":"1962290","_id":"lhycqmNotD2zKvCe","date":{"$$date":1515718800000},"city":"Birmingham","state":"AL","teams":["UAB Blazers","Southern Miss Golden Eagles"]}
+{"gameId":"1949488","_id":"li1MXAPVyUH3aidj","date":{"$$date":1516672800000},"city":"Columbus","state":"OH","teams":["Ohio State Buckeyes","Nebraska Cornhuskers"]}
+{"gameId":"1687140","_id":"li1UQk5XEaqAABiP","date":{"$$date":1488416400000},"city":"Amherst","state":"MA","teams":["Massachusetts Minutemen","Richmond Spiders"]}
+{"gameId":"1965175","_id":"liFCTUsByLssrTSN","date":{"$$date":1518656400000},"city":"Albuquerque","state":"NM","teams":["New Mexico Lobos","Utah State Aggies"]}
+{"gameId":"1690685","_id":"licbpJSGaFVjGdcj","date":{"$$date":1485651600000},"city":"Logan","state":"UT","teams":["Utah State Aggies","Fresno State Bulldogs"]}
+{"gameId":"1682866","_id":"lii3O4tYHEFXHuLJ","date":{"$$date":1487811600000},"city":"Winston-Salem","state":"NC","teams":["Wake Forest Demon Deacons","Pittsburgh Panthers"]}
+{"gameId":"1689430","_id":"lj3zkwJWwp4onNPu","date":{"$$date":1480802400000},"city":"Richmond","state":"KY","teams":["Eastern Kentucky Colonels","Marshall Thundering Herd"]}
+{"gameId":"1944152","_id":"ljNIOE9w9RGoC5r4","date":{"$$date":1510518600000},"city":"Columbus","state":"OH","teams":["Ohio State Buckeyes","Radford Highlanders"]}
+{"gameId":"1690644","_id":"ljRwfqPijRs6aAHn","date":{"$$date":1483210800000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","Wyoming Cowboys"]}
+{"gameId":"1690089","_id":"lk4bn7jwroJtWb6p","date":{"$$date":1484433000000},"city":"Radford","state":"VA","teams":["Radford Highlanders","Liberty Flames"]}
+{"gameId":"1980237","_id":"lkAVpr4QUHTAk9kt","date":{"$$date":1510959600000},"city":"New York","state":"NY","teams":["Washington Huskies","Virginia Tech Hokies"]}
+{"gameId":"1687120","_id":"lkZDxNvIGCxFnwNi","date":{"$$date":1488052800000},"city":"Kingston","state":"RI","teams":["Rhode Island Rams","VCU Rams"]}
+{"gameId":"1942476","_id":"lkkIg5KyaXmUtJ3m","date":{"$$date":1514053800000},"city":"Winston-Salem","state":"NC","teams":["Wake Forest Demon Deacons","Tennessee Volunteers"]}
+{"gameId":"1969806","_id":"llnJaA6k5drWYa3d","date":{"$$date":1518310800000},"city":"Ogden","state":"UT","teams":["Weber State Wildcats","Northern Colorado Bears"]}
+{"gameId":"1690277","_id":"lmI5B9VLAiDi5Puj","date":{"$$date":1486245600000},"city":"San Diego","state":"CA","teams":["San Diego Toreros","Saint Mary's Gaels"]}
+{"gameId":"1694543","_id":"lmSjLXmdRqPRnVgt","date":{"$$date":1483407000000},"city":"Montgomery","state":"AL","teams":["Alabama State Hornets","Grambling State Tigers"]}
+{"gameId":"1681807","_id":"lmXbCuAdJ427LhW7","date":{"$$date":1485021600000},"city":"West Lafayette","state":"IN","teams":["Purdue Boilermakers","Penn State Nittany Lions"]}
+{"gameId":"1733531","_id":"lmtGOiYyIkqQ27Gp","date":{"$$date":1489091460000},"city":"Brooklyn","state":"NY","teams":["Louisville Cardinals","Duke Blue Devils"]}
+{"gameId":"1964032","_id":"lmuWgdNghEwIolU3","date":{"$$date":1520107200000},"city":"Philadelphia","state":"PA","teams":["Saint Joseph's Hawks","La Salle Explorers"]}
+{"gameId":"1690816","_id":"ln4QMkU00eQrYvEV","date":{"$$date":1487466000000},"city":"Des Moines","state":"IA","teams":["Drake Bulldogs","Missouri State Bears"]}
+{"gameId":"1974479","_id":"lndysFsdAxXVcceJ","date":{"$$date":1518305400000},"city":"Baton Rouge","state":"LA","teams":["Southern University Jaguars","UAPB Golden Lions"]}
+{"gameId":"1732866","_id":"lnk3XsKtx9CXhpPP","date":{"$$date":1488681120000},"city":"Asheville","state":"NC","teams":["East Tennessee State Buccaneers","Mercer Bears"]}
+{"gameId":"1732460","_id":"loQM6iPv8gvgiNC5","date":{"$$date":1488659820000},"city":"North Charleston","state":"SC","teams":["William & Mary Tribe","Elon Phoenix"]}
+{"gameId":"1694468","_id":"loYjgDLi6MHvKfnx","date":{"$$date":1480798800000},"city":"Eugene","state":"OR","teams":["Oregon Ducks","Savannah State Tigers"]}
+{"gameId":"2025160","_id":"logfXfhJpcUKc424","date":{"$$date":1519952400000},"city":"Lewisburg","state":"PA","teams":["Bucknell Bison","Loyola Maryland Greyhounds"]}
+{"gameId":"1969759","_id":"lolVgeSL6EvzbJjk","date":{"$$date":1515873600000},"city":"Cedar City","state":"UT","teams":["Southern Utah Thunderbirds","Northern Arizona Lumberjacks"]}
+{"gameId":"1974471","_id":"lpBUdJmq08mBvPto","date":{"$$date":1520119800000},"city":"Baton Rouge","state":"LA","teams":["Southern University Jaguars","Prairie View A&M Panthers"]}
+{"gameId":"1682159","_id":"lqLAypIeBYqgwDgp","date":{"$$date":1487210400000},"city":"Dallas","state":"TX","teams":["SMU Mustangs","Tulane Green Wave"]}
+{"gameId":"1965997","_id":"lqmHPbAO8U5daXqx","date":{"$$date":1516842000000},"city":"Jacksonville","state":"FL","teams":["North Florida Ospreys","FGCU Eagles"]}
+{"gameId":"1684308","_id":"lqy1VJ1XN45l3om1","date":{"$$date":1479756600000},"city":"Estero","state":"FL","teams":["Bradley Braves","Hofstra Pride"]}
+{"gameId":"1966292","_id":"lreO3DNsrZhBSBbL","date":{"$$date":1515117600000},"city":"New Orleans","state":"LA","teams":["Tulane Green Wave","SMU Mustangs"]}
+{"gameId":"1949466","_id":"ls5jO0kkPFzy3Gqc","date":{"$$date":1515718800000},"city":"Columbus","state":"OH","teams":["Ohio State Buckeyes","Maryland Terrapins"]}
+{"gameId":"1694140","_id":"lsKuJuHMUF5rPsqI","date":{"$$date":1480467900000},"city":"Pocatello","state":"ID","teams":["Idaho State Bengals","Lamar Cardinals"]}
+{"gameId":"1966036","_id":"lsfZ9ckk9DLbJlUN","date":{"$$date":1514509200000},"city":"Macon","state":"GA","teams":["Mercer Bears","Kennesaw State Owls"]}
+{"gameId":"1689921","_id":"ltmgYx3rGvT4dvAA","date":{"$$date":1486429200000},"city":"Lewisburg","state":"PA","teams":["Bucknell Bison","Holy Cross Crusaders"]}
+{"gameId":"1690250","_id":"lu1tH2TVxGY5ksAS","date":{"$$date":1484442000000},"city":"Spokane","state":"WA","teams":["Gonzaga Bulldogs","Saint Mary's Gaels"]}
+{"gameId":"1693452","_id":"luAl3VwTPicU6UzP","date":{"$$date":1480192200000},"city":"Las Vegas","state":"NV","teams":["Northern Arizona Lumberjacks","Jacksonville State Gamecocks"]}
+{"gameId":"1980628","_id":"luIrQjEwG8nM1TZ9","date":{"$$date":1511142060000},"city":"St. James","state":"","teams":["Fordham Rams","Tulane Green Wave"]}
+{"gameId":"1965127","_id":"luYvo6LOaiiCGSIR","date":{"$$date":1515031200000},"city":"San Jose","state":"CA","teams":["San Jose State Spartans","UNLV Runnin' Rebels"]}
+{"gameId":"1942457","_id":"lvDZVkcVH6c2X7fc","date":{"$$date":1510956000000},"city":"Richmond","state":"VA","teams":["VCU Rams","Virginia Cavaliers"]}
+{"gameId":"1682131","_id":"lvs7bX8XAJ0jpWEn","date":{"$$date":1485628200000},"city":"Tulsa","state":"OK","teams":["Tulsa Golden Hurricane","UCF Knights"]}
+{"gameId":"1733488","_id":"lw3PkWb7vNdSdjFD","date":{"$$date":1489111200000},"city":"Birmingham","state":"AL","teams":["Old Dominion Monarchs","Marshall Thundering Herd"]}
+{"gameId":"1944108","_id":"lwMqZTa42yDQT1q0","date":{"$$date":1513818000000},"city":"Morgantown","state":"WV","teams":["West Virginia Mountaineers","Coppin State Eagles"]}
+{"gameId":"1733661","_id":"lwppeqDFAEZBa0SS","date":{"$$date":1489089600000},"city":"Las Vegas","state":"NV","teams":["Utah Valley Wolverines","Seattle Redhawks"]}
+{"gameId":"1688831","_id":"lxJoIa20uBGmb9KC","date":{"$$date":1479513600000},"city":"Fort Worth","state":"TX","teams":["TCU Horned Frogs","Jacksonville State Gamecocks"]}
+{"gameId":"1690838","_id":"lxUCgLVieqqupyFH","date":{"$$date":1483219800000},"city":"Fairfield","state":"CT","teams":["Sacred Heart Pioneers","Saint Francis U Red Flash"]}
+{"gameId":"1690245","_id":"lxdE0mLbn9yurJVH","date":{"$$date":1484272800000},"city":"Portland","state":"OR","teams":["Portland Pilots","Saint Mary's Gaels"]}
+{"gameId":"1962199","_id":"lxgocKt9Ki2VxpjN","date":{"$$date":1510621200000},"city":"Murray","state":"KY","teams":["Murray State Racers","Middle Tennessee Blue Raiders"]}
+{"gameId":"1962055","_id":"ly3h3nCO8ZhOkfwo","date":{"$$date":1519871400000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Texas A&M Aggies"]}
+{"gameId":"1965109","_id":"lyILylhDWTGtKmbT","date":{"$$date":1513821600000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","Mississippi Valley State Delta Devils"]}
+{"gameId":"1687785","_id":"lyWcl3yplqn5BMjw","date":{"$$date":1483660800000},"city":"Los Angeles","state":"CA","teams":["UCLA Bruins","California Golden Bears"]}
+{"gameId":"1973781","_id":"lysRQDwxzUAU8ZZI","date":{"$$date":1519518240000},"city":"Natchitoches","state":"LA","teams":["Northwestern State Demons","Southeastern Louisiana Lions"]}
+{"gameId":"1690690","_id":"lz0YTRiAtlBUEyDP","date":{"$$date":1486000800000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","New Mexico Lobos"]}
+{"gameId":"1961972","_id":"m0D5PPI8Hs4mOiS9","date":{"$$date":1515893400000},"city":"Baton Rouge","state":"LA","teams":["LSU Tigers","Alabama Crimson Tide"]}
+{"gameId":"1974228","_id":"m0MClKLuJkiKgvtZ","date":{"$$date":1514682000000},"city":"Edinburg","state":"TX","teams":["Texas-Rio Grande Valley Vaqueros","Hampton Pirates"]}
+{"gameId":"1694653","_id":"m0yMcsr5WAeVbPld","date":{"$$date":1486855800000},"city":"Grambling","state":"LA","teams":["Grambling State Tigers","Texas Southern Tigers"]}
+{"gameId":"1963507","_id":"m1PnJrZAg7vL4JFb","date":{"$$date":1516761000000},"city":"Jamaica","state":"NY","teams":["St. John's Red Storm","Creighton Bluejays"]}
+{"gameId":"1693677","_id":"m1ZZuV4IoJZYXKMH","date":{"$$date":1479506400000},"city":"High Point","state":"NC","teams":["North Dakota State Bison","Navy Midshipmen"]}
+{"gameId":"1685946","_id":"m1okG8TIJsACrMdG","date":{"$$date":1484708400000},"city":"Athens","state":"GA","teams":["Georgia Bulldogs","Vanderbilt Commodores"]}
+{"gameId":"1691922","_id":"m2JlHfHHDM21CfWD","date":{"$$date":1482454800000},"city":"Long Beach","state":"CA","teams":["Long Beach State 49ers","Colorado State Rams"]}
+{"gameId":"1970929","_id":"m2S16IZBZwc0cbuG","date":{"$$date":1516323600000},"city":"Charleston","state":"SC","teams":["Charleston Cougars","UNCW Seahawks"]}
+{"gameId":"1681774","_id":"m2WsJmQrjNl0JJSj","date":{"$$date":1483491600000},"city":"Bloomington","state":"IN","teams":["Indiana Hoosiers","Wisconsin Badgers"]}
+{"gameId":"2028413","_id":"m2rIkss2YKTCEZ2T","date":{"$$date":1520442000000},"city":"Las Vegas","state":"NV","teams":["UNLV Runnin' Rebels","Air Force Falcons"]}
+{"gameId":"1685957","_id":"m3OsNsfQvCykPw40","date":{"$$date":1485304200000},"city":"Columbia","state":"SC","teams":["South Carolina Gamecocks","Auburn Tigers"]}
+{"gameId":"1693135","_id":"m42k6igsespUDDKn","date":{"$$date":1487898000000},"city":"Williamsburg","state":"VA","teams":["William & Mary Tribe","Hofstra Pride"]}
+{"gameId":"1693615","_id":"m4DgljacUFJfu3Oz","date":{"$$date":1478912400000},"city":"Lewisburg","state":"PA","teams":["Bucknell Bison","Manhattan Jaspers"]}
+{"gameId":"1971394","_id":"m4SViE1ic089QUpt","date":{"$$date":1518307200000},"city":"Providence","state":"RI","teams":["Brown Bears","Columbia Lions"]}
+{"gameId":"1692216","_id":"m4q7aIPGY5GXVlAR","date":{"$$date":1487980800000},"city":"Green Bay","state":"WI","teams":["Green Bay Phoenix","Oakland Golden Grizzlies"]}
+{"gameId":"1691687","_id":"m4zOTNifjvEZvsy5","date":{"$$date":1486839600000},"city":"Charleston","state":"IL","teams":["Eastern Illinois Panthers","Southeast Missouri State Redhawks"]}
+{"gameId":"2032296","_id":"m52PlOqQtt7EHsph","date":{"$$date":1521509400000},"city":"Los Angeles","state":"CA","teams":["USC Trojans","Western Kentucky Hilltoppers"]}
+{"gameId":"1685897","_id":"m58I7JRYih0anNrW","date":{"$$date":1488661200000},"city":"Austin","state":"TX","teams":["Texas Longhorns","Baylor Bears"]}
+{"gameId":"1682154","_id":"m5K1Lpk9RvNUMUUc","date":{"$$date":1486933200000},"city":"Dallas","state":"TX","teams":["SMU Mustangs","Cincinnati Bearcats"]}
+{"gameId":"1694051","_id":"m5pmX6vKKCqkm1Ir","date":{"$$date":1480186800000},"city":"Burlington","state":"VT","teams":["Vermont Catamounts","Yale Bulldogs"]}
+{"gameId":"2027170","_id":"m5tpMuq8DHTuQL1N","date":{"$$date":1520383440000},"city":"Norfolk","state":"VA","teams":["North Carolina Central Eagles","Coppin State Eagles"]}
+{"gameId":"1981396","_id":"m6ilFVOHWZgt04ZY","date":{"$$date":1511556000000},"city":"Portland","state":"OR","teams":["Texas Longhorns","Duke Blue Devils"]}
+{"gameId":"1688063","_id":"m6kySMyq1X0OB6uv","date":{"$$date":1479776400000},"city":"Champaign","state":"IL","teams":["Illinois Fighting Illini","Winthrop Eagles"]}
