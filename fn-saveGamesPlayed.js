@@ -1,5 +1,10 @@
 module.exports = function saveGamesPlayed(gamesArray, datastore, cb) {
 
+    if (!gamesArray) {
+        cb && cb();
+        return;
+    }
+    
     var gamesInsert = gamesArray.map((id) => {
         return {
             'gameId': id.toString()

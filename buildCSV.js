@@ -1,22 +1,45 @@
 var Datastore = require('nedb'),
     db = new Datastore({
-        filename: 'data-games',
+        filename: 'db-games',
         autoload: true
     });
 gameData = new Datastore({
-    filename: 'data-teams',
+    filename: 'db-stats',
     autoload: true
 });
 
-db.find({}).exec(function (err, docs) {
+db.find({
+    gameId: '1981773'
+}).exec(function (err, docs) {
     docs.map(function (d) {
         gameData.find({
-            name: d.teams[0],
-            //date:{ $lt: d.date }
+            name: new RegExp("("+d.teams[0]+")|("+d.teams[1]+")"),
+            date:{ $lt: d.date }
         }).exec((err, docs) => {
-            if (docs[0] && docs[0].name == 'Maryland Terrapins') {
-                console.log(d.gameId, d.date, docs[0] && docs[0].name, docs.length);
-            }
+            console.log(docs, docs.length);
+            /*{ gameId: '1982007',
+    date: 2017-11-11T01:00:00.000Z,
+    'location-type': 'home',
+    name: 'FIU Golden Panthers',
+    score: 70,
+    conference: 'Conference USA',
+    wins: 1,
+    losses: 0,
+    fgm: 25,
+    fga: 55,
+    '3pm': 10,
+    '3pa': 24,
+    ftm: 10,
+    fta: 23,
+    oreb: 10,
+    dreb: 22,
+    treb: 4,
+    ast: 15,
+    blk: 1,
+    to: 11,
+    pf: 19,
+    poss: 52.125,
+    _id: 'qlwhPOz7tNirwJzf' }*/
         });
     })
 });
