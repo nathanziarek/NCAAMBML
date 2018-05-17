@@ -6,7 +6,7 @@ module.exports = function saveGameStats(dirtyStats, gamesDs, statsDs, cb) {
             'date': new Date(dirtyStats.start.local),
             'city': dirtyStats.venue && dirtyStats.venue.city || '',
             'state': dirtyStats.venue && (dirtyStats.venue.state && dirtyStats.venue.state.abbreviation || ''),
-            'teams': [dirtyStats.teams[0].title, dirtyStats.teams[1].title]
+            'teams': [{score: dirtyStats.teams[0].score, name: dirtyStats.teams[0].title, location: dirtyStats.teams[0].location.type}, {score: dirtyStats.teams[1].score, name: dirtyStats.teams[1].title, location: dirtyStats.teams[1].location.type}]
         }
     }, {}, function (err, numReplaced) {
         var toInsert = [];

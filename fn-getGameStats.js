@@ -39,6 +39,14 @@ module.exports = function getGameStats(gameId, cb) {
             return;
         }
 
+        if ((data.teams[0] && data.teams[0].college_sub_division.name == "NCAA Division II") || (data.teams[1] && data.teams[1].college_sub_division.name == "NCAA Division II")) {
+            cb && cb({
+                league: false,
+                id: gameId
+            })
+            return;
+        }
+
         cb && cb(data);
 
     })

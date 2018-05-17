@@ -20,5 +20,5 @@ module.exports = function getGameData(date, cb) {
             cb && cb(false)
         }
 
-    });
+    }, true);
 }

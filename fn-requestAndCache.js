@@ -2,7 +2,7 @@ var request = require('request');
 var fs = require('fs-extra');
 var md5 = require('md5');
 
-module.exports = function requestAndCache(url, cb, skipOnCache = true) {
+module.exports = function requestAndCache(url, cb, skipOnCache = false) {
     var file = './cache/' + md5(url) + '.json';
 
     fs.pathExists(file, (err, exists) => {
