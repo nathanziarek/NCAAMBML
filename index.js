@@ -14,7 +14,7 @@ var saveGamesPlayed = require('./fn-saveGamesPlayed');
 var saveGameStats = require('./fn-saveGameStats');
 
 /* Settings */
-var startDate = new Date('October 1, 2016');
+var startDate = new Date('October 1, 2014');
 var endDate = new Date('April 15, 2018');
 /* ******** */
 
