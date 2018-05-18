@@ -1,4 +1,4 @@
-home_score,home_wins,home_losses,home_fgm,home_fga,home_3pm,home_3pa,home_ftm,home_fta,home_oreb,home_dreb,home_treb,home_ast,home_blk,home_to,home_pf,away_poss,away_score,away_wins,away_losses,away_fgm,away_fga,away_3pm,away_3pa,away_ftm,away_fta,away_oreb,away_dreb,away_treb,away_ast,away_blk,away_to,away_pf,away_poss,winner
+home_score,home_wins,home_losses,home_fgm,home_fga,home_3pm,home_3pa,home_ftm,home_fta,home_oreb,home_dreb,home_treb,home_ast,home_blk,home_to,home_pf,home_poss,away_score,away_wins,away_losses,away_fgm,away_fga,away_3pm,away_3pa,away_ftm,away_fta,away_oreb,away_dreb,away_treb,away_ast,away_blk,away_to,away_pf,away_poss,winner
 71,5,18,24,56,6,18,17,23,10,25,4,11,5,16,19,57,82,21,5,30,60,7,18,16,23,12,23,3,15,3,16,23,62,away
 82,4,1,30,63,6,20,15,23,12,28,2,16,5,13,23,62,68,3,2,25,56,7,19,11,16,9,21,2,13,2,11,15,54,home
 77,10,14,28,64,7,22,15,22,14,26,3,14,4,14,20,58,66,12,12,22,53,8,21,14,19,9,24,3,11,3,12,17,50,away

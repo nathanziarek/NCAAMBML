@@ -30,7 +30,7 @@ csvWriter.write([
     'home_blk',
     'home_to',
     'home_pf',
-    'away_poss',
+    'home_poss',
     'away_score',
     'away_wins',
     'away_losses',
