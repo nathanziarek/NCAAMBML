@@ -10,7 +10,7 @@ var Datastore = require('nedb'),
 
 var stringify = require('csv-stringify');
 var fs = require('fs-extra')
-var csvWriter = fs.createWriteStream('fileForML-try1.csv', {
+var csvWriter = fs.createWriteStream('fileForML-try2.csv', {
     flags: 'a' // 'a' means appending (old data will be preserved)
 });
 csvWriter.write([

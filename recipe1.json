@@ -1,0 +1,15 @@
+{
+    "groups": {
+        "home_data": "group('home_wins', 'home_losses', 'home_fgm', 'home_fga', 'home_3pm', 'home_3pa', 'home_ftm', 'home_fta', 'home_oreb', 'home_dreb', 'home_treb', 'home_ast', 'home_blk', 'home_to', 'home_pf','home_poss')",
+        "away_data": "group('away_wins', 'away_losses', 'away_fgm', 'away_fga', 'away_3pm', 'away_3pa', 'away_ftm', 'away_fta', 'away_oreb', 'away_dreb', 'away_treb', 'away_ast', 'away_blk', 'away_to', 'away_pf','away_poss')"
+    },
+    "assignments": {
+    },
+    "outputs": [
+        "ALL_CATEGORICAL",
+        "home_data",
+        "away_data",
+        "normalize('home_score')",
+        "normalize('away_score')"
+    ]
+}
